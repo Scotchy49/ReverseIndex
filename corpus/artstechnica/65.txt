@@ -1,0 +1,75 @@
+﻿So there was this article on the Internet recently about how ad blocking is devastating to sites that you love. You may have read it and there's a good chance that you participated in the frank and lively discussion that took place afterwards.
+
+One of the things we learned from all of this is that not all people who use ad blockers are actually out to block our ads, and that many of you didn't realize that blocking ads hurt us and the other sites you love. Many care deeply about their privacy, personal information, and the well-being of their computers. Many were more than happy to unblock Ars, but many others had difficulty doing so due to the complicated nature of many ad blocking solutions. Dozens of you asked for help, so here it is.
+
+In the first of many articles we plan to produce about these topics, we've attempted to collect information on how an informed Web user such as yourself can safely and responsibly whitelist websites that you support and trust. This can be extremely easy much of the time, but when you have multiple plug-ins competing to block resources—and if you want to be extra paranoid—the configuration process can be a little daunting, even for the nerdiest of us.
+
+We've also put together a quick video tutorial that explains how to configure AdBlock Plus and NoScript that also explains a lot of what's covered in this article. If you learn better from watching, then that might be the way for you. The video demonstrates that the below technique works and shows you how to enter only one of the rules below. It's left as an exercise to the reader to input as many of the rules as he or she likes.
+
+The video below is, of course, embedded as Flash, so you might have to do some browser finagling just to watch. You can watch it directly on Vimeo here (which supports HTML5 video mode), or download the source H.264 QuickTime file here.
+
+AdBlock Plus
+
+AdBlock Plus makes it extremely easy to whitelist a domain. Go to arstechnica.com and right-click on the large, red ABP stop sign icon. Pick "Disable on arstechnica.com."
+
+Done! A lot of people use more than just one method though. The second most popular of these are NoScript.
+
+NoScript
+
+NoScript can be extremely difficult to configure, so it'll need a little more explaining. The absolute easiest way to whitelist Ars is to add the following domains to your whitelist. You can do this through right-clicking on the small NoScript icon in your status bar and picking the following domains one-by-one, or by entering the NoScript preferences and highlighting the 'Whitelist' tab.
+
+arstechnica.com—This one should be obvious.
+doubleclick.net—This is the domain of the ad delivery and tracking system where we set up our ads and upload the images. DoubleClick (owned by Google) lets us put a start and stop date on the campaigns and set them up to only run for a fixed number of impressions.
+2mdn.net—This is the domain that DoubleClick uses to serve ad images and sometimes flash files.
+
+Doing only this will whitelist these domains across the entire Internet. Some people are OK with this, and some are most definitely not. If you'd like to lock things down further, you need to step outside the whitelist and use an advanced feature of NoScript called ABE.
+
+ABE stands for Application Boundry Enforcer and offers the ultimate amount of configurability when it comes to filtering content on the Web. ABE has a complex grammar that amounts to a firewall, and by combining rules an individual can allow or deny an infinite number of things inside their browser.
+
+In this instance, we'll be using ABE to allow certain resources to load from arstechnica.com but to be denied when visiting any other domain. This technique is demonstrated in a simple example in the NoScript FAQ item 8.10. This FAQ item also tells us something extremely important for using ABE:
+
+"[s]ince ABE's rule[s] work independently from NoScript's permissions, you need to "Allow safedomain.com" in NoScript's menu for [this] to work."
+
+This means we'll need to add the above domains to our whitelist. Those are: arstechnica.com, doubleclick.net, and 2mdn.net. Don't panic! What we'll be doing next is adding strict ABE rules which will simulate the standard blocking behavior of NoScript, but with a small twist.
+
+First, here's the set of ABE rules we'll be using. People who are motivated to figure it out on their own or who know what they're doing can take these and run with them. Rules updated on Mar 11, 2010 at 14:55 CT:
+
+# doubleclick is where we input campaigns and upload ads to be served.  
+# I've since broken this out these two doubleclick rules to be clearer and 
+#     more explicit
+
+Site http://ad.doubleclick.net/adj/ars.dart/
+Accept from arstechnica.com *.arstechnica.com
+Deny
+
+Site doubleclick.net *.doubleclick.net
+Deny
+
+#google-analytics.com if you want to help us see what sections of ars you visit
+Site google-analytics.com *.google-analytics.com
+Accept from arstechnica.com *.arstechnica.com
+Deny
+
+Site http://s0.2mdn.net/2571327/
+Accept from arstechnica.com *.arstechnica.com
+Deny
+If you've ever configured a firewall, these might look a little similar. Let's break these down in turn. The first thing to know is that each rule set is processed from the top down. Let's use the first as our example.
+
+Site http://ad.doubleclick.net/adj/ars.dart/
+This first line tells NoScript that we're specifically looking for content served from the domain ad.doubleclick.net. Furthermore, we're really looking only for content served from http://ad.doubleclick.net/adj/ars.dart/. This is important because even though we'll be locking this rule down to our domain, this goes one step further. By adding the ars.dart path here, we're explicitly saying we'll only accept resources specific to the Ars Technica DoubleClick account.
+
+This is the account which only Ars Technica and Condé Nast Digital employees have access to so that they can log in and upload assets for ad campaigns.
+
+Accept from arstechnica.com *.arstechnica.com
+This line means that we're only going to allow the above rule to apply if we're on arstechnica.com or an Ars Technica subdomain such as jobs.arstechnica.com.
+
+Deny
+Site doubleclick.net *.doubleclick.net
+Deny
+The final line and second ruleset are the most important. These tell the ABE system that for every other domain on the Internet, we deny the right for these resources to load.
+
+We've listed three sets of rules above. One for DoubleClick (which we just detailed here), one for Google Analytics, and one for 2mdn.net—this is the domain ad assets like images are served from. What's important here is that for each, we're only allowing them to load if we're on the Ars Technica domain.
+
+You don't have to input all of these rule sets. To get all Ars ads, you'd only need to add the DoubleClick and 2mdn.net rules. However, I've included another for Google Analytics. I'll explain later why you might want to add this one as well.
+
+Thanks to Rathum, who clued me into ABE rules in this comment.

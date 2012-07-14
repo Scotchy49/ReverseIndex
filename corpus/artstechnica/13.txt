@@ -1,0 +1,27 @@
+When Apple published its lists of top free and paid iPhone apps of 2010, the Internet got to talking about whether the apps in question deserved the honor. Others argued about apps that they felt should have been on the lists but weren't, and of course, users of other smartphone platforms wanted to get in on the action too.
+
+We here at Ars felt the same way—we use a number of different mobile apps every day that have earned their way onto our home screens. So, we decided to make our own top 10 lists of apps: one for iOS and one for Android (don't worry, each list was made only by the people who use that platform). Starting with Android, here are our favorite apps of 2010, in no particular order. 
+
+Ars staff picks: top 10 Android apps of 2010
+
+Aldiko Book Reader: If you love classic literature, the Aldiko Premium Book Reader is a dangerous and wonderful thing. It's just $2.99, easy to download, and easy to install. The app has great adjustments for day and night reading, and used in tandem with our nice big Droid X screens, the world of public domain books is at our fingertips.
+
+"Tunein Radio: A terrific app that keeps you in touch with every terrestrial radio station from here to Bulgaria. We're not kidding. Just type ""Bulgaria"" on the search window and you're there. You can also search for specific songs and Tunein will get you to the kinds of stations that play them. Or you can just hit the ""local"" button and all your local stations will show up. If you want talk radio, the options include ""conservative,"" ""progressive,"" ""technology,"" ""sports,"" ""religious,"" and ""Public/NPR."" There's a big range of music format options too, plus Internet-only streamers."
+
+eBuddy: eBuddy is our favorite Android instant messaging application. It's got a nice, friendly look and handles Facebook, AOL, Yahoo, MSN, MySpace, GTalk, and ICQ just fine. eBuddy makes it easy to log in and out, sort your buddies, and gives you got lots of options for lights, sounds, and saving your battery when the app is in the background.
+
+LauncherPro: An enhanced Android home screen that offers a multitude of useful options, sophisticated Sense-like widgets, and new features such as a configurable dock and support for widget resizing.
+
+Transdroid: An open source BitTorrent utility that allows users to monitor and control remote BitTorrent downloads. It is compatible with a number of popular BitTorrent clients, including uTorrent, RTorrent, and Transmission.
+
+AndFTP: A simple SFTP/SCP/FTP client for Android that that makes it easy to transfer files between your phone and a remote computer. It works well over 3G and also supports some basic remote file management tasks such as renaming and deletion.
+
+RockPlayer: An FFmpeg-based Android media player that can play video in a multitude of formats that aren't natively supported by Android's built-in video player.
+
+Swype: A sophisticated keyboard replacement that allows users to input words by sliding a finger over the letters consecutively. It enables much faster input than the conventional Android keyboard.
+
+Slidescreen Pro: This is how all homescreens should operate. When you unlock your phone, a static screen of icons (with maybe a few dynamic badges on them) is absolutely not the first thing some of us want to see. We want to be greeted by fresh data—e-mail, IMs, phone messages, calendar events, Twitter, RSS, etc.—on every unlock. Then, if we need a specific app, we can press a button and bring up that static array of icons.
+
+GameBoid and Rom Buddy: I almost want to buy an Android phone with a physical keyboard solely to run this app. The touchscreen controls are a pain, but this is a great time-waster. And if you've got GameBoid, you'll need Rom Buddy.
+
+Now that we've listed out our top 10 app picks for Android in 2010, what are some of yours?

@@ -1,0 +1,22 @@
+﻿Articles for iPhone is a brand new Wikipedia client for the iPhone and iPod touch from Sophiestication Software, maker of the popular Groceries, and Coversutra for the Mac. The app feels a lot like something Apple would create, but does it offer enough to set itself apart in the already crowded space? We decided to find out. 
+
+Upon first launch, Articles is nearly indistinguishable from mobile Safari. If it weren’t for the gray search and tool bars, you might think you accidentally activated the wrong application. The app is simple to use, and anyone who has used mobile Safari should have no issues. Articles allows a user to search any of the different language variants of Wikipedia and switch between languages without opening any preferences. A choice is given between searching article content or article titles. You can also search either of those options with realtime search suggestions—impressive, considering there are more than 3 million articles in the English version of Wikipedia.
+
+The software makes compromises in the way that entries are displayed, but these are largely due to the screen size of the device. In particular, we're talking about the way information is commonly displayed on the right hand side of a Wikipedia article page (typically classifications in scientific articles, or birth and death dates in biographies). In Articles, you can access this by touching the information icon, which generally appears under the first image. This loads a secondary screen with the same information you would find on the main Wikipedia page. All the info is formatted in a manner that is attractive and easy to read. The developer cited the lack of a solution with attractive article layout, including the Wikipedia mobile site, as a major reason as to why they pursued this project.
+
+Scrolling through an article isn’t the smoothest experience, but you won't find any blank checkerboard patterns like the ones that constantly appear in mobile Safari. I'll take some less-than-perfect scrolling if it means the information is already loaded and displayed when I do scroll. Articles seem to load a bit slow over WiFi, which I initially assumed was due to the whole page rendering before display, but I'm told that there should be no real difference between the performance of Articles and that of the mobile Wikipedia site in Safari.
+
+For those of you who like to peruse Wikipedia in bed, there is an orientation lock inside the app. The implementation works as you might expect, but turning it on and off isn’t a simple preference. Instead, Articles borrows a page from the Tweetie 2 "refresh timeline" mechanism. To lock the screen orientation, just pull down on the text until the dialog says you have locked or unlocked the screen.
+
+As mentioned earlier, the toolbar at the bottom of the app is identical to the one in mobile Safari, though it does hold some pleasant surprises. The forward and back arrows do what you would expect, while the add button allows you to bookmark an article inside of Articles or mail the link of the article using the device's built-in mail application. Upon touching the open book icon, Articles reveals that it has its own bookmark organization functionality. Here, users can view their article history and organize bookmarks into folders.
+
+The coolest feature is probably "Nearby," which also lives inside of the bookmark screen. Nearby uses your current location and drops pins on a map all around it. Each of these pins represents a Wikipedia article about that particular location. The Nearby feature makes use of the geonames.net API and, although the pin dropping isn't fast, it is pretty cool. There are plans to add a feature in the future that adds a map link to see where certain article topics are on a map.
+
+Finally, Articles has the same page functionality as Safari. I like to think of pages as mini-tabs like those in mobile Safari—you can open links in new pages, allowing you to dive deep into Wikipedia without losing your original place. This functionality was coded from scratch, because Apple doesn't open this feature to developers.
+
+Articles is well made, well thought-out, and feels native. If Wikipedia is your thing, you could do much, much worse. At $2.99, it may be pricier than some alternatives, but the polish and the clever “Nearby” feature justify the price.
+
+Name: Articles (iTunes Link) 
+Publisher: Sophiestication Software
+Price: $2.99
+Platform: iPhone and iPod Touch

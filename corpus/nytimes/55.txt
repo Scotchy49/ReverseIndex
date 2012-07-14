@@ -1,0 +1,31 @@
+The announcement that NASA experimenters had found a bacterium that seems to be able to subsist on arsenic in place of phosphorus — an element until now deemed essential for life — set off a cascading storm of criticism on the Internet, first about alleged errors and sloppiness in the paper published in Science by Felisa Wolfe-Simon and her colleagues, and then about their and NASA’s refusal to address the criticisms.
+
+The result has been a stormy brew of debate about the role of peer review, bloggers and the reliability of NASA, at least as it pertains to microbiological issues, almost as toxic as the salty and arsenic waters of Mono Lake in California, from which Dr. Wolfe-Simon of the U.S. Geological Survey scooped up some bacteria last year.
+
+Seeking evidence that life could follow a different biochemical path than what is normally assumed, Dr. Wolfe-Simon grew them in an arsenic-rich and phosphorus-free environment, reporting in the paper and a NASA news conference on Dec. 2 that the bacterium, strain GFAJ-1 of the Halomonadaceae family of Gammaproteobacteria, had substituted arsenic for phosphorus in many important molecules in its body, including DNA.
+
+But the ink had hardly dried on headlines around the world when microbiologists, who have been suspicious of NASA ever since the agency announced that it had found fossils of microbes in a meteorite from Mars in 1996, began shooting back, saying the experimenters had failed to provide any solid evidence that arsenic had actually been incorporated into the bacterium’s DNA.
+
+In a scathing commentary on her blog RRResearch, Rosie Redfield, a microbiologist at the University of British Columbia, in Vancouver, ran through a long list of what she said were errors and omissions in the paper, which she summarized in the end as “lots of flim-flam, but very little reliable information.”
+
+Among other mistakes, she and others say, the experimenters failed to wash the bug’s DNA before testing it for arsenic, thus leaving the possibility that the arsenic detected there was just stuck to the outside of the giant molecule, like mud on the bottom of a shoe, a process she described as “Microbiology 101.” Over the course of a week her blog, which normally has a few hundred visitors a day, recorded almost 90,000 hits before the furor died down. She has also sent a letter to Science.
+
+Things got nastier when NASA and Dr. Wolfe-Simon refused to respond to such criticisms, which quickly leapt from Dr. Redfield and others’ blogs to Wired and Slate and The Observatory, a blog covering the science press for the Columbia Journalism Review. According to CBC News, Dwayne Brown, a NASA spokesman, said that the agency wouldn’t debate science with bloggers and would stick to peer-reviewed literature. The online tech magazine Gizmodo ran a highly doctored picture of Dr. Redfield and Dr. Wolfe-Simon staring lightning bolts at each other.
+
+In a statement on her own Web site, Dr. Wolfe-Simon noted that the paper had been carefully peer-reviewed and said, “We’ve been concerned that some conclusions have been drawn based on claims not made in our paper,” but did not elaborate on what those mistaken claims were.
+
+In the interest of stimulating healthy debate, she said, Science was making the paper available free of charge (although registration is required) for a couple of weeks. The experimenters are compiling a list of answers for frequently asked questions, which can be sent to gfajquestions@gmail.com and will eventually be posted online.
+
+Dr. Redfield said Mr. Brown’s reaction was silly. “We are the peers,” she said.
+
+Conversation and arguing have always been an important part of how science has been done, she said. Once upon a time it was by mail, and was private and slow. “Now,” she said, “the conversation is carried out in public in ways everyone can see.”
+
+She added, “This kind of intellectual analysis and give and take is a big chunk of the fun of doing science.”
+
+Nevertheless, she said she sympathized with Dr. Wolfe-Simon’s position as a woman in science advocating a controversial view, and she agreed with her decision to keep a low peer-reviewed profile. More arguing, as a blogger who goes by the name of Isis pointed out in a post titled “Don’t Like Arsenic Bacteria? Put Your Experiment Where Your Mouth Is!,” will not solve the problem.
+
+Only more data, which will probably be forthcoming, will tell whether the GFAJ-1 bug is weird life that has found a new way to live, or just tough and able to survive in arsenic. If the original paper was right, that would be “great,” said Dr. Redfield. But the opposite could also be presented as a demonstration that life is such a powerful force.
+
+“NASA can spin it either way,” she said.
+
+

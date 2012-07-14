@@ -1,0 +1,36 @@
+﻿Street Fighter II was an arcade monster that has stood the test of time. Even today, it's Capcom's golden goose and it's not hard to see why. Even after the unsuccessful clones and the innumerable follow-ups, this game still has it all.
+
+Before they had the complementary outfits, before it was super dynamic cooking time, before Ken did stuff like this, there was the original Street Fighter II, a masterpiece of fighting games. It spawned many, many successful sequels from Capcom and it set a new standard for strategy, graphics, sound, and gameplay. It was so huge that it even managed to make "hadouken!" a commonly recognized meme, even though it was an arcade-only game for years after its release. 
+
+It's hard for me to disassociate the game from the time when it made its mark. Bussing to the smokey arcade, Nirvana blasting on my yellow Sony Walkman and many, many quarters spent perfecting its intricate combos and counters. That was almost 20 years ago—long enough for grunge and layered plaid to make a comeback. Even with all of the other entries into the pantheon of great fighting games, none has aged as well as SFII. It was an artful mix of sight, sound and mechanics that still surprises me when I load it up in MAME, or play the recently released Capcom Arcade for iPhone. You can't help expecting to be underwhelmed, like you're going to be going back to legs that just walk after running for so long. You expect it to feel a little dumb. But then you get your ass handed to you by the AI Ryu, and you realize not much has changed. Sure, Street Fighter IV has more bells and whistles, but it is just an introduction for new generations to the game that started it all.
+
+Graphics, in 12 luscious bits and super-crisp 384 x 224 resolution
+
+It's hard to appreciate how good Street Fighter II's graphics were at the time, but the perspective effects of the floor and depth layering were really advanced for the time. Where most side-scrolling games at the time were a dead set of two or three layers of sprites, Street Fighter II's scenes were alive with animation and the pixel-level single-point perspective scrolling of the floor blew my mind when I first saw it:
+
+
+What really made SFII's graphics exceptional were the artists' masterful handling of a limited color palette and that almost comically low resolution. If you've ever done graphics for Web, you know how difficult it can be to fit pleasing gradations into a limited GIF palette. Well, imagine doing that for an entire game level while factoring variable characters with their own colors. Then, with those limitations in mind, you have to make it attractive. It boggles the mind that the level artists chose a complex palette of complementary colors:
+
+
+Notice how the colored shadows factor in the scene's ambient light. That's a splotch of a single color and you don't even notice it knocking out the background. This is pixel art at its finest.
+
+The sound and music
+
+Making game music that you know people will have to listen to for hours and hours on end must be a daunting task. It's like a logo in music—it has to be appealing but age well, and it can't be catchy to the point of being distracting; it's muzak and a jingle all at once. That SFII's music is exciting and not mind-numbingly irritating after hearing it over and over is a great accomplishment in itself. The music of the character selection screen still teems with anticipation. 
+
+But you can't talk about the sound without talking about the deeply satisfying hits. When you land a late hit in SFII, it feels like you've gutted your opponent:
+
+
+It's not a realistic sound but somehow it just works and it really makes those hits hurt.
+The mechanics
+
+In these days of release now and fix later, it's not hard to appreciate how much work it must have taken to release a balanced 1.0 game with six buttons. You could be skilled with one character and just as quickly be dominated by someone who had mastered another. Only Dhalsim, with his floaty jump, was difficult to make a contender in versus play.
+
+The three different kicks and punches and three speeds of projectiles required a lot of strategy—and counter-hits. These counters were really what made for the unique, nuanced battles in SFII. You were rewarded for taking risks and were penalized for playing it safe—If you kicked too early when jump-kicking, you were left open for a grab; a late jump-hit with a well-timed fierce hit and a follow-up special move made for some vicious combos. The combo system introduced by Street Fighter II set the stage for every fighter to come after it. But landing a really killer series of hits was not easily done, and it meant mastering some Jedi timing if you wanted to do the serious damage. The double uppercut took weeks to get down reliably, since the timing and the motion was so specific:
+
+
+This combo system was built on over the versions and sort of loses its oomph in Street Fighter 4:
+
+Sure, Street Fighter II wasn't without its flaws, and Capcom has made a lot of money perfecting later versions. If you got caught by a flurry of jabs or light sweeps, it could make you dizzy, which prepped you for the finish. It could be really frustrating burning through quarters that quickly. Moves in general were just a little too powerful, so battles could be shorter than what became typical in later versions.
+
+Still, Street Fighter II successfully married so many things that it has more than earned its place as a masterpiece of gaming.

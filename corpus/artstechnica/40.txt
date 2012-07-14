@@ -1,0 +1,173 @@
+﻿When you're programming for the iPhone, time plays an important role. The core NSDate class could be refined a little in how it approaches many common tasks. Did two time events happen within the same hour? Does a given date represent a time today, or yesterday? Ars looks at this problem by building out a set of classes inspired by work done on the iPhoneSDK e-mail list by iPhone Developer Bryce Wolfson. Here, we build these ideas out, starting from scratch and pushing the concept even further, to provide a handy set of date methods and properties that you can use in your own application
+
+Real-world dates
+
+On Mac OS X, the NSDate class implementation offers any number of ways to specify a date using natural language input. For example, you might create an NSDate object using phrases like @"next Tuesday at dinner," @"5PM 21 February," @"21/02/10," or "02/21/10." This kind of real-world flexibility isn't yet available on the iPhone. And yet, as many (if not more) iPhone applications depend on real-world date manipulation as Macintosh applications.
+
+Developers often need to compare, adjust, and decompose date objects in ways that the built-in date classes don't quite offer. By building out a class extension (a "cateogory"), it's relatively easy to offer methods that better match the way people really use dates.
+
+In this article, you'll read about creating these features as an NSDate category. You'll see how the NSCalendar and NSDateComponents classes help decompose date features, offering access to a date structure that's more advanced than a simple time interval from a reference date.
+
+All the code discussed here can be found open-sourced at my github NSDate Extensions repository. It is offered under an unrestricted BSD license, and credit is always appreciated.
+
+Date-specific Classes
+
+Although the NSDate class provides a primary touchpoint for date and time manipulation for most developers, several other classes play a key role in working with dates on a day-to-day basis. Here's a run-down of the most import date-specific classes you may work with.
+
+NSCalendar The NSCalendar class provides a way of working with localized calendar systems. These calendars extend beyond what we consider to be the standard Western (Gregorian) calendar and include Buddhist, Chinese, Hebrew, Islamic, Islamic Civil, and Japanese calendars. Working with NSCalendar instances allows you perform calendar arithmetic that takes into account such things as months with different lengths and leap years.
+
+NSDateComponents The NSDateComponents class allows you to break down a date into its components, i.e. month, day, year, minute, hour, and so forth. You can use this class to access these components in an Objective-C friendly method. In addition to exposing these components, the NSDateComponents class allows you to build and modify dates by setting them as well.
+
+NSLocale At a very shallow level, locales represent locations. Where your user is affected is how dates operate. But locales go deeper than that. They provide a way to represent cultural and linguistic norms associated with classes like dates. In the US, the 14th of February might be written as 2/14/10; in France that same date is 14/2/10. Locales help interpret and produce strings that comply to local standards.
+
+NSTimeZone As the class name suggests, NSTimeZone helps define time zone regions and how they behave during standard time and daylight savings. You can use NSTimeZone to retrieve information for the local time zone and convert dates to and from Greenwich Mean Time (GMT).
+
+NSDateFormatter The NSDateFormatter class helps you transform NSDate objects to and from strings. With formatters, you can use standard localized styles or create custom format strings to move back and forth between well-formatted text and the dates they represent.
+
+Ars Tip: Devin Ross's TapkuLibrary repository at github offers a merged calendar-view/table-view class that you may find handy for presenting and soliciting events.
+
+Building relative dates
+
+The easiest way to work with dates involves time intervals. All dates on the iPhone basically represent an interval of time that has passed from a given reference date. For the iPhone, that date (which Apple refers to as the "reference date" rather than the "iPhone epoch") is midnight, January 1, 2001. The standard Unix (or POSIX) epoch is midnight, January 1, 1970. The Unix epoch was adopted before the introduction of leap seconds, such as the one that took place on December 31, 1998.
+
+NSDate objects have a basic equivalence with time intervals, which are floating point numbers representing full and partial seconds since the iPhone reference date. You can build a date by supplying a time interval or extract a time interval from a date.
+
+aDate = [NSDate dateWithTimeIntervalSinceReferenceDate:aTimeInterval];
+NSLog(@"%f", [aDate timeIntervalSinceReferenceDate]);
+
+Since time intervals represent seconds, you can build constants that represent standard units by multiplying those seconds out by the number of seconds in a minute, the number of minutes in an hour, and so forth.
+
+
+#define D_MINUTE	60
+#define D_HOUR		3600
+#define D_DAY		86400
+#define D_WEEK		604800
+#define D_YEAR		31556926
+
+With those constants, you can create a series of relative date methods that retrieve the current time ([NSDate date]) and push that date into the future or the past. The following methods have been implemented as NSDate class methods, providing date offsets from the current time.
+
+
++ (NSDate *) dateWithDaysFromNow: (NSUInteger) days
+{
+	NSTimeInterval aTimeInterval = [[NSDate date]
+		timeIntervalSinceReferenceDate] + D_DAY * days;
+	NSDate *newDate = [NSDate
+		dateWithTimeIntervalSinceReferenceDate:aTimeInterval];
+	return newDate;	
+}
+
++ (NSDate *) dateWithDaysBeforeNow: (NSUInteger) days
+{
+	NSTimeInterval aTimeInterval = [[NSDate date]
+		timeIntervalSinceReferenceDate] - D_DAY * days;
+	NSDate *newDate = [NSDate
+		dateWithTimeIntervalSinceReferenceDate:aTimeInterval];
+	return newDate;	
+}
+
++ (NSDate *) dateWithHoursFromNow: (NSUInteger) dHours
+{
+	NSTimeInterval aTimeInterval = [[NSDate date]
+		timeIntervalSinceReferenceDate] + D_HOUR * dHours;
+	NSDate *newDate = [NSDate
+		dateWithTimeIntervalSinceReferenceDate:aTimeInterval];
+	return newDate;	
+}
+
++ (NSDate *) dateWithHoursBeforeNow: (NSUInteger) dHours
+{
+	NSTimeInterval aTimeInterval = [[NSDate date]
+		timeIntervalSinceReferenceDate] - D_HOUR * dHours;
+	NSDate *newDate = [NSDate
+		dateWithTimeIntervalSinceReferenceDate:aTimeInterval];
+	return newDate;	
+}
+
++ (NSDate *) dateWithMinutesFromNow: (NSUInteger) dMinutes
+{
+	NSTimeInterval aTimeInterval = [[NSDate date]
+		timeIntervalSinceReferenceDate] + D_MINUTE * dMinutes;
+	NSDate *newDate = [NSDate
+		dateWithTimeIntervalSinceReferenceDate:aTimeInterval];
+	return newDate;		
+}
+
++ (NSDate *) dateWithMinutesBeforeNow: (NSUInteger) dMinutes
+{
+	NSTimeInterval aTimeInterval = [[NSDate date]
+		timeIntervalSinceReferenceDate] - D_MINUTE * dMinutes;
+	NSDate *newDate = [NSDate
+		dateWithTimeIntervalSinceReferenceDate:aTimeInterval];
+	return newDate;		
+}
+
++ (NSDate *) dateTomorrow
+{
+	return [NSDate dateWithDaysFromNow:1];
+}
+
++ (NSDate *) dateYesterday
+{
+	return [NSDate dateWithDaysBeforeNow:1];
+}
+
+This approach allows you to create dates that represent real-world timing scenarios like tomorrow's date, or yesterday, or the date five days from now.
+
+Adjusting dates
+
+Another common task when working with real-world tasks involves adjusting times to reflect things that happened in the past or alarms that might happen in the future. The following methods allow you to add and subtract time intervals from dates to help with these kinds of scheduling tasks.
+
+As with the relative dates discussed already, these methods use a simple time interval approach to add and subtract time units.
+
+
+- (NSDate *) dateByAddingDays: (NSUInteger) dDays
+{
+	NSTimeInterval aTimeInterval = [self timeIntervalSinceReferenceDate] +
+		D_DAY * dDays;
+	NSDate *newDate = [NSDate
+		dateWithTimeIntervalSinceReferenceDate:aTimeInterval];
+	return newDate;		
+}
+
+- (NSDate *) dateBySubtractingDays: (NSUInteger) dDays
+{
+	return [self dateByAddingDays: (dDays * -1)];
+}
+
+- (NSDate *) dateByAddingHours: (NSUInteger) dHours
+{
+	NSTimeInterval aTimeInterval = [self timeIntervalSinceReferenceDate] +
+		D_HOUR * dHours;
+	NSDate *newDate = [NSDate
+		dateWithTimeIntervalSinceReferenceDate:aTimeInterval];
+	return newDate;		
+}
+
+- (NSDate *) dateBySubtractingHours: (NSUInteger) dHours
+{
+	return [self dateByAddingHours: (dHours * -1)];
+}
+
+- (NSDate *) dateByAddingMinutes: (NSUInteger) dMinutes
+{
+	NSTimeInterval aTimeInterval = [self timeIntervalSinceReferenceDate] +
+		D_MINUTE * dMinutes;
+	NSDate *newDate = [NSDate
+		dateWithTimeIntervalSinceReferenceDate:aTimeInterval];
+	return newDate;			
+}
+
+- (NSDate *) dateBySubtractingMinutes: (NSUInteger) dMinutes
+{
+	return [self dateByAddingMinutes: (dMinutes * -1)];
+}
+
+- (NSDate *) dateAtStartOfDay
+{
+	NSDateComponents *components = [CURRENT_CALENDAR
+		components:DATE_COMPONENTS fromDate:self];
+	[components setHour:0];
+	[components setMinute:0];
+	[components setSecond:0];
+	return [CURRENT_CALENDAR dateFromComponents:components];
+}

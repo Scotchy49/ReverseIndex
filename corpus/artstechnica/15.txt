@@ -1,0 +1,59 @@
+﻿Even though many of us in the Orbiting HQ use Mac OS X these days, the latest Mac version of Microsoft Office hasn't generated much buzz among the staff at Ars. That's understandable really; if you're not working in a corporate environment, solutions like iWork or Google's cloud services (as well as OpenOffice and other fringier products) leave little reason to stay in the Microsoft orbit. 
+
+But there many of us who do still need to use Office, and on the Mac side of things, Office 2011 is here to show us what it can do that its predecessors couldn't. In later articles, we'll take a look at Word, Excel, and PowerPoint, but first up to bat is Outlook.
+
+Those of you with keen memories will remember that, pre-Mac OS X, Mac users actually did have native versions of Outlook. These didn't ship with Office, which came with Outlook Express and later with Entourage, and they only worked with Exchange servers, but I remember using Outlook '98 (I think) as a young grad student.
+
+The next three installments of Office all came with Entourage. The original version had workable Exchange support, but it gradually got better. Entourage is now history, though, and Outlook 2011 is here to meet your e-mail needs, especially if you work in a large Microsoft-dependent organization (referred to as LMDOs from here on out).
+
+Setting it up for the first time is a cinch. For Exchange accounts, it's as simple as entering your e-mail address, username, and password. The same is true for Gmail, MobileMe, and the service Ars uses.
+
+Up and running, it's actually a great e-mail client if you work for an LMDO. I have yet to come across anything I can't to do with Outlook 2011 that I'm currently able to do on the PC side of things, and I like the UI much better than Entourage.
+
+Yes, I said it: from where I sit, Outlook 2011 is nicer to stare at than Entourage. The borders around windows are much smaller, and I'm happy about the introduction of the ribbon, a series of icon-filled tabs that make the toolbox unnecessary. That last statement may draw ire in the comments, but the ribbon can be hidden, and the tabs make finding functions easy and logical.
+
+The ability to have a unified inbox is a big improvement over Entourage. Previously, each IMAP and Exchange account would have their own sections in the sidebar, which was a pain as it meant scrolling down to see the details. This, therefore, is a great step forward. You can arrange your messages by date, sender, conversation, and so on, as you'd expect. Another neat touch is the ability to preview attachments, something I'd love to see in the Windows version.
+
+Global address books work without a hitch and, to my mind, look much nicer than on Windows; each contact gets a little box with the relevant details instead of a line in a table. You can sync your personal contacts with Address Book, but I find that using sync services can lead to contacts multiplying out of control. Then again this also happens when syncing with Google, so it's not something for which I'd blame Microsoft.
+
+Searches can be performed in the app or by Spotlight, and the internal search works very well. Spotlight searches may very well be faster than those done within Outlook, although I couldn't say for sure because they were all pretty quick. This is down to the fact that the Mac Business Unit (MBU) has revamped the bits under the hood significantly.
+
+Entourage stored all your e-mails in a single giant database. This meant that, for a long time, Spotlight searches were out of the question—until a point upgrade worked some sort of magic that allowed Spotlight to index the giant file. It also meant that Time Machine backups got to be huge, as each new e-mail meant the database file had to be copied anew.
+
+Now, your e-mails are individual files, meaning faster indexing, faster backing up, and less chance for catastrophe. If you're an LMDO user and just have a single Mac that you access your work e-mail from, this is a good thing.
+
+Probably the most requested feature has been support for .pst files, which is the format that archived messages are stored in. And yes, Outlook 2011 can handle .pst files. The way they're handled makes a lot of sense, but at the same time has dashed my hopes of true platform independence.
+
+Here's what I wanted: to be able to work within the confines of a LMDO and use a mixture of Macs and PCs. Or an iMac and a MacBook. It's 2010 now, and it ought to be time. As I'm sure is standard in many LMDOs, a user like me has a remote drive. This remote drive is where all my e-mails live, along with files, folders, and anything else I consider important.
+
+That's good for a number of reasons. It gets backed up regularly without me in the loop, which I appreciate, having experienced more than one laptop hard drive failure and the loss of data that goes with it. Since Windows uses that as my home drive, it also means that I can use a desktop in the office or a laptop in the field and have access to all the same stuff.
+
+I hoped the arrival of Office 2011 and the replacement of Entourage with Outlook 2011 would mean that finally it wouldn't even matter what OS I used. The issue isn't so much my Exchange server mailbox, but its size, as set by the LMDO IT overlords. It fills up rather quickly, and the solution is to create an archive stored on that home drive. If you work at an LMDO you might do the same.
+
+You can imagine my joy when I read that Outlook 2011 would finally handle these files. After moving to a LDMO in 2009 and using Windows daily, I longed to be able to move back to using a Mac at work, and this came one step closer to reality thanks to a kind soul who, instead of surplusing an older MacBook Pro, transferred it to me. Connecting to remote drives from the Mac was, and is, as painless as you might imagine. Whether plugged in via Ethernet or VPNing in from somewhere else, not a problem was encountered, although as Peter Bright will surely tell you at length, the way that OS X handles these remote drives, or rather their absence, can be more problematic.
+
+Picture then, the look of disappointment on my face when, upon installing and setting up Outlook on this work machine, I found out that handling .pst files and actually using .pst files aren't the same thing. As I mentioned earlier, Outlook 2011 has a new file structure for your e-mails, consisting of individual files for each message. So instead of just pointing Outlook at the right network address, you import the archive. You can create new archives, but in an .olm format.
+
+For someone who wants to be able to flit between Mac and PC at will, this is a serious problem, because it means you can't keep a single archive to which each machine is pointed. (Cue sad trombone.) It also means you can't really even have access to all the same e-mails on multiple Macs.
+
+Theoretically, you could keep the Main Identity folder on that networked drive, but Microsoft doesn't recommend it as this causes performance issues, and given the way that OS X handles networked drives not being there anymore, I believe them.
+
+Another sorely missing feature is CalDAV support. For a work e-mail client I don't really see this as a huge problem; I'm content using Gmail and MobileMe via a Web browser at work. The MBU knows that some users will want this feature but couldn't tell me if it might appear in a future update. For home use, or for using a mix of Exchange and other accounts, this might be a deal breaker. At home I'll be sticking to Mail and iCal, and I wish that wasn't the case.
+
+For Mac-using office drones, on the other hand, Outlook 2011 is a big step forward in my opinion. We now have feature parity with our Windows-using colleagues, as well as a couple of features they don't have. The app isn't clunky or ugly, and as long as you can live with the limitations regarding multiple computers and the lack of CalDAV support, I see little reason not to upgrade from Entourage.
+
+The Good
+
+Feature parity
+Previewing attachments
+Calendar view in e-mail meeting requests
+Decent-looking UI
+Significant changes to the backend mean better spotlight and Time Machine performance
+The Bad
+
+Not being able to use multiple computers with the same account
+No CalDAV support
+The Ugly
+
+Looks your Windows-using coworkers will give you
+Verdict: Buy

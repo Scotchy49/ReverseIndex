@@ -1,0 +1,15 @@
+﻿Late last week, Microsoft put an end to its Office Genuine Advantage (OGA) program. The Office Notifier, the OGA ActiveX control for Internet Explorer, and the OGA plug-in for Firefox have also been retired. The change took place on December 16, was first confirmed in a KB article last updated on December 17, 2010, and found by ZDNet:
+
+The Office Genuine Advantage ("OGA") program has been retired. For more information about the benefits of genuine Office, please visit the following website:
+
+Benefits of genuine Office
+
+When OGA still existed, it required users to validate their copy of Microsoft Office to download noncritical updates and other downloads such as addons, samples, templates, and so on. Now, users can grab said content without having to perform the extra step, whether they pirated Microsoft Office or not.
+
+It's important to note that OGA is different from product activation. The former is Internet-based and permits users to download files and updates from the Microsoft website while the latter is enforced at the software level and is required to use the actual software. OGA rejects the product keys that have either been widely leaked or which have been generated to pass through the initial activation. OGA covers Office XP, Office 2003, and Office 2007.
+
+OGA has an equivalent on the Windows side: Windows Genuine Advantage (WGA). WGA is required for much more useful downloads than OGA, such as Microsoft Security Essentials (MSE). Redmond has no plans to kill off WGA, at least not at this point in time.
+
+"The Office Genuine Advantage program was designed to notify many customers around the world whether their copy of Microsoft Office was genuine," a Microsoft spokesperson told Ars. "The program has served its purpose and thus we have decided to retire the program. Given our strong commitment to anti-piracy, we are making several new investments that will allow us to engage with customers and help victims of fraud."
+
+The change is a significant one because it implies that OGA was costing Microsoft more money than it was saving the company, suggesting that OGA was largely ineffective in its goal. This is hardly surprising given that the "Advantage" in Office Genuine Advantage was minor: the large majority of Office users can live without extra templates and samples.

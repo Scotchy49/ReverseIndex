@@ -1,0 +1,43 @@
+﻿When Apple first introduced native Flickr uploading to iPhoto '09 in January, users were cautiously optimistic. As it turns out, the feature ended up being both a curse and a blessing: the built-in support for uploading to the popular photo sharing site was very convenient, but for those of us who were previously using third-party software to serve the same purpose, Apple's implementation was somewhat lacking.
+
+Why do we say that? There are a few reasons. For one, iPhoto '09 can't download a list of sets you already have on Flickr, meaning that you can't easily add photos from iPhoto into an already-existing set that you didn't create within iPhoto. Moreover, you can't just upload photos straight into your Flickr stream without a set—iPhoto will make you one whether you like it or not. iPhoto also doesn't allow you to tag your photos, so you can have a hard time if you decide to re-name a set. It offers extremely basic functionality—permissions and resizing—and that's pretty much it. Enough to get by, but not enough to make us happy.
+
+But because there are throngs of new Mac (and Flickr) users joining the ranks every day, not everyone is aware that there are other alternatives out there to make up for Apple's shortcomings in the direct-to-Flickr department. And at this time of year, people have plenty of photos to share with friends and loved ones. For these reasons, we thought we would give a rundown of some third-party options that do the same or more than what Apple gives us in iPhoto '09.
+
+FlickrExport
+
+FlickrExport from Connected Flow has long been a favorite among Ars readers and staffers alike. Available as a plugin for both iPhoto and Aperture, the software offers extensive options for your Flickr uploads and the most granular control you could ask for without just doing it on Flickr yourself.
+
+Using FlickrExport, you can upload photos to just your photostream, a new set that you can create from the export pane, or an existing set on Flickr. Privacy options are laid out in front of you so you can limit photos to friends, family, no one, or everyone, and you can set titles and tags for each and every photo. You can even add photos to Flickr groups from the export pane—definitely not something that the built-in iPhoto interface can do for you—and lets you rank the relative "safety" of the photo.
+
+The only downside to FlickrExport is one that we have long complained of, and that's looooong log-in/authentication times. Admittedly, this problem has gotten better in recent years, but it's still not entirely gone. There are times when we go to export something through FlickrExport and have to go grab a cup of coffee before the full upload screen comes up, which is a pretty undesirable situation when you want to get things done now and before you forget.
+
+Still, despite this annoyance, FlickrExport is still a favorite. The software is under active development (it got an update to 3.0 this spring) and costs £12 (a bit over US$19) for a full license for iPhoto. There are free options (which we will discuss in this piece), but you get what you pay for when it comes to software like this.
+
+Free Flickr eXporter (FFXporter)
+
+Given the glowing review we just wrote for FlickrExport, it would seem like a free alternative could not possibly measure up. This, however, is not entirely true, as Free Flickr eXporter (also known as FFXporter) offers much of the same functionality as FlickrExport—but for free.
+
+Again, from FFXporter, you can upload to photo sets you already have or create new ones, set safety levels, and set permissions. One thing it doesn't allow you to do is set tags and titles, however. On the (major) upside, it's very quick on the login—unlike FlickrExport, you won't have time to take a bathroom break between logging in and beginning your upload, which is definitely a blessing.
+
+As we said before, FFXporter is free, but with a major twist: it doesn't appear to be under active development anymore. The last update came sometime in early 2008, making the current version (0.4.5) close to two years old. Why does this matter? It doesn't seem to have an update available for iPhoto '09, so you're stuck using older versions of iPhoto if you want to use this one. Still, if you need your fix now and you're already using an older version of iPhoto, FFXporter is an option that we can endorse.
+
+Flickr Uploadr
+
+Flickr has its own photo uploading application that ain't too shabby, so long as you don't mind operating another app alongside iPhoto. The free desktop app lets you drag photos from anywhere (somewhere on your machine, iPhoto, etc.) and then add all the relevant details, such as titles, descriptions, tags, and more.
+
+Like the others, you can add photos to just your photo stream or to an existing set, or create a new set if you want. Unlike FlickrExport, the Flickr Uploadr doesn't let you add photos to specific groups that you have joined—if you want to do that, you'll have to either use something else or just do it on the website. One thing that's kind of cool about Flickr Uploader is that it allows you to rotate photos from right within the app, and you can even drag and drop photos in order to change the order in which they will be uploaded to your stream.
+
+The biggest upside is that it's free! The downside is that Flickr Uploadr operates as a separate app, so if you're dependent upon iPhoto (like we are) for your importing and organizing needs, the extra step might be just enough to avoid using it. If you use other means for importing your photos, however, it could be a nice, application-agnostic way to get your photos online without having to use the Web-based uploader.
+
+jUploadr
+
+One more free option that is endorsed by Flickr itself is jUploadr, which is not only available for Mac, but also Windows and Linux. Admittedly, this isn't an app that we have extensive experience with, but we have given it a spin and can (at the very least) say that it's solid, if not basic.
+
+Once again, this is an application that runs independently of iPhoto or Aperture (similar to Flickr Uploadr)—in order to get photos into the app, you must drag them from somewhere on your machine or from your favorite photo organization program. The main interface is as simple as it gets, but the preferences allow you to customize your uploading experience a bit by letting you set default tags on all your photos (or just on the ones you're uploading now), or set automatic actions for uploading. We particularly like the checkbox for uploading photos in order of the date taken—this is something that even iPhoto '09's built-in uploader can have trouble with from time to time.
+
+What's kind of neat about jUploader is that you can also throttle your upstream bandwidth so you're not sucking up too many of your own resources if you have a large batch to upload. This, plus proxy settings, set it apart from the other apps, but as we mentioned earlier, the functionality is very basic compared to other plugins. Of course, for a free download, you can't ask for much more than a functional program, and it does still offer some things that iPhoto '09 doesn't.
+
+Conclusion
+
+Sure, there are even more plugins and software packages than the ones we outlined here, but when it comes to putting your stuff online so your friends and family can see what you have been up to, only the best and the fastest will do. If we missed out on one that you absolutely can't live without, please let us know!

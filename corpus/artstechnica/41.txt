@@ -1,0 +1,31 @@
+﻿VoiceControl allows you to make calls and play music using spoken commands. It provides a base recognition layer that interfaces with the address book and the contents of the iTunes library to transform your speech into call and music requests. Using standard VoiceControl services, you can tell an iPhone to "Call Henry," "Play a track by Lady GaGa," "Shuffle" the current playlist, or even ask "Who is this song by?". Apple provides detailed online help pages explaining what you can say to both place calls and control iPod playback.
+
+Apple's VoiceServices framework, which supports the VoiceControl feature, debuted with the introduction of the 3.0 iPhone firmware. I've spent a significant amount of time looking through this framework, and I've reversed-engineered many of its capabilities using standard OS X tools like nm and strings, and third party tools like class-dump. Using that information, this post will look through the current state of the iPhone's voice services, showing the state of the technology.
+
+You'll read about how you could use these features on the iPhone, as if VoiceServices were suddenly and magically made an official part of the SDK. You can distribute VoiceServices-based applications on Cydia and the Rock Store, the two jailbreak world portals for applications, but not through Apple's official App Store. This post looks at how the framework works and what kinds of hooks are there for customization.
+
+The basic framework
+
+VoiceServices is a private framework, i.e. one that Apple has not made an official part of its software development kit. This one framework provides all the voice features that ship on the device, namely synthesized speech and the voice recognition ability described above that is used by VoiceControl. VoiceServices lets the device's core services access voice services.
+
+Neither the speech nor the recognition facility is new to Apple's line of operating systems. Both speech synthesis and recognition have long been a part of Apple's OS X capability set, particularly on Macs. Despite the maturity you might expect from such a heritage, it's clear in looking at this new framework that voice services on the iPhone are a long way away from where they need to be. An examination of the underlying classes and design patterns reveals that although voice synthesis has been realized quite strongly, iPhone voice-based accessibility is just starting out.
+
+In fact, from the underbelly, the recognition classes seem to be merged together from two distinct solutions—one intended for iPod controls only, the other for address book lookup of contacts by name. They use different recognition strategies, different callback mechanisms, and the fact they they both work through the same VoiceControl system seems like almost an afterthought rather than a well-developed software architecture.
+
+Voice Synthesis
+
+Of the three major components of the iPhone voice services (namely, voice synthesis, iPod control, and address book access), creating speech from strings is the best developed, and most stable. The VSSpeechSynthesizer class provides all the hooks needed to tie into the iPhone's text-to-speech capabilities, including localized voices, pitch, volume, and playback speed (called "rate" in the class).
+
+To use voice synthesis within an iPhone application, you allocate and initialize an instance of the VSSpeechSynthesizer, assign a delegate, and then start speaking.
+
+self.speechSynth = [[[VSSpeechSynthesizer alloc] init] autorelease]; [self.speechSynth setDelegate:self]; [self.speechSynth startSpeakingString:@"Hello World"];
+
+The delegate receives a callback once the synthesizer finishes speaking. When you need to speak more than one phrase at a time, you'll need to watch for this callback so your new phrases will not cancel voice requests that are already underway.
+
+- (void) speechSynthesizer:(NSObject *) synth didFinishSpeaking:(BOOL)didFinish withError:(NSError *) error { // Handle the end of speech here }
+
+I've posted a sample application that reads out Jane Austen's Pride and Prejudice a paragraph at a time. It waits for the didFinishSpeaking callback before progressing to the next section of the book. You can find the sample at this zip file link. To run it, you will need to be a paid member of the iPhone Developer program. Use your credentials to sign the application with this shell script. The script must be run at the command line with one argument, the path of the application. Once signed, the application must be tested on an iPhone 3GS.
+
+You can check whether speech is underway by checking the instance's isSpeaking property or by querying the class to determine isSystemSpeaking so you will not conflict with system calls to voice services. When you do need to stop speaking, VoiceServices looks for natural boundaries such as the end of a word or sentence, letting you pause speech or cancel it entirely.
+
+It is this kind of fine detail support that indicates the robustness and maturity of the synthesizer class. Apple could easily expose it via SDK and it would be ready for day-to-day use in any number of applications. I highly recommend that anyone interested in doing so file a request at Apple's bug report site that Apple move this class into the official SDK.

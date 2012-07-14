@@ -1,0 +1,53 @@
+The power of a first impression
+
+The current obsession with product packaging in the blogosphere can sometimes (okay, many times) border on the pathetic. But there is a reasonable assumption behind all the geek package porn: any company that cares enough to craft beautiful, functional packaging has probably given some real attention to the product itself. Refined packaging hints at a refined user experience.
+
+Barnes & Noble has learned this lesson well. Its new NOOKcolor e-reader—which I will henceforth refer to as the "Nook" out of protest at this absurd abuse of the alphabet—comes beautifully packaged in an elongated white cardboard box. When I pulled mine out of its shipping carton, I was immediately impressed and then doubly surprised when the box's bottom popped open on a paper hinge to reveal the Nook inside without requiring me to unlatch, unhook, or cut anything.
+
+The Nook's box appears to contain four magnets: two to hold the hinged lower section closed and another two to hold the hinged section open (when swung back, it attaches to the back of the box with a satisfying thump). I've opened a lot of gadget boxes in my day, and I have to confess a goofy enjoyment at opening such an gloriously over-engineered box; I must have swiveled that hinge open and closed a dozen times before even turning to the hardware within.
+
+Would the Nook itself live up to its packaging? To find out, I've been living with the device for several weeks and even carted it home for Thanksgiving to allow assorted aunts, uncles, and siblings to bang away on it. The device's strengths and weaknesses can perhaps best be summed up by two brief exchanges with my Kindle-using brother.
+
+ME (upon handing over the Nook): So what's the very first thing you notice?
+
+HIM: It's heavy.
+
+Two hours later, after ignoring the built-in apps and the e-book content to surf the Web on the Nook's 7-inch screen:
+
+HIM: How much did you say this was?
+
+ME: $249
+
+HIM: Hmm. This could be useful.
+
+Indeed, it's the best deal you're going to get right now for a good 7-inch Android tablet (bad ones of course can be had for less)—but that doesn't mean it's without a host of flaws. None of these are fatal, and few are really serious, but together they take some of the shine off a quite tempting apple.
+
+Carry that weight
+
+The Nook is heavy in the hand. That was my first impression, and it's one that was reinforced every time I used the device. Though the new Nook is about the same height and width as the Kindle 3, it weighs substantially more, and switching back to the Kindle was like switching from a "desktop replacement" notebook of yore to a MacBook Air. (The Nook is still not nearly as heavy as the iPad.)
+
+Here's a weight comparison between the Nook Color, Kindle 3 (WiFi), and iPad (WiFi):
+
+Kindle: 241g (8.5oz)
+
+Nook: 422g (14.88oz)
+
+iPad: 680g (23.98oz)
+
+The weight certainly isn't a deal-breaker—plenty of people read books on an iPad, for instance—but extended Web surfing might be more comfortable when the Nook rests on a table or in your hand. Holding the device upright in front of your face, especially with one hand, isn't fun for long sessions.
+
+As for appearance, this is notably subjective. The Nook's design is attractive, though it's executed in two tones of grey plastic with a black rubberized backing. Both the top and bottom have rounded edges that give the device something of a "puffy" impression, and the less said about the "iconic" open hook at the bottom-left, the better.
+
+Still, if you're coming from an e-Ink device like a Kindle or a Sony Reader, turning on the Nook will instantly remind you why it's much heavier and a bit bulkier: it has a beautiful color touchscreen. Swiping across the bottom of the screen to unlock the device, then navigating the setup menus and entering a WiFi password, and finally tapping a book to read (with no page-turn lag)—it's all so quick and easy that you'll want to curse the five-way controller, DOS-style text interface, and overall sluggishness of something like the Kindle.
+
+The hardware
+
+Powering this experience is TI OMAP 3621 processor running at 800MHz, with 8GB of flash memory and 32GB more available via a microSDHC card. The 600x1024 pixel screen has a 169 pixel-per-inch density and a full 16 million color range, and WiFi b/g/n provides connectivity (there is no 3G radio).
+
+As for external buttons or ports, they're few: a power button, a micro-USB connector, two volume buttons, and a headphone jack. There's also the "Nook button" on the device face. This looks more like an upside-down U than the lower-case N it is meant to resemble. I found it ugly. Your mileage may vary.
+
+Two small things about the hardware, one good and one bad, that don't show up on the spec sheet: first, the device's tiny mono speaker is not located in the front or even in the bottom of the device, but is fully on the back. The predictable result is that it sounds absolutely atrocious; even system notifications sound like they're coming from another device several feet away instead of from the one in your hands. And if you're listening to music, the headphone jack is a must.
+
+On the flip side, the Nook thankfully eschews proprietary computer interfaces and presents itself over USB as a USB Mass Storage device. Navigating the directory structure is simple and the folders have obvious names. We found it easy to get content, such as pictures and screenshots, on and off the device.
+
+

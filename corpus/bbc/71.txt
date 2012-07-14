@@ -1,0 +1,40 @@
+﻿Daily Rhythm Test
+
+Our internal body clock governs our daily or circadian rhythm - telling us when to wake up and when to feel sleepy. Circadian comes from the Latin circa, meaning about and dies, meaning day.
+
+This test will produce a chart showing your natural sleeping and waking pattern over a 24 hour period. If you're having problems sleeping it could be your natural body clock is at odds with your routine.
+
+1) Do you consider yourself a morning person or an evening person?
+ 	
+	Evening
+	More evening than morning
+	Can’t tell
+	More morning than evening
+	Morning
+
+
+2) At what time of day do you feel at your best?
+ 	
+	5am - 9am
+	9am - 11am
+	11am - 5pm
+	5pm - 10pm
+	10pm - 1am
+
+
+3) Considering only your own "feeling best" rhythm, if you were entirely free to plan your day - at what time would you go to bed?
+ 	
+	8pm - 9pm
+	9pm - 10.15pm
+	10.15pm - 12.30am
+	12.30am - 1.45am
+	1.45am - 3am
+
+
+4) Considering only your own "feeling best" rhythm, if you were entirely free to plan your day - at what time would you get up?
+ 	
+	5.00am - 6.30am
+	6.30am - 7.45am
+	7.45am - 9.45am
+	9.45am - 11.00am
+	11.00am - Midday

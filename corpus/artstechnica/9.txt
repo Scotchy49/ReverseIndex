@@ -1,0 +1,32 @@
+During a press briefing today in San Francisco, Google launched the Chrome application store and demonstrated Chrome OS, its browser-centric netbook operating system.
+
+Google says that the number of Chrome users has climbed to 120 million, growing significantly over the past year. Chrome's emphasis on speed was cited as one of the most significant factors driving its popularity. Performance will continue to be one of the defining priorities of Chrome development as Google works to make the browser a compelling application platform.
+
+The next major version of Chrome will use an adaptive compiling technique that Google has codenamed Crankshaft to accelerate JavaScript performance. Google has also been focusing on WebGL, work that is progressing swiftly. During the presentation, Google showed several impressive WebGL demos, including a virtual 3D aquarium with sharks that shoot lasers out of their eyes. The availability of rich 3D functionality through native Web standards will be significant for enabling the next generation of browser-based games.
+
+
+During the presentation, Google vice president of product management Sundar Pichai explained that the philosophy behind Chrome is to build a browser that is largely designed for applications rather than a browser that is designed for documents—ostensibly giving it the potential to become a practical environment for day-to-day computing. That is the vision that Google is advancing with Chrome OS.
+
+"""Rethink[ing] the personal computing experience for the modern Web. That is what Chrome OS is about,"" he said during the presentation. ""Chrome OS is nothing but the web—Chrome running on hardware directly."""
+
+Security, synchronization, performance, and connectivity were among the key issues discussed during the presentation. Chrome OS will automatically keep the user's launchers, bookmarks, themes, and extensions synchronized. This is tied to the user's account, which means that a user can theoretically sign in on any Chrome OS computer and get immediate access to the contents of their account.
+
+Security and offline storage
+
+Google contends that Chrome OS will be the most secure consumer operating system. Among the most significant security features of the platform is its Verified Boot capability. The initial boot code, which is loaded from a read-only memory chip, will conduct a check to make sure that the system hasn't been compromised. Chrome OS also encrypts all of the user's local data and benefits from Chrome's built-in sandboxing features.
+
+In order to reduce exposure to vulnerabilities, Google says that Chrome OS will have seamless automatic updating of both the browser and the platform. This update system will also be used to push performance improvements and other enhancements over time.
+
+One of the most common arguments against the idea of a browser-centric operating system for netbooks is that the platform's usefulness could be significantly undermined in the absence of connectivity. This problem can be partly mitigated by offline Web application support, as Google demonstrated by showing how the offline version of Google Docs works on Chrome OS. A better solution, however, is to make sure that the user always has a way to get connected. Integrated mobile broadband connectivity (powered by Verizon EVDO at launch) will be available in all Chrome OS devices.
+
+The real icing on the cake is that Google has negotiated an extremely flexible and consumer-friendly set of wireless plan options for Chrome OS users. Every user will get 100MB of free 3G data usage every month. If they want more, they can pay as needed. For example, you can pay $9.99 to get connectivity for one day. The user doesn't have to commit to a contract at all. This is a great arrangement for users who will only occasionally be out of range of a WiFi access point.
+
+Chrome OS isn't quite production-ready yet, but Google has partnered with hardware vendors ASUS and Samsung with the aim of launching products next year. The search giant has started rolling out unbranded test units as part of a pilot program. We will have one to test ourselves in a week or two, so keep an eye open for our hands-on report.
+
+Unanswered questions
+
+Although Google's plan for Chrome OS is ambitious and intriguing, there are still a lot of unanswered questions. The company says that its Web application store will not be available for Android. The Chrome apps that I tested generally didn't work in the Android browser on the Samsung Galaxy tab, though we have seen several independent reports from readers who say that the apps work in the Chrome browser on Google TV.
+
+It's not clear if a convergence path for Chrome OS and Android will ever materialize. The platforms aren't really designed to work with each other, though there aren't really any major barriers that would prevent you from using devices with each one. The big question is which one hardware vendors should adopt for tablets. Neither platform is explicitly designed for the tablet form factor, though both have characteristics that would make it useful in that setting.
+
+It's also unclear if Web applications and Native Client are truly enough to mitigate the need for conventional native applications (expect more thoughts on this later when we go hands-on with the Web app store). I'm going to reserve judgement until Chrome OS is more mature, but it's difficult to see the appeal of Chrome OS compared to simply using the Chrome browser on top of Ubuntu, for example, which would give users the added advantages of a native computing environment. As the pilot program progresses and the devices roll out, we will hopefully be able to determine if the platform's simplicity is compelling enough for the average user to make it a winner.

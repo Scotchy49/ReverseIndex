@@ -1,0 +1,47 @@
+When online travel agencies started rolling out smartphone apps, I was dubious. Mobile phones are great for killing time or completing small tasks — not for sifting through pages of flight times and travel dates.
+
+Plus, while apps from companies like Kayak or Travelocity made it somewhat easier to browse flights and hotels, they shuttled you off to mobile Web pages to squint at the purchase and travel documents. No thanks.
+
+Undaunted, established travel companies have continued to introduce new and updated apps, including, in recent weeks, Orbitz, OnTheFly from ITA Software (both free on iPhone and Android) and FlightTrack from Mobiata ($5 on iPhone and Android).
+
+To sum it up, consider me a convert.
+
+Orbitz was the most useful for booking, but OnTheFly was far better for browsing flights, and even if it didn’t let me buy a flight from within the app, it won my respect in many other ways. As for FlightTrack’s updated app, the new features underscore the wisdom of spending $5 on this before or after using OnTheFly to arrange your travel plans.
+
+Orbitz bills itself as the first fully “native” iPhone app for travel booking, which means it never sends you to a mobile Web page for anything, including the final purchase. It’s a very promising idea, but even without that, Orbitz includes some nice touches.
+
+To help you quickly find flights, rooms and rental cars, the app has big buttons and a modest number of options on each page. Sometimes the simplicity gets in the way of utility, though. Unlike on the Orbitz Web site, for instance, the app offers no “flexible dates” option, for when you just want a cheap flight. And there is no conventional calendar for choosing dates, so you won’t know which day of the week you’ve chosen.
+
+Still, the search results are nicely laid out, showing eight flight options, sortable by price or departure time.
+
+The app refreshes after a few minutes of inactivity, so if you have to check around for your credit card number or confirm travel dates with your spouse before you book, you will lose the flight information and must start from scratch. That can be frustrating, especially if you’ve found a bargain.
+
+If you find something worth buying, the booking process is smooth. You can type only in portrait (vertical) mode, so the keys are more cramped than if you were given a landscape (horizontal) option, but the type is large enough so that you won’t miss anything important.
+
+Once you book, you are e-mailed a travel confirmation that you may print from another computer.
+
+While Orbitz is fairly good, OnTheFly is better, at least for finding flights. The app sniffs out your location via GPS, and serves up a list of nearby airport options. (Orbitz forces you to type the names.) OnTheFly also has a conventional calendar so you can search for flights on certain days of the week.
+
+OnTheFly also lets you search flights the day before or after a chosen date, in quest of cheaper fares. Because OnTheFly searched for fares from more than one nearby airport, including one I hadn’t thought to search on Orbitz, it found a flight from an airport an hour closer to my home. The flight was also cheaper than the one on Orbitz.
+
+OnTheFly can’t book the flight for you. After you’ve found a fare, you must call a travel agent or the airline. That’s not a high hurdle, since OnTheFly provides a button that, when pressed, calls the airline directly. While on the call, you must restart the app and provide the flight details to the booking agent.
+
+Kayak, which is a highly rated booking app, falls short of OnTheFly in a couple of respects. First, its flight-browsing features are not quite as flexible. It did not let me search fares on days adjacent to my chosen dates, for instance, and the airport selection feature was slightly confusing.
+
+And, at least for the dates I searched, OnTheFly provided a longer list of possible flights. Kayak offered one airline with fares quoted. The app said that to get fare information from the second airline on the list, Southwest, I had to call the airline. Kayak trailed both Orbitz and OnTheFly in this respect.
+
+FlightTrack is a good app for frequent travelers or their companions, since it offers flight status details in a format that’s richer and more visually compelling than competing services.
+
+If you know the route or the flight number, the app shows you the plane’s location, flight speed and altitude on a map, or on a page with details about the terminal and gate, among other things. If your flight is canceled or delayed, the app can quickly offer alternatives.
+
+When you upgrade to FlightTrack Pro, for an extra $5, you can select a particular route and airline, and the app will predict the on-time arrival details.
+
+This feature is not foolproof, though. I searched for flights I had just selected on OnTheFly — JetBlue flights between Hartford and Orlando — and the app found nothing. I did, however, see that JetBlue’s flights from Kennedy Airport to Orlando had a 69 percent chance of landing on time, a 19 percent chance of being 45 minutes late, and a 1 percent chance of being canceled.
+
+It’s useful information as you try to measure your own expectations for what you might achieve on your first day of travel, for instance.
+
+Come to think of it, travel companies have historically done a good job at reminding people not to expect too much. In the mobile apps realm, at least, it’s nice that these companies may for once exceed your expectations.
+
+Quick Calls
+
+Serious bakers are already looking past Thanksgiving pies, to the holiday cookie bonanza of December. If you have an iPad, the Martha Stewart Makes Cookies app ($8) should make your list. The app is serious eye candy, with substance. More than 50 recipes are featured, with video tutorials and shopping lists. (Burn alert: the oven timer won’t work if you close the app.) ... Android owners can rely on Realtor.com’s new, free app to search for homes. The app lets you check neighborhoods with Google Street Views and record voice notes about a property. ... Apps for Windows Phone 7 have begun to roll in. A&E’s History Here app ($3) shows historical information about your immediate surroundings.

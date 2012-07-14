@@ -1,0 +1,35 @@
+﻿With the current generation of consoles, online play has become ubiquitous, leaving us with systems that are constantly connected to the Internet. This has led to many great things, like the advent of downloadable games, online multiplayer, and quick and easy game updates. But it's not without its drawbacks. 
+
+With the seemingly non-stop barrage of new hardware iterations, it's likely that at some point you'll decide to upgrade. But where does that leave your current console? There's all sorts of personal data tucked away that needs to be removed before it can be safely sold. Today's consoles can also serve as an entertainment hub, and prospective buyers could potentially end up with access to your personal photos, home movies, or even the number of the credit card used to purchase downloadable games and movies. They might even get to look at your porn. 
+
+Here are some tips on scrubbing all three current-gen home consoles before you sell.
+
+Xbox 360
+
+Prior to clearing off your Xbox 360, chances are you will first want to transfer all of your data from your old 360 to your new one. Doing this requires a Hard Drive Transfer Kit, included with new 120GB 360s. If, for whatever reason, you don't have the kit, it can also be purchased from Xbox customer support.
+
+Then comes the convoluted, multi-step task of first transferring your content from one console to the other, then transferring the licenses so that you can actually use that content. Detailed instructions can be found here. This process will also erase all of the data on your original hard drive.
+
+If, however, you don't need to transfer any content but simply want to erase the hard drive, this can be done by formatting it. To do this, go to the "memory" section of the 360 dashboard and select "hard drive," which is located under "storage devices." From there you can format the drive, erasing all data contained within.
+
+Wii
+
+When it comes to cleaning your Wii (get your mind out of the gutter), there are two steps involved. First, you'll have to delete your information from the Wii shop channel. This is done by going to the Wii shop channel, selecting "setting and features" and then choosing the "remove Wii shop channel account" option. Then, to format the console's internal hard drive, go from the main menu to "options," then "settings," and select "format Wii system memory."
+
+It should be noted that any Virtual Console or WiiWare games will have to be re-purchased, as they can't be transferred to another console. This is true even if you back up your data onto an SD card. And it doesn't look as if there is a way to recover lost games.
+
+"If you remove your Wii Shop Channel account, all of your currently registered Wii points and downloaded software, data, and services will be deleted and software stored on an SD card will become unusable," reads a warning from Nintendo when you attempt to remove your shop channel account. "Additional Wii Points will be necessary to download software, data, or services if you decide to use the Wii Shop Channel again at a later date."
+
+PlayStation 3
+
+Sony's PlayStation 3 requires similar steps, though thankfully you can back up your data for transfer to another console. This can be done using the PS3's backup utility, which can transfer most content to removable storage like a MemoryStick or an SD card. The only content that can't be transferred is anything with DRM (i.e. movies and TV shows), PSOne and PS2 save data, and certain PS3 save data. To use the backup utility, simply go to the "setting" section of the Cross Media Bar and choose "backup utility."
+
+Then, to get all of your information off of the console, you'll have to do three things. First, delete each of the user accounts on the system. Second, format the hard drive by selecting "format hard disk" under the "settings" section of the XMB. Finally, you can delete/change your credit card information via a PC (instructions here).
+
+It may seem like a pain, but these steps really are important for protecting your personal information. Leaving your credit card info in the hands of a stranger is definitely a bad idea. And, at least in the case of the 360 and the PS3, the only drawback is the loss of some free time. Unfortunately for Wii owners, migrating to a new console also means the loss of all your downloaded games.
+
+What should you care
+
+This is basic stuff for the majority of our audience, but how often do you pay attention when your children trade in a gaming system? If your Xbox Live account remains live on your 360, it can be a trivial matter for someone to go online and start buying content using your credit card.
+
+We leave the ghosts of our lives on our digital devices. When a digital camera is lost or stolen, we're out the cost of the hardware as well as the memories that may have been on the memory stick. Our cell phones can be home to our personal videos. Our consoles are no different, and should be treated accordingly.

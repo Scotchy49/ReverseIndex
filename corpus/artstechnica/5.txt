@@ -1,0 +1,47 @@
+Amidst all the hubub over net neutrality, bill shock rules, and other high profile controversies, the Federal Communications Commission has quietly released a Notice of Inquiry full of proposals that could radically transform who gets to use the radio spectrum bands and how. Among the ideas being considered is an expansion of the FCC's white space device service from the television bands to other license regions as well.
+
+"Commenters should address whether they believe this concept is practical for other bands, the NOI asks. ""If so, they should identify in which bands they believe such a system could work and provide details on how it would work."""
+
+"The gist of the probe is that the government needs to find ways to make wireless licenses ""dynamic""—that is, useable by far more than one licensee. ""Even as we look to free up existing spectrum to meet the needs for wireless broadband, we can and should explore ways to make more dynamic and opportunistic use of the spectrum we have,"" noted FCC Chair Julius Genachowski following the NOI's release—that is, ""to help us use our spectrum resource more intensively and efficiently."""
+
+"Ditto, declared his Republican colleague Robert M. McDowell. ""I hope our updated rules will adhere to the Commission’s more recent 'flexible use' policy,"" he declared. ""Old style 'command and control' (read: prescriptive) rules not only hamper creative entrepreneurs who are in the best position to understand and satisfy consumer demands, they cause spectral inefficiencies as well."""
+
+"File this in the ""looming spectrum crisis"" for mobile devices docket. Using spectrum more ""efficiently"" appears to mean the abandonment of the ""prescriptive"" notion that one party buys a license from the FCC, then hogs it for a single use for the next five decades or so."
+
+"Here's a rundown of some of the ideas that the Commission is considering along these ""dynamic"" lines."
+
+More white space
+
+"Perhaps the most interesting part of the document is its discussion about whether the FCC should extend its ""white space"" device service to other areas of the spectrum besides the TV bands. The long debated proposal will allow manufacturers to market unlicensed gadgets that can send and receive high speed Internet data through unused areas of the television licensing regions. The service will rely on real time databases to determine which license points are not in use at any given moment."
+
+"When the NOI asks whether extending this concept to other bands is ""practical,"" it's referring to the fact that devices in the TV bands are ""fixed,"" and thus relatively easy to identify. These fixed devices include television stations, wireless microphones, and cable head-ends (the HQ where your cable company receives the TV signals in your area)."
+
+"The question is whether this unlicensed gadget regimen would work in the mobile or the satellite bands. Pushing the concept out to the satellite regions could be ""extremely challenging,"" the FCC concedes."
+
+"The governing database would need to either know the location and target area of all satellites and, possibly—for NGSO systems—the location of the satellites as they move relative to the surface of the earth, as well as all mobile or fixed earth stations, both transmitting and receive-only, at any given time;  or be able to predict with a high degree of accuracy and confidence the location of mobile stations. We therefore inquire whether development of such a database is feasible."
+
+More sharing and leasing
+
+"Another proposal involves expanding the agency's rules for ""dynamic spectrum leasing arrangements."" These rules let license owners rent out their spectrum to other parties who rely on various ""opportunistic"" technologies to avoid bumping into each other. The terms ""opportunistic"" and ""cognitive"" are often used in the same breath to describe mobile devices that can sniff out the availability of unused spectrum."
+
+"But the NOI notes that the art of ""spectrum sensing"" is still in its early stages. In fact, the Commission considered and then declined to authorize the technique for white space devices in the TV bands, relying solely on fixed location databases instead. Still, the agency wants to keep up with how sensing technologies have progressed in the meantime for eventual use with white space and other gadgets."
+
+"What innovations to sensing are contemplated? the document asks. ""Are there critical component price points that must be reached for advances to take place? Has there been any industry wide consensus regarding methods of implementing sensing?"""
+
+"Let them buy ""scraps"""
+
+The FCC is also considering ways to lease radio spectrum out to mobile services without having to provide them with coast-to-coast contiguous bands along the same frequency point.
+
+"We are seeing the emergence of technologies that allow non-contiguous spectrum to be bonded or joined together such that what might have previously been thought of as 'scraps' can be woven together to provide viable communications capacity, the NOI observes. ""Certain services may be viable using such techniques, provided one is reasonably certain that sufficient scraps are available to draw upon, or that these techniques are used as a complement to increase capacity for services that have nationwide access to spectrum in other bands."""
+
+"The big question here is how close together those ""scraps"" will have to be to make this system work. ""If the scraps are too far apart in the spectrum, it may not be feasible to design a receiver and antenna with suitable characteristics to cover all of the bands,"" the FCC asks. ""What is the minimum usable size of the scraps?"""
+
+Extreme highs
+
+Other questions the Commission is asking—how can technology facilitate more wireless broadband use in the zones above 38.6GHz? As you might guess, this is called the Extremely High Frequency band, and beyond some scattered industrial, satellite, and medical uses, much of it lies fallow.
+
+"Finally, the agency is looking for a ""test-bed"" location to facilitate experimentation with all these dynamic radio ideas. This would involve reserving some bands in a specific geographic area for the site."
+
+"""Are there incentives that we can offer that would encourage greater participation in such a test-bed,"" the FCC asks. ""Could DARPA, the National Science Foundation (NSF), or another Federal agency assist in providing funding of a dynamic radio test-bed?"""
+
+If you happen to have something like the aforementioned just lying around, or want to comment on some of the questions the Commission asks, the proceeding number is 10-237 and you can upload your statement here.

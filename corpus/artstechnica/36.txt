@@ -1,0 +1,45 @@
+﻿The iPhone 4 just begs for some good video content to be played on its high-resolution display—which, contrary to popular belief, isn't made of retinas. The easiest way to get video is through Apple's iTunes Store, but there are many reasons why you might want to watch videos that you already have lying around instead. If you're lucky, your video is already in a format that the iPhone supports. In that case, just add the file to iTunes and sync. But what if it's not in the right format?
+
+The iPhone 4, the iPad, and the latest versions of the iPod touch all support H.264 main profile level 3.1. What that means is that you can play HD video with a resolution of up to 1280x720 and a framerate of 30 frames per second. That's a significant step up from the baseline profile level 3.0 (720x480x30 or 720x576x25) that the older iPhones and iPod touches support, and even an improvement over the older Apple TV, which could only play 1280x720 video at 24 frames per second or less. The main profile rather than baseline profile means that it's possible to use more effective compression.
+
+So how to go about creating those H.264 files?
+
+Apple's software
+
+The easiest options come via Apple's software. The first order of business is to install Perian, which is a set of QuickTime components that lets you open various types of video files using QuickTime or any application that uses QuickTime under the hood, such as iTunes. After that, you can use QuickTime Player 7 (but not QuickTime Player X) to open .avi and .mkv files and many more, and simply choose "Export" from the File menu. 
+
+The iPod preset creates files that are compatible with iPods, the iPhone preset files that are compatible with older iPhones, and the AppleTV preset files that are compatible with the older AppleTV. All of these files will play on the iPhone 4 and the other devices with the same capabilities mentioned above. However, the iPod and iPhone settings will scale down the video and use less efficient compression.
+
+Another way to accomplish the same thing is to import the files in iTunes and choose "Create iPod or iPhone Version" or "Create iPad or AppleTV Version" from the Advanced menu—again, both are compatible with the iPhone 4. This has the advantage that you can batch convert a set of files. But be warned: iTunes doesn't handle multithreading very well and becomes much less responsive during the conversion process. 
+
+Also, iTunes is rather picky about the files it will import, even with Perian installed. You can get around that by opening the files in QuickTime Player first and then using Save As from the File menu to save them as .mov files. This happens without converting the actual audio or video, so it's not that slow. You can choose "save as a reference file" which is faster and creates only a small .mov file, but saving as a self-contained file offers less potential for later issues.
+
+Handbrake
+
+QuickTime and iTunes are reasonably convenient and create great high-quality conversions, but the files are large and the conversion is slow. They also don't allow you to convert DVDs (which may not be legal in your country; it is barred in most cases in the US by the DMCA). If you want more speed, smaller files, more settings or need to convert DVDs, the tool for the job is Handbrake. Handbrake is an open source project and as such, is not quite as user-friendly as Apple's software, but it's much more powerful. 
+
+Handbrake is not a universal binary, so when downloading, be sure to download the 64-bit version if you have a 64-bit capable Mac (which includes any that are less than three years old) running Leopard or Snow Leopard—the 64-bit version is about 10 percent faster than the 32-bit version. If you have a Core 1 (Duo) system, you need the 32-bit version and for even older Macs the PowerPC version. If you want to convert protected DVDs, you need to either install VLC (with 32/64-bitness matching Handbrake's) in the Applications folder, or use a tool like RipIt or MacTheRipper to first rip the DVD to your hard disk and then use Handbrake to convert from there.
+
+The first step when starting Handbrake is to select a source. With a regular file this is easy; with a DVD, select the DVD drive or the ripped VIDEO_TS folder. In the latter case, you need to select a title to convert. DVDs usually have a bunch of those, with no easy way to figure out which title is which program on the DVD—save for the duration of the title. If all of them are less than 30 minutes and one is 1:45, chances are that the 1:45 title is the movie. With DVDs of TV shows, there's usually one title for each episode, a bunch of small ones for extras and the like, and a really long one that contains all the episodes in a row.
+
+With the right title selected, it's time to select a preset, and there's no way mere mortals can get Handbrake to create a video file that plays on an iPhone by entering all the right settings from scratch. Don't use the iPod or iPhone presets, as those will reduce the image size to fit to the display of the device in question—unless that's what you want. The universal preset is a good choice if you want to maintain compatibility with older iPhones (but not iPods); just make sure that the image doesn't get bigger than 720x480 while the framerate goes above 25. 
+
+Like with Apple's presets, the ones in Handbrake predate this year's new devices. However, some enterprising souls have created iPad/iPhone 4 presets. The iPad/iPhone SD preset makes files that are incompatible with the older iPhone, but are about 15 percent smaller. Use the 720p preset to create HD files.
+
+Always leave the framerate setting at "same as source" unless you're converting something with a framerate higher than 30. The Picture Settings (at the top) allow you to manipulate the image size and overrule the settings in the preset. For DVDs, I prefer to use "anamorphic strict" to preserve the full DVD resolution. I tend to use custom cropping, which you can evaluate by clicking "Preview." 
+
+Many DVDs have small black bars that are best cropped before conversion. Older material may have artifacts at the edges of the image, which would normally go unnoticed under the border around a CRT, so crop those as well. In fact, I often crop a little off the top and bottom for full screen video and off the sides for widescreen to make the image fit the iPhone screen better.
+
+Also, look at the preview to see if there are any combing or interlacing artifacts in the image. When in doubt, enable default decombing and detelecine in the Filter part of the Picture settings. For grainy video, you may want to select medium denoise—this helps compression a lot. 
+
+The final choice for the video part of the conversion is the quality/size tradeoff. If you want a file of a certain size, use Target Size. In that case, and also if you want to use average bitrate, use two pass encoding so Handbrake can take a first pass over the video to see where it needs to invest its precious bits to get the best-looking results. 
+
+But if you don't care too much about the resulting file size, use constant quality. An RF setting of lower (better) than 19.25 is considered a waste of disk space, going higher than 22 usually doesn't look very good. As a rule, the higher resolution the video, the higher you can set the RF value and still get something that looks good on the iPhone's screen. When in doubt, create a "live preview" from the preview window.
+
+As for the audio, you can include a maximum of four tracks. If you want to play files on the Apple TV or on a computer hooked up to a surround sound system, you'll want to include the AC3 (Dolby Surround) audio as the second track. The first track should be AAC (CoreAudio is faster and better than faac) for compatibility with the iPhone. There are often also audio tracks in additional languages or commentary tracks that you can also include, the iPhone (or iTunes) will let you switch tracks during playback. Include chapter marks if possible—after 20 episodes, you're probably ready to skip past the opening credits of your favorite TV show. 
+
+Then let Handbrake do its thing, import into iTunes, and sync!
+
+One last word about HD video on the iPhone: it looks really good. But low-resolution content looks pretty good, too—there are definitely diminishing returns as the video resolution increases. For instance, have a look at the 320x180 vs. the 1280x720 version of the Buzz Report video podcast. As long as there's no text on screen, even the paltry 320x180 resolution looks reasonable. 
+
+The HD version is also a good cautionary tale against messing with the framerate; the 30 fps video converted to 24 fps makes all movement look terrible. My conclusion is: don't encode video in HD just for the iPhone's sake, as DVD resolution is good enough. However, if you don't know if you want to play a file on the iPhone or on the AppleTV or computer, it makes sense to create an HD version and the iPhone will happily play that version.

@@ -1,0 +1,49 @@
+No malaria vaccine comes close to working 100 percent of the time. Dr. Adrian Hill, of the University of Oxford, said his is the “the No. 2 most effective in the world.” He has proposed combining it with its chief rival, made by GlaxoSmithKline, since his attacks the malaria parasite in the liver, while Glaxo’s attacks it in the blood.
+
+“It would be a belt-and-braces approach,” he said. “We’d anticipate efficacy of over 80 percent.”
+
+Lab in a Box
+
+Another grant that was not renewed was $15 million for several teams collaborating on a hand-held battery-powered diagnostic laboratory. The plan was to have it split a single drop of blood into a dozen fractions to test for flu, malaria, typhoid, dengue, measles, rickettsia, salmonella and other infections, all within 30 minutes.
+
+Many advances were made, said Paul Yager, a bioengineer from the University of Washington. The blood drop went into a plastic card with 23 layers of microchannels, pumps and bladders.
+
+But obstacles kept cropping up. Some illnesses, like flu, left too few traces in the blood. Not every company whose patented test was to be miniaturized would cooperate. A big partner, Hewlett-Packard, dropped out; others were acquired.
+
+“It was really challenging being the chief cheerleader for five research teams,” Dr. Yager said. “But the single toughest problem in the whole project was ‘low cost.’ ”
+
+The prototype was as big as a toaster, weighed nine pounds, and cost $1,000.
+
+And while the project had no competition when it began, two types of rivals emerged. Big companies developed boxes that cost up to $70,000 but could do more. And George M. Whitesides, a Harvard chemist, got intrigued by the same challenge and began work on a revolutionary variant: skip all the plastic and let the fluids instead be wicked through paper the size of a postage stamp infused with color-changing reagents. The foundation gave him a grant two years ago to develop a liver-function test.
+
+“He was right — paper was a good way to go,” Dr. Yager said. “An experiment we did 15 years ago with three $1,000 pumps and a $30,000 microscope you can do now with 5 cents worth of paper.”
+
+He is now moving on to other projects, like writing code and developing chemicals that will turn cellphone cameras and inkjet printers into diagnostic devices.
+
+The Gates grant, he said “took me places I never would have gone, like a South African township. I have so many students I have to beat them back with a stick, and I’m left with a burning desire to accomplish the goals of the program.”
+
+Mosquito ‘Olfacticides’
+
+As the inventors of “a cell line that behaves like a mosquito antenna, recreating mosquito smellers in a dish,” Leslie B. Vosshall of Rockefeller University and Dr. Richard Axel, a Howard Hughes Medical Institute investigator at Columbia University, got $5 million to hunt for molecules that could block mosquitoes’ ability to detect people. Dr. Axel shared a 2004 Nobel Prize in Medicine for cloning insects’ olfactory receptors.
+
+“When you puff human odors over the cells, they get excited just like mosquitoes would,” Dr. Vosshall explained. In this case, they turn fluorescent green.
+
+They tested 91,000 compounds in Rockefeller University’s chemical library and found five that jammed the antennae. Their Gates grant is renewed for two years, but they now have a contract with Bayer CropSciences to screen its two million compounds — the same smell mechanism is used by corn borers, apple maggot flies and other farm pests.
+
+The ideal, Dr. Axel said, is a repellent harmless to humans that works at a fraction of the concentration of DEET.
+
+But repellents aren’t the only way to outwit mosquitoes, he said. Triggering the hormone that tells a female she is already full of blood could work, as could one that sends her far from humans to lay her eggs.
+
+‘Exhausted’ Immune Cells
+
+Another grant is ending because it attracted so much commercial backing. Rafi Ahmed, an Emory University immunologist, studies why the immune system’s T-cells get “exhausted” during a long battle against some viruses like H.I.V. or hepatitis C. Eventually, he discovered, the cells start growing “inhibitory receptors” on their surfaces as a self-protection measure.
+
+“You can’t continue a totally active T-cell response indefinitely,” Dr. Ahmed said. “You’d be sick or dead.”
+
+In mice and monkeys, he has found molecules or antibodies that block those inhibitory receptors, perking up the cells again.
+
+“It doesn’t result in a cure, but it’s quite promising,” he said.
+
+He hopes to find a way to revive exhausted cells in humans with AIDS and let them take breaks from the toxic drugs.
+
+Because T-cells fight many diseases, including cancer, Genentech, Bristol-Myers Squibb and the National Institutes of Health are all offering him money.

@@ -1,0 +1,57 @@
+SEATTLE — Five years ago, Bill Gates made an extraordinary offer: he invited the world’s scientists to submit ideas for tackling the biggest problems in global health, including the lack of vaccines for AIDS and malaria, the fact that most vaccines must be kept refrigerated and be delivered by needles, the fact that many tropical crops like cassavas and bananas had little nutrition, and so on.
+
+No idea was too radical, he said, and what he called the Grand Challenges in Global Health would pursue paths that the National Institutes of Health and other grant makers could not.
+
+About 1,600 proposals came in, and the top 43 were so promising that the Bill & Melinda Gates Foundation made $450 million in five-year grants — more than double what he originally planned to give.
+
+Now the five years are up, and the foundation recently brought all the scientists to Seattle to assess the results and decide who will get further funding.
+
+In an interview, Mr. Gates sounded somewhat chastened, saying several times, “We were naïve when we began.”
+
+As an example, he cited the pursuit of vaccines that do not need refrigeration. “Back then, I thought: ‘Wow — we’ll have a bunch of thermostable vaccines by 2010.’ But we’re not even close to that. I’d be surprised if we have even one by 2015.”
+
+He underestimated, he said, how long it takes to get a new product from the lab to clinical trials to low-cost manufacturing to acceptance in third-world countries.
+
+In 2007, instead of making more multimillion-dollar grants, he started making hundreds of $100,000 ones.
+
+“Now,” he said, only half-kidding, “you get a hundred grand if you even pretend you can cure AIDS.”
+
+That little won’t buy a breakthrough, but it lets scientists “moonlight” by adding new goals to their existing grants, which saves the foundation a lot of winnowing. “And,” he added, “a scientist in a developing country can do a lot with $100,000.”
+
+Over all, he said: “On drawing attention to ways that lives might be saved through scientific advances, I’d give us an A.
+
+“But I thought some would be saving lives by now, and it’ll be more like in 10 years from now.”
+
+Several scientists at the conference noted that Mr. Gates comes from the software industry, where computing power constantly doubles. Biology, by comparison, moves glacially — and microbes are less cooperative than electrons.
+
+Biology also has a greater tendency to create progress-hindering controversy. For example, doing clinical trials on illiterate subjects in poor countries, which was once cheap and fast but ethically dubious, has become time-consuming and expensive as ethical standards have improved.
+
+Also, poor countries lacking regulatory authorities and highly educated political and scientific elites may be nervous about being misused by Western scientists and careful about accepting new technologies.
+
+Despite discoveries on many fronts, up to two-thirds of the grants either did not get renewed or may not in the near future, Mr. Gates estimated. In some cases, it was because they were not succeeding, either scientifically or because of political obstacles, or someone else had found a better path. In others, the foundation changed the goal.
+
+What follows is a sample of the progress of a few grants.
+
+Dried Vaccines
+
+The hardest-hit inventors were those working on thermostable vaccines. Several techniques worked, but paying for all to go ahead made little sense. Billions of dollars — including hundreds of millions from the Gates Foundation — have been poured into improving the distribution of a dozen existing refrigerated vaccines, and having one or two heat-stable ones doesn’t help if rural clinics still need refrigerators and electricity for the rest.
+
+Abraham L. Sonenshein of Tufts University succeeded in splicing tetanus vaccine proteins into a bacterial spore that survives heat or cold and can be sprayed into the nose. But his grant ended before he could add diphtheria or whooping cough vaccines or start human trials.
+
+Dr. Sonenshein said he was grateful to the Gates Foundation for the seed money and now might switch to veterinary vaccines. “A lot of farmers would like to be able to vaccinate their own cows and pigs instead of calling the vet every time,” he said.
+
+Robert E. Sievers, a University of Colorado chemist, also reached his chief goal — attaching a measles vaccine to a sugar matrix that can be stored dry and then sprayed into a child’s lungs.
+
+His first sugar — based on the one that protects the “amazing sea monkeys” seen in comic books (actually dried brine shrimp) — did not work, so he found another. In his speech five years ago at a gathering of grant winners, he blew a goose call as an example of a device that vibrates air to send particles into the lungs. That didn’t work either, so he designed a puffer that lofts the sugar in a tiny plastic bag, creating a sweet cloud that a child inhales.
+
+While Dr. Sievers’s Gates grant is not being renewed, he is partnering with the Serum Institute of India — the world’s biggest vaccine maker — to test it there.
+
+The foundation is still supporting two thermostabilization techniques.
+
+The first attaches vaccines to nanoparticles that can be absorbed by the skin inside the nostrils. Dr. James R. Baker Jr., director of the University of Michigan’s nanotechnology institute, said it works with hepatitis B and flu vaccine. He won a new grant to test the respiratory syncytial virus, which causes pneumonia.
+
+The particles are in what Dr. Baker described as a “proprietary formulation of mayonnaise” based on soybean oil. The vaccine ends up inside the oil particles, which protect it from temperature changes and microbes. The immune system is “made to eat oil droplets,” Dr. Baker said, because it targets viruses, which are essentially time bombs of genetic instructions inside casings of fats. The “mayonnaise” is so safe, he said, that rats fed the equivalent of two quarts a day had only one side effect — weight gain. The emulsion by itself cures viral lesions like cold sores, he said; its surfactants harmlessly penetrate the skin but break up the herpes virus inside.
+
+The second thermostabilized vaccine the foundation is still backing is a complex one against malaria. It fuses the genes for parasite proteins onto a “genetic backbone” from vaccines against smallpox and a chimpanzee virus.
+
+Rather than being bottled, the vaccine can be dried onto a bit of filter paper.

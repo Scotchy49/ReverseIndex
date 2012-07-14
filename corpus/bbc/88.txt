@@ -1,0 +1,122 @@
+Frequently asked questions
+
+Click on the links below for FAQs on that topic.
+
+General Content Questions
+Subscription Questions
+Access Questions
+Technical Questions
+Subscriber Services
+General Content Questions
+
+What is the BBC College of Journalism?
+The BBC College of Journalism is comprised of learning and development materials created for BBC journalists. The subjects covered range from craft skills (e.g. writing or directing video) to subject briefings on critical events and topics such as climate change and the conflict in the Middle East, to the many ethical issues now facing journalists. BBC College of Journalism maintains its relevance and realism by being made, primarily, by working journalists.
+What content is available on the site?
+This interactive website includes hundreds of videos, audio clips, discussion pages, interactive modules, and text pages covering every aspect of TV, radio, and online journalism. Much of the material features BBC TV reporters, anchors, and hosts known around the world.
+How often is BBC College of Journalism updated?
+The site is continuously updated, its coverage driven by the practical needs of BBC journalists around the world, as well as current events in the news.
+How can I find out when a new update has gone live?
+BBC College of Journalism will be updated on a rolling, continuous basis with new coverage being determined by demand from journalists and by current events dominating the headlines. The updating will be organic and driven by current issues, e.g. political races, military conflicts, and natural disasters. New learning units will be added and existing learning units will be enhanced on a monthly basis.
+How do I cite information on BBC College of Journalism?
+No Author
+MLA
+"Title of individual entry." BBC College of Journalism. Date posted. <permalink URL>.
+
+"Independence in Fixing Guests." BBC College of Journalism. Mon Jan 25 10:00:03 EST 2010. <http://bbcjournalism.oup.com/skills/production/dealing-with-guests/independence-in-fixing-guests.shtml>.
+
+Chicago
+"Title of individual entry." BBC College of Journalism, permalink URL (date accessed).
+
+"Independence in Fixing Guests." BBC College of Journalism, http://bbcjournalism.oup.com/skills/production/dealing-with-guests/independence-in-fixing-guests.shtml (accessed Mon Jan 25 10:00:03 EST 2010).
+
+Blog Post
+MLA
+Last, First. "Title of individual entry." [Weblog entry.] BBC College of Journalism. Date posted. <permalink URL>. Date accessed.
+
+Acheson, Fran. "Prescription for an ethical disaster?" [Weblog entry.] BBC College of Journalism. Wed 20 January 07:15:01 EST 2009. <http://bbcjournalism.oup.com/blog/2010/01/prescription-for-an-ethical-di.shtml>. 20 Mon Jan 25 10:00:03 EST 2010.
+
+Chicago
+Last, First. "Title of individual entry." Discussion on CoJo. BBC College of Journalism, date posted. permalink URL (date accessed).
+
+Acheson, Fran. "Prescription for an ethical disaster?" Discussion on CoJo. BBC College of Journalism, Wed 20 January 07:15:01 EST 2009. http://bbcjournalism.oup.com/blog/2010/01/prescription-for-an-ethical-di.shtml (accessed 20 Mon Jan 25 10:00:03 EST 2010).
+
+Subscription Questions
+
+How do I subscribe to the BBC College of Journalism?
+Annual subscriptions are available for individuals, universities, schools, public libraries and organizations. Individuals can also subscribe monthly. Visit How to Subscribe, or contact us for subscription information.
+Is it possible to have a free trial?
+Free 30-day trials are available to libraries and institutions considering a subscription. If you are an individual and would like to try out the site, find out if your library or organization already subscribes or is interested in a free trial. Librarians and administrators can sign up for a trial on this site.
+Are discounts available to consortia and consortia members?
+Special pricing is available for library consortia. For further details, please get in touch with your consortia manager or contact us.
+Why is the site freely available to UK residents?
+The site is freely available to UK residents but commercialized outside the UK. This is in line with BBC policy for other online services. UK residents fund the BBC via a license fee. Commercialization outside the UK helps the BBC invest in content while keeping the license fee as low as possible.
+Access Questions
+
+I cannot access BBC College of Journalism.
+Suggestions for Library Administrators:
+
+Please verify that you have submitted your library's signed subscriber agreement to OUP. All new subscriptions require a signed license agreement on file that has been verified prior to activating service.
+Please check that OUP has your library's most current IP address information on file. Administrators can verify account details from Subscriber Services. You will need an administrative login. If you have lost or forgotten your administrative password, please contact us.
+If your library's IP information has changed, please contact us to report the new address(es) or to update IP information currently registered.
+Your library's access may have expired or been placed on hold if OUP has not received your subscription payment or if your free trial has expired. It is customary for OUP to contact subscribers before a renewal/anniversary date or trial expiration. For further assistance, please contact us.
+Individual Customers: You have entered an incorrect username or password or no longer have an active subscription. Please contact us.
+Is remote access available?
+Remote or off-site access is available to all institutional subscribers at no additional cost. For further assistance setting up remote access, please contact us.
+Is library card access available?
+Library card access is not currently available.
+Is BBC College of Journalism accessible through Athens?
+We are not yet available through Athens, but will be soon.
+I have forgotten my username and password.
+If you are using access information provided by your library, please contact your librarian or administrator for library access information. Individual subscribers click here to change or be reminded of your login.
+Technical Questions
+
+With which browsers is BBC College of Journalism compatible?
+The site should be accessible to general users using most current and many legacy browsers. BBC College of Journalism is specifically tested and designed for correct display and function on the following browsers:
+IE7/Windows
+IE6/Windows (version 6.0.2900.2180 or higher)
+Firefox 3/Windows
+Firefox 2/Windows
+Firefox 1/Windows
+Firefox 2/Macintosh
+Firefox 1/Windows
+Safari 3/Macintosh
+Safari 2/Macintosh
+Pages will also display on other browsers. Please feel free to contact us if you have a specific browser or platform question.
+Is the site accessible to visually impaired users?
+The site is designed to meet Priority 1 and 2 of the Web 3 Content Accessibility Guidelines 1.0. Compliance with each of these guidelines has also been documented and reviewed during the visual design build phase.
+Does BBC College of Journalism support federated searching?
+Yes; the site can currently be accessed by federated search software via HTTP request and supports the METHOD="GET" which sends the request using the following base URL:
+http://www.bbc.co.uk/journalism/search/index.shtml?scope=cojo&q=[your search term]
+Do not put square brackets around your search term.
+Multiple search terms should separated with the '+' sign.
+For example:
+if search query contains the terms Scottish law, use: q=Scottish+law
+Subscriber Services
+
+Are usage statistics available?
+Usage statistics are available on a monthly basis to subscribing institutions and library consortia.
+How do I access my institution's statistics?
+Please visit Subscriber Services. Your administrative login will be required. If you have lost or forgotten your administrative login, please contact subscriber services.
+How can I view or update my subscription record?
+Institutions and individuals within North and South America may view or change their subscription details at our account management system. Subscribers outside of North and South America click here.
+How can I get a mailing address and other contact details for BBC College of Journalism inquiries?
+Full contact details are below.
+Subscribers in North and South America
+Customer Support - Online Subscriptions
+Oxford University Press
+198 Madison Avenue
+New York, NY 10016
+USA
+Tel: 1 800 334 4249 ext 6484 (Monday-Friday, 9am-5pm EST)
+Fax: 1 212 726 6476
+Email: oxfordonline@oup.com
+
+Subscribers Outside the Americas
+Online Products
+Oxford University Press
+Great Clarendon Street
+Oxford OX2 6DP
+UK
+Tel:+44 (0) 1865 353705 (Monday-Friday, 9am-5pm GMT)
+Fax: +44 (0) 1865 353308
+Email: onlinesubscriptions@oup.com

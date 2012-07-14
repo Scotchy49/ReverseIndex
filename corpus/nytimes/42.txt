@@ -1,0 +1,31 @@
+When a product manager at Google told his bosses this year that he was quitting to take a job at Facebook, they offered him a large raise. When he said it was not about the money, they told him he could have a promotion, work in a different area or even start his own company inside Google.
+
+He turned down all the inducements and joined Google’s newest rival.
+
+“Google’s gotten to be a lot bigger and slower-moving of a company,” said the former manager, who would speak only on the condition of anonymity to protect business relationships. “At Facebook, I could see how quickly I could get things done compared to Google.”
+
+Google, which only 12 years ago was a scrappy start-up in a garage, now finds itself viewed in Silicon Valley as the big, lumbering incumbent. Inside the company some of its best engineers are chafing under the growing bureaucracy and are leaving to start or work at smaller, nimbler companies.
+
+Recent departures include low-level engineers, product managers and prominent managers like Lars Rasmussen, who helped create Google Maps and Wave before he left for Facebook, and Omar Hamoui, the founder of AdMob who was vice president for mobile ads at Google and is now looking for his next project. At least 142 of Facebook’s employees came from Google.
+
+Corporate sclerosis is a problem for all companies as they grow. But a hardening of the bureaucracy and a slower pace of work is even more perceptible in Silicon Valley, where companies grow at Internet speed and pride themselves on constant innovation — and where the most talented people are often those with the most entrepreneurial drive.
+
+Much of Silicon Valley’s innovation comes about as engineers leave companies to start their own. For Google, which in five years has grown to 23,000 employees from 5,000 and to $23.7 billion in revenue from $3.2 billion, the risk is that it will miss the best people and the next great idea.
+
+“It’s a short step from scale to sclerosis,” said Daniel H. Pink, an author and analyst on the workplace. “It becomes a more acute problem in Silicon Valley, where in a couple years, you could have some competitor in a garage ready to put you out entirely.”
+
+Google’s chief executive, Eric E. Schmidt, says that people who think Google faces brain drain are “fundamentally wrong.” The company’s attrition rate for people it wished would stay has been constant for seven years, he said.
+
+Nevertheless, Google’s maturation worries him. “There was a time when three people at Google could build a world-class product and deliver it, and it is gone,” Mr. Schmidt said. “So I think it’s absolutely harder to get things out the door. That’s probably our biggest strategic issue.”
+
+As a result, Google is taking aggressive steps to retain employees, particularly those with start-up ambitions. Google has given several engineers who said they were leaving to start new companies the chance to start them within Google. They work independently and can recruit other engineers and use Google’s resources, like its code base and servers, according to half a dozen employees.
+
+Google Wave, a way for people to work together online, was one example. The engineering team, based in Sydney, Australia, worked independently and got equity in the project, according to three people briefed on the agreement. But Google shut down Wave this year, and Mr. Rasmussen, who led the project, quit for Facebook soon after.
+
+Google is considering opening a start-up incubator inside the company, according to two people briefed on the plans.
+
+Other big companies have made similar attempts with varying success. Cisco Systems’s program has given birth to new businesses like TelePresence, a videoconferencing service, but Yahoo’s incubator was shut down in 2008, a year and a half after it started.
+
+From the beginning, Google’s founders, Larry Page and Sergey Brin, have tried to prevent atrophy. That is one reason Google gives everyone time — called 20 percent time at the company — to work on their own projects. The company tries to limit groups of engineers working on projects to 10.
+
+But in reality, engineering groups quickly swell to 20 or even 40, several Google product managers said. And new products created during 20 percent time are less likely to get anywhere these days.

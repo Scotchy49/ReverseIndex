@@ -1,0 +1,52 @@
+﻿
+It has been less than ten months since we reviewed Parallels Desktop 5, a competent but buggy release from Parallels. Shipping paid updates with stability issues seems to be the company's modus operandi, so I was a little skeptical when I saw that a new version was already being released, since the last one had so many issues that needed ironing out. The feature list of Parallels Desktop 6 isn't what I'd call ambitious—the main focus of version 6 has been on the 64-bit host and increased speed, mostly for 3D and gaming. Gaming was already Parallels' forte, but I was curious to see if the new version would finally make playing modern games with complex shaders, high resolutions, and high-quality audio a reality. If it doesn't come through, and suffers from stability issues, this could be a disastrous release for Parallels. Read on for the verdict.
+
+Test Hardware
+
+Mac Pro dual quad-core Nehalem Xeon 2.66 GHz
+24GB RAM
+120GB OCZ Vertex Turbo SSD system drive with separate HD RAID disk for virtual machine disks
+Radeon 4870/Geforce GTX 285 testing scenarios
+Dual NEC WUXi 2490 Spectraview monitors
+OS X 10.6.4 64-bit kernel with graphics update
+Windows 7 64-bit VM specs:
+8 cores
+8GB RAM
+256 MB VRAM and 3D acceleration and vsync enabled.
+MacBook Pro Core2 Duo 2.4GHz 15" Santa Rosa
+4GB RAM
+120GB OCZ Vertex SSD
+NVIDIA Geforce 8600M 256MB
+OS X 10.6.4 32-bit kernel with graphics update
+Windows XP SP3 32-bit VM specs:
+2 cores
+2.5GB RAM
+256 MB VRAM and 3D acceleration and vsync enabled
+System Requirements
+
+Intel Mac. 64-bit virtual machines require an Intel Core 2 Duo or higher
+Minimum 1GB of memory, 2GB of memory is recommended
+500MB for Parallels Desktop application and support files
+Snow Leopard: Mac OS X Snow Leopard 10.6.3 or later
+Leopard: Mac OS X Leopard 10.5.8 or later
+Interface changes
+
+Most of the interface changes in Parallels Desktop 6 are subtle tweaks, but they make the application feel more polished overall. The new VM Library window has a slight transparency-with-blur effect over the background:
+
+Resuming and suspending VMs overlays a similar charcoal gray and glass feel:
+
+When you attach a USB device, a slick little window pops up:
+
+This consistent feel makes the whole Parallels experience a little slicker and more in keeping with Apple's interface design. This is also helped by changes to...
+
+That icon
+
+I don't think many applications have received as much hate over an icon change as Parallels has. How bad is it? Well, I noticed this when searching for installation info for Parallels:
+
+When your icon is so contentious that it's trumping "install" and "increase memory" for support questions, I think it's safe to say people don't like it. I was no fan either—just look at this thing:
+
+The updated icon attempts to right some of the wrongs, while keeping the "parallel lines" motif:
+
+The lines still feel lazily dropped on top of a decent stock icon, but it's an improvement, and the overlaid lines look okay on top of applications:
+
+I'd still rather have the old icon back, but those pixels are behind us now.

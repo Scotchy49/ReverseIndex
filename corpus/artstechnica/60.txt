@@ -1,0 +1,7 @@
+﻿Move over Google and Microsoft: Oracle wants to get in on the cloud productivity scene too. The company has announced Oracle Cloud Office, which will allow users to create and edit documents collaboratively in the browser without having to rely on desktop software.
+
+The 1.0 version of Oracle Cloud Office "enables web 2.0-style collaboration," says Oracle, and can be viewed (but apparently not edited) on smartphones and other mobile devices. The online service is compatible with both Open Office documents as well as Microsoft's Office format, though it's built around the open ODF format. Unlike services like Google Docs, though, it doesn't look like Cloud Office will be free to consumers—it's being offered to businesses and other service providers (like ISPs) as a way to create online presentations, spreadsheets, and other documents on the Web.
+
+Speaking of Open Office, the company also announced Open Office 3.3, which has built-in integration with Cloud Office. The updated suite is largely geared towards enterprise users, with ways to connect to Oracle Business Intelligence, Oracle E-Business Suite, and Microsoft Sharepoint.
+
+Although there are already a couple major players in the cloud productivity space, offering such a service for Open Office users is a good idea for Oracle. The company already tries to lure away Microsoft customers through the desktop version of its software, and adding collaboration tools will help Oracle keep those customers.

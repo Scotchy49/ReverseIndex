@@ -1,0 +1,29 @@
+﻿Safari 5 includes a new secure browser extension system that is similar in many respects to Chrome's extensions and Firefox's Jetpack plugin. Extensions are created completely in JavaScript, HTML, and CSS, and Apple takes great pains to differentiate extensions from plug-ins. Safari plug-ins—written in native code—are solely for supporting new media types within the browser (Flash, Quicktime, et cetera) whereas extensions are for adding new functionality to the browser itself.
+
+The first iteration of the extension system allows developers to add features to a number of carefully controlled places within the application. Developers can create toolbars, add items to contextual menus, manipulate windows and tabs, add toolbar buttons, and manipulate and extract content within webpages themselves. Extensions can also selectively inspect and filter resources and deny them from loading.
+
+Apple provides a handy diagram to show all the parts of the application your extension can touch:
+
+Thus it should be fairly obvious that it's not possible to add items to the status bar area to manipulate existing toolbars or toolbar items, or to change the display of the window itself (outside of normal JavaScript abilities such as resizing the browser window and such). This means the Apple extensions system is much closer to Chrome than it is to the Jetpack or native Firefox add-ons. In fact, Apple's developer documents contain a conversion document with helpful tips targeted specifically at existing Chrome developers. A developer at WWDC's "State of Safari" talk said he was able to take his existing Chrome extension, develop a thin layer of Safari shim code, and have a nearly fully functional Safari port in roughly 12 hours of work.
+
+Development of these extensions has been taking place at a breakneck place since the software's unveiling at WWDC. In less than a week, hundreds of extensions have been created and are currently being featured ad-hoc on blogs and Tumblrs. Comments from developers we met this week at WWDC indicate that it's nearly a given that Apple will be launching its own extension gallery at some point in the near future. This gallery will undoubtedly share characteristics of Google's Chrome extension gallery and Apple's own dashboard widgets downloads site.
+
+So you want to make an extension?
+
+This article will briefly walk you through the way that Safari extensions work and how the different parts of the architecture interact with the browser itself. The very first thing you should do is open the Safari Preferences dialog, click on the "Extensions" pane, and flip the switch to "On." The second thing you should do is click on the "Advanced" pane and tick the "Show Develop menu in menu bar."
+
+Safari extensions start their lives as a simple folder on your computer. These folders have a .safariextension extension and contain a series of files that make the extension tick. Each extension contains, at the bare minimum, an info.plist, which is an XML file that defines metadata about the extension (e.g., the extension's name, the name of the developer, the current version, the names of resources used, and so forth).
+
+The folder will also optionally contain some of the following:
+
+A global HTML file that will be loaded into memory and executed when Safari 5 is launched or the extension is installed.
+HTML, CSS, and JavaScript files that define the markup, style, and behavior of extension toolbars
+CSS and JavaScript files which are injected into webpages based on a set of domain rules specified in your Info.plist.
+Any image resources you might be using in toolbar buttons or elsewhere in your extension.
+An Icon.png that shows up in the Extensions section of the Safari preferences dialog.
+Another XML file—Settings.plist—that sets up information about your extension's settings and which dictate how they appear in the preferences dialog.
+Content files—typically HTML, but could be pretty much anything, like PDFs—which you can open in a full window or "inject" into an existing webpage through an iframe.
+
+Safari 5 bundles a nice tool called the Extension Builder that will help you create your Info and Settings files so you won't have to futz with XML by hand. In addition, it provides functions that let you inspect your Global HTML file, install and remove your development extensions, and bundle your extension for distribution.
+
+Before you can even get started developing and distributing extensions, though, you'll need to sign up for a free Safari Developer account with Apple and then request a Safari Extension Certificate. The certificate assistant makes this all a fairly simple procedure.

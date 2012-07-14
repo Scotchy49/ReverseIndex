@@ -1,0 +1,30 @@
+NEW YORK – Within the tech community, there is much angst about whether the Web is about to be “closed.” Will it be controlled by companies like Apple, Facebook, and Google, or will it remain “open” to all? Will individuals be able to reach any content they choose? Will developers be able to serve users on any platform?
+
+These questions are not new. Fifteen years ago, in the United States at least, it was America Online (now AOL) that was closing the Internet. Millions of people were relying on it for Internet service and content. Today, AOL’s purported control of the Internet looks like a joke, but it was considered a real threat at the time.
+
+The threats nowadays come from both new companies and new models. (More about governments some other time!) Facebook is getting a lot of press, owing to its omnipresence and its pending stock offering. Increasingly, many people go online to use Facebook and little else, while Facebook encourages people to stay on Facebook to play games on Zynga, shop through Facebook commerce pages, and so on. Will Facebook control who gets to talk to us?
+Likewise, Apple not only sells hardware; it controls, through its AppStore, what applications we can use on our iPads and iPhones. Amazon determines which books we read. Google, for its part, is filtering our search results – both by focusing our attention on what also interests our friends, and by excluding Twitter and Facebook results from what we see (mostly because Google and Facebook/Twitter cannot agree on whether Google should pay them or they should pay Google). 
+
+Beyond these big players, smaller startups are increasingly focusing on apps – applications that capture a user and keep him or her safe from the open Web. These apps are typically cleared and registered by big players. For many people, Apple’s App Store is a benefit, because it ensures (for the most part) the quality and security of the apps. Various app stores perform the same function for Android phones, but with fewer restrictions and less security.
+
+In short, you can choose from along a spectrum, with more security at one end and more freedom at the other. The Web’s openness or closure is not a matter to be settled once and for all, but rather a fluctuating situation (even if the Web takes on some other name). CompuServe and FTP (file transfer protocol, remember that?) were not the end of Internet history. The same is true of the World Wide Web. Nor will Google or Facebook and apps be the last word of the digital age.
+
+The great thing about Internet companies is that they, unlike governments, can be relatively easily deposed. They cannot outlaw competition, and, though they can engage in anti-competitive practices and filter content for their users, eventually consumers and startups fight back.
+
+Consider the Web site Pinterest – “Organize and share things you love” – which has recently gone from startup to 11 million visitors a week. Even more recently, it has attracted negative attention for secretly profiting from its users’ behavior and spamming their Facebook friends. Should we wait for users to notice, or should we call on some government to save them from their own blissful ignorance?
+
+How can we distinguish between paternalism and our duty to protect people from companies with incomprehensible privacy statements? If people are happy with Facebook, why should we disturb them?
+
+In a world where Facebook can go from dorm-room project to $100 billion IPO in seven years, it may seem careless to suggest that we can just wait for a backlash to come if one is necessary. But I think we can.
+
+Of course, we can also be part of the backlash. In fact, paranoid bloggers and self-styled consumer advocates are all part of the workings of the broader market, which includes not just companies and activists, but also pundits and politicians, each with proposals to address perceived dangers.
+
+Don’t get me wrong: collective action in the form of government interference will sometimes be necessary. The problem is that we are as likely to get bad measures – like the recently abandoned US attempt to enact anti-piracy laws that would have fostered wholesale Web site closures – as we are to get a freer Internet. (In general, antitrust enforcement is the best approach to ensuring an open market in a world where technology changes even faster than election cycles, though it, too, can be driven more by sentiment and fashion than by economics.)
+
+We are now moving slowly from open data to a closed online world of Facebook and apps. Use of the Domain Name System (the address bar) will likely diminish, owing not only to apps, but also to a tragedy of the commons in which new Top-Level Domain names (.whatevers and .brands) confuse users and lead them to rely on the search box or links within apps instead.
+
+At the same time, Facebook is responding (in its own way) to user and advertiser demands. Blogger Robert Scoble likes Facebook because it lets him manage and calculate his online popularity; I like it because I can limit comments (mostly) to people who are not totally crazy. And I can also write for Project Syndicate to reach (and hear from) a broader audience. None of this is all or nothing. Different individuals have different preferences; sometimes even the same individual has different preferences.
+
+I don’t believe that we are actually facing a world of no choices; we have many, and it is up to us to select from them. I despise many people’s choices, but I prefer the world of the so-called long tail. By contrast, the short, fat front – where content is homogenized and individuals get either one central broadcast or something so tailored for them that they never learn anything new or encounter a disagreeable idea – is always more popular. But then, just when it seems no alternative is possible, some fearless entrepreneur comes along with something outrageous that, ten years later, dominates everything.
+
+Esther Dyson, CEO of EDventure Holdings, is an active investor in a variety of start-ups around the world. Her interests include information technology, health care, private aviation, and space travel.

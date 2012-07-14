@@ -1,0 +1,11 @@
+Barnes & Noble introduced its Android-powered color e-reader, the Nook Color, at the end of October. The 7" device runs Android 2.1, but was more or less limited to the Nook interface. However, Barnes & Noble is working on an Android 2.2 update for the device. Contrary to initial reports that stated the update would give users some kind of access to the Android Marketplace as well as a more typical homescreen, Barnes & Noble plans to keep the Android Marketplace off-limits to Nook owners.
+
+"Standard Android applications can run on the device, but we are working with developers to create Nook-specific applications using our SDK," a B&N spokesperson told Ars. "Those will be available via the Barnes & Noble e-book store in early 2011." The spokesperson noted that developer response has so far been very positive.
+
+A B&N representative demonstrated the version of Android 2.2, currently in development, to Smartphone Magazine. Beyond enabling a more typical tablet experience, the 2.2 update is also said to address performance and battery life issues. We noted that battery life is significantly shorter for the Nook Color compared to its e-Ink counterpart, so anything that increases the battery life is welcome.
+
+The 7" widescreen display is similar to the screen in Samsung's Galaxy Tab or RIM's PlayBook. However, the $250 price tag of the Nook Color would make it less than half the price of those tablets. There are other hardware differences, to be sure, but for many the price difference may be well worth the trade-off.
+
+Barnes & Noble says it isn't interested in competing with the functionality of devices like the iPad or Galaxy Tab. "The Nook isn't intended to be a general purpose device—it's designed to be a reader's device," the spokesperson said.
+
+Look for our review of the Nook Color soon.

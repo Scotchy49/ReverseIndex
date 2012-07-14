@@ -1,0 +1,17 @@
+﻿Apple has finally seen fit to include a camera in the latest iPod touch hardware. While the iPhone has continually received updates to its own camera, culminating in the 5 megapixel backside-illuminated autofocus LED flash wonder in the iPhone 4, the fourth-generation iPod touch is hampered by an extremely low-resolution sensor, no autofocus, no LED flash, and no HDR capabilities.
+
+With all the advantages in the iPhone 4's favor, can the flyweight iPod touch even compare? Our readers wanted to know, and we set out to find an answer.
+
+Comparing the specs
+
+If we go by spec sheets alone, this isn't anything approaching a fair fight. The iPhone 4 has plenty of megapixels, backside illumination, an autofocus lens, 28mm wide-angle equivalent view, bright LED "flash" for auxiliary lighting, and the front-facing camera for low-res stills, video, and FaceTime video chats.
+
+The iPod touch 4, on the other hand, has specs easily outclassed by any no-name budget blister pack digital camera available at your local Target or Best Buy. The rear-facing camera will record 720p video at 30 frames per second, but only manages still images of 720 x 960 pixels—that's a measly 0.69 megapixels. Furthermore, the lens has an angle of view that seems to approach 40mm equivalent and is fixed-focus (not autofocus). There's no LED flash for low-light stills or video.
+
+The front-facing camera records stills and video at VGA resolution, just like the one on the iPhone 4, and is also compatible with FaceTime. 
+
+There are two factors currently limiting the hardware included in the iPod touch. One is cost: the iPod touch starts at $229, while the iPhone 4 is $599 without its huge mobile contract subsidy. The other factor is the iPod touch's seemingly impossible thinness. According to iFixit's hardware teardown, there's simply no room for the substantial camera module included in the iPhone 4.
+
+It's hard to imagine why Apple would even bother putting in camera hardware with such paltry specs, but it's important to keep in mind that the iPod touch doesn't have much competition in the smartphone-sans-phone hardware market. It's also Apple's best selling iPod model. For many users, any camera at all is better than nothing, and Apple would have to radically alter the size or price to put in something close to comparable to the iPhone 4.
+
+In all, it was hard not to feel bad tossing the new iPod touch in the ring with the iPhone 4, but we nevertheless gave the iPod touch a chance to show us what it's got.

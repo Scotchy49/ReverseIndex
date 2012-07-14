@@ -1,0 +1,45 @@
+Bloomberg is reporting that Microsoft will announce that it is porting Windows to run on ARM processors at CES next month. The target will be tablets and other battery-operated, low-power devices.
+
+Microsoft has two operating system lines. There's the Windows NT-derived operating system now selling as Windows 7 and Windows Server 2008 R2. And there's the embedded Windows CE-derived operating system, currently shipping as Windows CE 6.0 R3, which sits at the heart of Windows Phone 7. The Windows CE family is already available and running on ARM processors, and has been for many years, so the assumption is that the rumor is talking about the Windows NT family: Windows (or some derivative) for ARM.
+
+Microsoft has refused to comment on the claims, but company insiders confirm that, at the very least, such a port has been worked on. It's been rumored before, by none other than the CEO of ARM. Some kind of Windows-on-ARM release, therefore, seems likely. What we don't know is exactly what form such a port will take—or what the point will be.
+
+ARM processors are famed for their power efficiency. They're used in a wide range of embedded applications, including digital cameras, palmtops, Game Boys, smartphones and, perhaps most relevantly to this news, tablets such as Apple's iPad and Samsung's Galaxy Tab. Though their absolute performance cannot begin to rival that of Intel or AMD's x86 processors, in the power envelopes found in smartphones and tablets, ARM's greater efficiency wins out, making it the best performing option in this market segment.
+
+It's this efficiency—and the lengthy battery life that it affords ARM-powered tablets—that is likely the reason for Microsoft's interest in ARM. The battery life of x86-powered Windows tablets such as HP's Slate 500 is around five hours. In contrast, ARM tablets like the iPad can achieve ten hours, and that difference is, in part, a result of the iPad's A4 processor (a high-end ARM design named Cortex A8) having much lower power usage than the Atom in the Slate 500.
+
+The port could materialize in a few different ways. The most straightforward would be to simply port Windows 7 more or less as is to run on ARM. It would offer developers the same APIs (though they would have to recompile their software), it would offer users the same interface and usage experience; it would be the Windows that everyone knows and uses, running on low-power ARM processors.
+
+In a similar vein, Microsoft could create a similar port, but slap the Windows Embedded label on it. Windows 7 already has an embedded variant; it's like regular Windows 7, but lets OEMs remove the bits and pieces they don't want or need. Microsoft can then sell it to OEMs to slap on their own tablet front-ends. This is one of the models that Microsoft promotes for Windows CE, so could easily be used for ARM Windows.
+
+The other obvious option would be for the company to build an actual tablet operating system with a user interface that's usable on tablets. It would be Windows behind the scenes, but instead of the mouse and keyboard-oriented Windows interface, and all the mouse and keyboard-oriented programs, it would be a new tablet interface, with new tablet applications. A true tablet Windows, built for iPad-like hardware. The sensible option here (and I think one a lot of people would like to see) would be to build on the Metro interface used in Windows Phone 7, as this would provide both user familiarity and allow developers to target both phones and tablets together.
+
+Sure, you can do it. But why?
+
+The problem is that none of these really make a whole lot of sense. It's true that at the limit, ARM machines will have better battery life than x86 machines. But battery life isn't the thing standing in the way of widespread acceptance of Windows tablets. The user interface is the problem. The user interface has always been the problem. The iPad has an interface designed for fingers, the Galaxy Tab has an interface designed for fingers, the future webOS tablet will have an interface designed for fingers, and it's no real stretch to suggest that every successful tablet that will ship in coming years will have an interface designed for fingers. And it's this interface that Windows lacks.
+
+If Windows had a proper touch interface, nobody would care about the architecture it ran on. x86 tablets would be good enough, and I suspect that in many cases, the slightly inferior battery life will be more than offset by the better performance of x86 machines.
+
+The most pointless option would be a straight port of Windows to ARM. Such an operating system would have the inappropriate front-end with an added bonus of being incompatible with every existing Windows program ever written. Sure, it would have better battery life, but it would have better battery life on systems that no one would want to use, just like they don't want to use existing Windows tablets.
+
+The embedded option is, at least in principle, the one that Microsoft promotes for Windows CE, so it could be used for embedded Windows. But it's awful for users and awful for developers, and essentially awful for everyone. It's possible that some third parties will do a decent job of creating a tablet interface, but they haven't done it so far and there's no reason to believe that they'll do so in the future.
+
+The final option—creating a proper touch user interface—is of course the one that makes sense. But... it still doesn't make sense. Windows on ARM can't run traditional Windows software; it'll need to be recompiled. And there's no point in recompiling existing software, because it won't have a touch interface. So Windows on ARM will need all-new software. And if the platform is going to need all-new software, what's the point of the port? The only value of Windows NT is that it runs Windows NT software, and if you don't want to run Windows NT software, you don't need Windows NT anymore! Microsoft might as well use Windows CE—Windows CE, which already runs on ARM, already has a touch interface in its "Windows Phone 7" guise, and already has lower system requirements, making it more appropriate to less powerful ARM systems.
+
+Obviously, there is an aesthetic sense in which using Windows NT for tablets is better. Apple uses a variant of Mac OS X for its phones and tablets, and Android is based on essentially the same Linux kernel as people use in their servers and desktops, it would be nice for Microsoft to be able to do the same with Windows NT, to avoid having to maintain dual operating systems—as Steve Ballmer said of Google, why have two operating systems?
+
+But to make that consolidation a prerequisite for an entry into the tablet market? That just doesn't make sense. Tablets need new software, and Windows CE is good enough to run that software. Porting Windows NT can't be a priority.
+
+Timing issues
+
+To further confuse the issue is the suggestion in the Wall Street Journal that it will be a couple of years before Windows on ARM actually ships. By that time, ARM processors should be quite a bit faster—but x86 processors will, in turn, use less power. ARM will probably still have the edge, but as long as x86 is in the same ballpark, the battery life differences will be insignificant.
+
+In two years' time, we're also not going to be talking about Windows 7 anymore: it will be Windows 8. Windows 8, unlike Windows 7, will almost certainly have an interface suitable for fingers. As such, a straight port of this Windows should be suitable for tablets. If Windows ARM will be Windows 8, that would at least explain the earlier rumors that Windows 8 would be on show in CES. But it still does nothing to salvage Microsoft's tablet strategy.
+
+Microsoft might well be porting Windows NT to ARM, and Windows 8 may very well be available for x86, x64, and ARM machines. But if it is, it shows that the company is still fixated with hardware. Windows' problems in the tablet space aren't hardware problems. They have always been—and continue to be—software, user interface problems. That's a problem that needs solving now, not in two years.
+
+Windows NT on ARM does make sense—just not for tablets
+
+There is one area where a port of Windows NT to ARM does make some sense: the server room. Future ARM designs might work well in cloud and virtualization server scenarios. Given that Windows on the desktop shares a common codebase with Windows on the server, a port of Windows for future ARM servers would of course result in a "free" port of Windows on the desktop.
+
+But an announcement at the Consumer Electronics Show won't be about Windows Server. It will be about Windows on tablets. Making this announcement, if it comes, a bizarre distraction that brings Redmond no closer to having an iPad competitor of its own.

@@ -1,0 +1,47 @@
+SAN FRANCISCO — Documents unsealed Thursday in a three-year-old lawsuit against Dell have raised more questions about how the company handled an unprecedented number of faulty computers sold to governments, schools and corporations from 2003 to 2005.
+
+A judge in the Federal District Court in North Carolina unsealed hundreds of documents linked to a lawsuit filed by Advanced Internet Technologies that had accused Dell of trying to hide defects in its desktop computers from customers.
+
+For instance, the court documents show that the City of New York filed incident reports with Dell on 20.2 percent of a batch of 5,000 computers purchased during this period. A purchase of 2,800 computers by Microsoft resulted in issues with 11 percent of the machines; General Electric, William W. Backus Hospital, Denison University and the Montana Justice Department were among dozens of other organizations that experienced similar results.
+
+The documents also show how Dell had resisted informing many of its customers about the extent of the problem. Despite widespread reports from the field, Dell salespeople and technicians were encouraged to keep customers in the dark about the known defects that left computers inoperable.
+
+As it tried to deal with the mounting issues, Dell began ranking customers by importance, putting first those who might move their accounts to another PC maker, followed by those who might curtail sales and giving the lowest priority to those who were bothered but still willing to stick with Dell.
+
+The company declined to recall the systems and did what it called “proactive field replacements” for customers that met certain sales and failure rate thresholds.
+
+In September, Dell settled the lawsuit with Advanced Internet Technologies without disclosing the terms of the agreement. The New York Times sought access to the documents that had remained under seal.
+
+The issues with the computers revolved around the capacitors that dot computer motherboards. A typical Dell computer could have up to 20 of these capacitors, which cost a fraction of a penny each and help regulate electrical operations of the machines.
+
+Earlier this decade, capacitors made in Asia with a bad chemical recipe were sold to numerous makers of televisions, PCs and other electronic devices. The capacitors would bulge when they became too hot and cause devices to malfunction or stop working altogether.
+
+Dell, Hewlett-Packard and Apple and others were aware of these issues and tried to pull faulty computers from the market and to fix the computers. But even while keeping an eye on the problem, Dell continued to receive faulty capacitors from suppliers.
+
+It waged a three-year battle to identify the troublesome components. Studies conducted by Dell and a third party showed that the company shipped 11.8 million computers from May of 2003 to July 2005 that were at risk of breaking.
+
+What shocked customers and Dell was the rate at which the computers failed.
+
+For example, the unsealed court documents included a Dell study from 2004 in which the component issues charged past the company’s initial forecasts. In June of that year, Dell expected that a minimum of 12 percent of its SX270 Optiplex computers would result in incident reports from customers over a period of three years. By September, Dell raised the minimum incident report forecast to 45 percent and noted it could run as high as 97 percent.
+
+The same Dell study covered issues with the GX270 computer and noted that the company planned to help customers who had bought more than 50 computers and who had at least 5 percent of those systems fail. Other customers fell into the “fix on fail” category, meaning they would need to report issues to Dell after their computers had broken, the documents show.
+
+Internal Dell presentations from this time and later about the capacitor problems suggested that employees “Don’t bring this to customer’s attention proactively” and “emphasize uncertainty.”
+
+Dell also provided a type of question and answer sheet to employees, which included this exchange: “Why has Dell not taken a more proactive approach to rectifying the issue? Our approach to this issue delivers the best customer experience because it minimizes disruption.”
+
+In 2005, Dell took a $300 million charge tied to the cost of fixing or replacing troubled computers.
+
+In regard to the Dell internal studies, David Frink, a company spokesman, said: “The percentages were theoretical maximums and significantly exceeded the actual failure rates. That said, Dell actively investigated failures, we fixed on fail computers that suffered a capacitor issue and we extended the warranties on all the possibly affected motherboards.”
+
+Dell said it replaced motherboards on 22 percent of the 21 million Optiplex computers it shipped from 2003 to 2005.
+
+“This was an industrywide issue and to our knowledge no other manufacturer issued a recall either,” Mr. Frink said.
+
+Dell officials have characterized the Optiplex problems as an old issue and noted that the company has since improved its systems for handling these types of problems.
+
+The Dell presentations that instructed employees on how to respond to customer questions around the faulty computers included reassurances that no data loss would occur when a PC failed.
+
+The court documents, however, depicted customers complaining of data loss issues.
+
+“Are we just going to continue to go through the typical support channels to have the motherboards replaced when they fail (often corrupting users hard drives and compromising data) or will we have a final resolution to this never-ending stagnation of Dell’s reluctance/reticence/red tape?,” Mark O’Dell, an employee with Choice Hotels, wrote in an e-mail to Dell support staff. “When will Dell actually take care of the problem and fix our system failures?”

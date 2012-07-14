@@ -1,0 +1,51 @@
+﻿This year has seen two major developments in the TV market: 3D and the Web. TV makers are betting that consumers will flock to stores this holiday season to upgrade their plain old 2D and Web-less panels with models that will let them bring the Internet into their living rooms without requiring them to add another box to their entertainment center. In this four-part series on the Future of TV, Ars takes an in-depth look at the major transition that TV is currently undergoing.
+
+In Part 1, we talked with Mozilla's Aza Raskin on the challenges of uniting the Web and TV. In Part 2, we take a look at the past, present, and future of TV ratings. How do networks, advertisers, and agencies measure audience sizes in a world of DVRs and BitTorrent? In this third installment, Ars looks at the history of TV—from the rise of broadcast television, through the introduction of cable TV, to the present day—to show you just how big of a role the government has played in shaping the medium that defined the 20th century.
+
+If you follow the United States government's campaign to expand the availability of broadband, you know that a key component of that effort is getting more spectrum licenses to the wireless industry. Why? Because the mobile business faces a looming spectrum crisis, gap, crunch, panic attack, or whatever other urgent metaphor is being deployed at the latest telecommunications conference.
+
+"Imagine if FDR had not pushed through the Rural Electrification Act, which brought millions of Americans out of the dark—and lit up one small business after another," declared Federal Communications Commission chair Julius Genachowski in October. "Imagine if Eisenhower had left large swaths of the country in the slow lane, bypassed by the commercial activity our highways enabled."
+
+"Think of the economic opportunities we would have missed. The human potential that would have gone untapped. The ideas left fallow. The jobs left on the table. The choice is clear: We have to pick the path that promises jobs and economic growth, innovation and opportunity. We must close the spectrum gap."
+
+Who can argue with Ike and FDR? Such is the Federal government's zeal to find spectrum for the mobile biz, that it is cannibalizing itself for the commodity, siphoning a huge chunk of the spectrum used for weather balloons to the wireless mobile cause. The Holy Grail is to locate 500MHz of new spectrum for fixed and mobile commercial broadband use—300 over the next five years.
+
+About 115MHz will come from government resources, but much of the rest will have to come from a more reluctant source—the nation's television broadcasters. The plan is to entice them with "incentive auctions" in which they'll share in the proceeds from the sale of their licenses. What do they think about this idea? Officially, not much.
+
+"Proposals that would impede innovation by broadcasters and/or reduce the availability of new and existing services to consumers are not in the public interest," the National Association of Broadcasters coolly told the FCC at a meeting held in June. "Finally, we discussed the need for ownership regulations that reflect current marketplace realities. In particular, we discussed the importance of expanding opportunities for common ownership of local television stations and newspaper/broadcast cross-ownership in small to mid-sized markets, which are bearing the brunt of the economic challenges facing all broadcasters."
+
+But the ironic truth is that TV broadcasters can sit on their licenses and discuss "current marketplace realities" with the FCC because, seventy years ago, Capitol Hill created that marketplace for them. To be sure, the United States didn't "invent" TV itself. That honor goes to John Logie Baird, Philo Farnsworth, and Vladimir Zworykin, among other innovators. But the government literally created the business model and framework in which broadcast TV flourished.
+
+In fact, for a crucial period of time, politicians protected over-the-air broadcasters from other business models, most notably the telephone company and cable TV. Now, regulators face the challenge of uninventing that framework. Here's a history of what they built—the story of the government invention of television up to the present, one that begins even before television really got underway.
+
+Commercials, commercials, commercials
+
+Even before the first TV sets were put on the market in the late 1930s, regulators were busily creating the business model upon which broadcast television would flourish: commercial advertising. In 1926, broadcast radio was all the rage. But most stations barely resembled the kind of outlets we listen to today. The majority were run by colleges, civic organizations, hotels, restaurants, and other entities. The Pentacostalist Aimee Semple McPherson grabbed a frequency in Los Angeles. The quack doctor John Romulus Brinkley took one in Kansas. And labor leader Ed Nockels built WCFL in Chicago for that city's trade union movement.
+
+But only 4.3 percent of these stations could be classified as "commercial broadcasters"—most took a mixed-bag approach to funding their activities, including direct community support or just using the station as a publicity tool for their organization or enterprise.
+
+Less than a decade later, the situation had more than reversed itself. By 1934, nonprofit broadcasting added up to a mere two percent of all air time.
+
+Why? Pressure from commercial stations had a lot to do with it. But ultimately the call was made by the precursor to the Federal Communications Commission, the Federal Radio Commission. Although in the early 1920s prominent voices agreed that commercial broadcasting would be the "worst possible way" to fund radio and urged the industry to establish a BBC-style tax on receivers to support programming, the FRC now concluded that advertising was the only way to support the big-range "clear channel" licenses that the agency had given to forty signals across the country.
+
+And so the Commission classified commercial signals as "general purpose" stations, and the non-profits as "propaganda" outlets, less deserving of spectrum licenses. As a consequence, most of the latter disappeared from the airwaves.
+
+"Although commercial radio produced a Golden Age of programming in the late 1930s," an FCC reassessment of the decision recently noted, "the question remains whether the FRC’s decision to favor corporate-sponsored networks—rather than the multiplicity of diverse non-commercial stations—best served the public interest. The FRC performed a valuable service by helping to create commercial networks, but did so at the cost of achieving diversity."
+
+Like it or not, what the communications historian Paul Starr calls a "constitutive choice" had been made. Commercial broadcasting became the norm. To this day, the networks are so invested in the 30-second commercial that they decry TiVO as a threat to their business model, and call product placement the solution to the crisis.
+
+And around the same time, regulators made another huge decision—putting sound transmission largely in the hands of over-the-air broadcasters, rather than sharing it with other sectors of the economy.
+
+Toll road not taken
+
+Individual radio station owners weren't the only entities eyeing broadcasting. So was AT&T, which dreamed of a network of almost 40 radio stations strung together via the telco's long distance lines. They would broadcast to local areas wirelessly and share content via AT&T's long routes.
+
+The company intended its WEAF in New York to be the beginning of that experiment. In 1923 it broadcast the annual meeting of the National Electrical Light Association via its copper wires across AT&T stations in New York, Chicago, Pittsburgh, and Schenectady. Then the carrier networked a speech by President Calvin Coolidge. Meanwhile, its executives held internal meetings hatching grand plans. On February 16, 1923, the corporation launched a lengthy, all-Bell System conference to come up with a viable vision for consolidating its hold over radio.
+
+Broadcasting historian Steve Wurtzler summarizes what they envisioned as follows:
+
+AT&T proposed developing U.S. radio as a dispersed, largely decentralized array of noncompetitive local broadcast stations operating at transmission power levels designed to reach members within a specific community. AT&T would construct, own, and operate a single broadcasting station in virtually any town of consequence in the United States. Within this model, programming would be predominantly local in origination, with the community itself determining the content, standards, and nature of broadcast material. Programming policies and decisions were to be vested entirely in the hands of a local broadcasting association consisting of community leaders and the general public. When the local broadcast association wished it, AT&T would provide through a modified version of their long-distance telephone system interconnections between local stations for programming of abiding national or regional interest.
+
+As for competing stations, they would be "minimized or foreclosed through the efforts of the local broadcast associations to function inclusively," Wurtzler explains, "encouraging all... to join in the shared collective effort."
+
+Unfortunately, AT&T's implementation of the concept was kind of thuggish, and that led to the scheme's demise. First, the telco began denying non-Bell System radio stations access to its long distance lines for shared projects, forcing other networks to experiment with inferior telegraph rather than telephone connections for their experiments. Then, AT&T drew more anger by suing a nearby competitor to WEAF, claiming that its broadcast operation infringed on the carrier's patents.

@@ -1,0 +1,55 @@
+﻿Pity the small office when it comes to technology. With anywhere from several to several dozen employees, there's often no budget for an IT director to manage all the network services required for a modern company of any size. Offices may need to handle email, file-sharing, calendar and contacts hosting, collaboration tools, and other matters. Especially in this economy, how can an office of that size—perhaps your office?—afford the technician needed to install and keep a Microsoft Server 2008 installation on the rails, plus the initial cost in per-seat licenses. Unix and Linux distributions may be free or have relatively inexpensive purchase and service contracts, but you pay for that in requiring more expertise in house or on demand.
+
+That may lead firms to Google's door, turning to Web hosted services via Google Apps. But the $50 per-user, per-year fee can add up, and Google Apps doesn't offer everything a small business needs. Some companies may not want to go this route, or may be subject to regulatory issues that prevent proprietary or confidential data from being located offsite with Google—or anyone. That seems to leave a large niche in which companies want an affordable product that runs on commodity hardware and doesn't need the constant ministrations of an IT expert, even if one's required to set it up.
+
+Apple has such a product, Mac OS X Server, but has been weak at exploiting this niche despite the server's long history. Apple has focused instead on support for large corporations' enterprise networks, data center and cluster use, and academic deployments. Releases before version 10.6 (Snow Leopard) had numerous difficulties for those who couldn't quickly fire up a command line and start entering commands from memory. Further, OS X Server was often too focused on providing services for networks mostly comprised of Macs; a lot of lip service was paid to Windows support, but it's only seemingly fully matured in 10.6.
+
+But what makes OS X Server 10.6 a perfectly reasonable choice for small-to-medium-sized businesses is new pricing coupled with a custom Mac mini configuration. For $999, you can buy a perfectly speedy office server with a full, unlimited-seat license.
+
+In this review, I look at a few specific aspects of the Mac mini server model and OS X Server as they relate to sub-enterprise-scale networks, especially where IT staff help isn't assumed. I also offer you two key tips for fixing problems in OS X Server that tripped me up during testing.
+
+(This is not a full review of OS X Server, which would take many tens of thousands of words and months of testing, much like John Siracusa's in-depth OS X client reviews.)
+
+Hardware, OS, and Pricing
+
+The Mac mini server—its full name is the Mac mini with Snow Leopard Server—brings together two separate developments: a substantial price cut for OS X Server and increasingly powerful Mac mini models that have the gumption to work as servers.
+
+Before 10.6, Apple charged $999 for its unlimited user license, and $499 for a 10-user version. The 10-user limit, however, applied only to simultaneous logins for certain kinds of services, including AFP (Apple Filing Protocol), Apple's native file-sharing service. The 10.6 release threw that pricing out the window. There's one version of OS X Server 10.6: $499 for an unlimited user version. OS X Server can be installed on nearly any system capable of running the regular version of Snow Leopard (which itself costs $29 for a 10.5 Leopard upgrade version that could be used for a full installation). OS X Server since 10.5 can also be virtualized with one paid license per virtualization; the $499 price makes virtualization cheaper, too.
+
+By comparison, Windows Small Business Server 2008 comes in two editions (naturally) for either $1,089 (standard) or $1,899 (premium) with five client licenses, and charges $77 or $189 respectively for each additional client license. The premium version includes Microsoft SQL Server 2008 for small businesses, and, because MySQL is included with OS X Server, one could argue the premium version is most comparable.
+
+The Mac mini Server ($999) is the other development. Before this particular model, Apple shipped only one standard server system in multiple configurations with a full software license included: its rack-mounted Xserve (starting at $2,999), designed for server rooms and data centers. Until an update in March 2009, the Mac mini was too underpowered to handle multiple server tasks, although the mini was often found in data centers.
+
+If you're weren't racking your server, then an iMac or Mac Pro could serve, but both models can be overkill. The Mac Pro can be purchased in a build-to-order configuration starting at $2,999 with OS X Server installed, but the Mac Pro has a strong graphics orientation, designed to be best used by 2D, 3D, and video professionals. An iMac can handle OS X Server, too, but you're paying for a built-in monitor you likely don't need.
+
+The March 2009 Mac mini update gave the tiny desktop real performance, bringing it reasonably close to iMac system specs. The October 2009 Mac mini update bumped specs and made the server pricing work with Mac mini server.
+
+For $999, you get a 2.53 GHz Intel Core Duo, 4GB of 1066 MHz DDR3 RAM, two 500GB drives, one FireWire 800 port and five USB 2.0 ports, gigabit Ethernet, Bluetooth 2.1+EDR, and Wi-Fi (802.11n).
+
+The server flavor omits an internal CD/DVD drive, which Apple sells as a USB attachment for $99; the second 500GB hard drive fills the optical drive's space. Instead of the external optical drive, you can use the networked CD/DVD feature—Remote Disc—that was added for the MacBook Air. Mount a disc on computer elsewhere on the network with CD/DVD sharing enabled—separate software for Windows or via the Sharing system preference pane in Mac OS X—and the mini can mount it and even install a new operating system from it.
+
+Two mistakes
+
+Apple made only two missteps on system specs. First, a server nearly always does better with more memory, and while 4GB isn't unreasonable, an 8GB top limit would have been better if it were possible. Several Mac tech sites have tested putting in 8GB without any trouble, but Apple doesn't support such a configuration, which means future versions of Snow Leopard could unintentionally cause trouble. (The worst trouble I have had in 9 years of running OS X has been with system updates and incompatible third-party RAM.)
+
+The second stumble is by limiting the Mac mini to 5400 rpm drives, the same as are used on the low end in laptops, instead of widely available 7200 rpm drives. Servers benefit from faster drives because disk i/o runs continuously with many different sizes and types of file operations.
+
+It may have been a heat issue, because the retail difference in price can be as little as $20 to $30 per drive, and Apple would pay some fraction of that. However, it likely would have boosted the mini's street price by $50 to $100, and that may have been seen as unacceptable.
+
+The issue of RAM and drive speed are interrelated. More RAM would increase caching and reduce disk accesses; a faster drive would make a system with less RAM work more efficiently.
+
+Apple should consider offering a higher-end mini for what would likely be $1,299 to $1,399 with two 7200 rpm drives and 8GB.
+
+When I spoke to Apple about drive performance, product managers noted that the unit includes a FireWire 800 port. Several of my colleagues who have tested similar configurations say that external FireWire 800 drives could outperform an internal drive. Apple is offering the Promise SmartStor DS4600 RAID system alongside the mini for $799 with four 7200-rpm 1 TB drives, and two FireWire 800 ports. The device can be hardware-configured for mirroring, performance, or redundancy.
+
+For networked Time Machine backups across an office network, this add-on might solve two problems reasonably affordably. Four 1TB drives purchased separately can cost as much as $350 to $450 with no cases and without hardware RAID support.
+
+Booting up for the first time
+
+I have the advantage in this review of testing two separate Mac mini servers. One I purchased days after the release of the model when it appeared as if a Mac mini I use for handling backups of Linux servers via Retrospect—don't ask—had given up the ghost. I had wanted to consolidate mail service, DNS, and a handful of other services onto a newer system, moving the functions from a Linux server, so I took the plunge. (My older Mac mini wasn't dead, only resting.)
+
+The Mac mini server is precisely like its non-server brethren. It's a squat square. You unpack it, plug in a power supply and an included mini-DVI to DVI adapter, hook up a monitor, keyboard, and mouse, and you're ready to go.
+
+Set-up for a preinstalled copy of OS X Server is very much like the first boot for a client OS X system. You walk through a very small number of settings, enter registration information, and create an account that can be used to administer the system. OS X Server, like all of Apple's business and professional products, has a serial number that must be entered; it's then confirmed with Apple over the Internet. As part of setup, you answer a very few questions about what services you want to use, but you can change those choices later.
+
+It's most likely that a server won't have a permanent "head" or monitor, so after the initial start up, I activate my MobileMe account in system preferences and turn on Back to My Mac, as well as Screen Sharing in the Sharing preference pane. (Back to My Mac only works with a single MobileMe account, so it's not ideal for situations in which you have multiple people who need remote access. Screen Sharing otherwise requires a publicly reachable IP address or port mapping that connects a public IP on a router to your server's screen-sharing port.)

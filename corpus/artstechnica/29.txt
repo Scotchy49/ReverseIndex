@@ -1,0 +1,15 @@
+﻿Microsoft co-founder Paul Allen has renewed his patent fight with a large contingent of the tech industry this week. Per a federal judge's orders, Allen's Interval Licensing LLC filed an amended patent infringement suit on Tuesday which spells out how Apple, Google, Facebook, and eight other online companies violate its patents.
+
+Interval originally filed a patent infringement lawsuit in late August, zeroing in on companies that make use of three main concepts: browser use for navigating through information, managing a user's peripheral attention while using a device, and alerting users to items of current interest. The four related patents asserted by Interval collectively address the general concept of presenting searched-for information to a user along with related news articles, media, status updates from friends, or other data. For instance, Apple's iTunes allegedly infringes on the patents in question with its system for recommending other songs and artists that a user might like that are comparable to the currently displayed artist or album.
+
+The patents were originally awarded to Interval Research, a tech R&D firm founded by Allen and former Xerox executive David Liddle in 1992. The firm was folded in 2000, and the patents were later transferred to Interval Licensing.
+
+Before the merits of the patents in question were ever examined, the lawsuit was dismissed earlier in December by US District Judge Marsha Pechman. Judge Pechman cited procedural issues with the original complaint, because it did not identify specific products that Interval believed violated its four patents. Interval was given a December 28 deadline to file an amended complaint, and it met that deadline yesterday.
+
+Analysis of the amended complaint by FOSS Patents reveals that Google's Android operating system is directly targeted by the lawsuit. In particular, Android's innovative notification system for texts, Google Voice messages, e-mails, and other alerts displays information "to a user of a mobile device in an unobtrusive manner that occupies the peripheral attention of the user."
+
+"If any of those infringement assertions against Android [are] true, this can spell trouble for makers of Android-based devices, and for Android application developers," wrote FOSS Patent's Florian Mueller. "Patent holders can choose to sue Google, device makers, application developers, users, or any combination of the foregoing options." Also, Mueller said, "[s]hould Google be served an injunction as a result of Interval's suit, owners of Android phones would experience a very significant degradation of the user experience."
+
+While Apple's iTunes Store, App Store, and Apple TV are targeted in the lawsuit, iOS was notably not named as infringing Interval's patents.
+
+Along with Apple, Google, and Netflix, the lawsuit also names AOL, eBay, Netflix, Office Depot, OfficeMax, Staples, Yahoo, and YouTube.

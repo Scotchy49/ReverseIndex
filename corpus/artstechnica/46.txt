@@ -1,0 +1,40 @@
+﻿The original MacSpeech Dictate was a decent product with some real flaws. Its best feature, the stunning voice recognition engine, was licensed from Nuance, so we've been waiting eagerly to see just what Nuance could do with the product after it purchased MacSpeech last year. Now we know.
+
+The newly christened "Dragon Dictate" appeared last month, and we've been putting it through its paces ever since. The new release does bring Dictate more in line with its excellent PC counterpart, but the changes are more evolutionary than revolutionary. If you want better control over your machine, nice vocabulary editing tools, and an improved recognition engine, you've got it in Dragon Dictate. If you want to be free from the shackles of Dictate's "golden rule"—about which more later—you're out of luck.
+
+She's got it where it counts, kid
+
+Dictate 2.0 requires an Intel-based Mac running Snow Leopard or above, and it needs at least 2GB of RAM (though it prefers "4GB or more"). It also goes for an absurd $199, though you can pick it up from Amazon for about $140. 
+
+In look and feel, the software maintains the original Dictate interface, most notably the charcoal gray overlay box that shows the program's status and its recent phrase recognition. Older voice profiles can be imported, though they will need some updating, and new profiles can be created with about 5 minutes of reading. Once that's done, dictation can begin immediately, and it's remarkable.
+
+Here's the text of our own recent review of an execrable $99 Android tablet:
+
+Really, if you want a tablet that badly and you're on a budget, save up enough cash to get one that has actually gotten some respect from somebody—consumers, open source nerds, we don't care who. The truth of the matter is that the M-150 is so painful to use that you'll rarely find yourself looking forward to using it (not to mention that it feels cheap, flimsy, and barely lasts longer than a drunken fratboy in bed). Why would you do that to yourself?
+
+Even if you want it for the hacking, there has to be a better way to put your $99 to good use, like on software, or an iOS developer account (Kidding! Put down the tomatoes). For those curious, the M-150 apparently can't be upgraded to any better version of Android thanks to hardware limitations (at least that's what the Maylong guys claim), so that's out. And if you're looking for a cheap e-book reader, both the Kindle and the Barnes & Noble Nook are below $150 and will offer you a more satisfying reading experience.
+
+So, whatever you do, save your money—or spend it on something more entertaining than the M-150. We hear you can get a decent bottle of George T. Stagg for around that much.
+
+And here's that same text when I read it to Dragon Dictate (mistakes are in bold):
+
+Really, if you want a tablet that badly and you're on a budget, save up enough cash to get one that is actually gotten some respect from somebody-consumers, open-source nerds, we don't care who. The truth of the matter is that the M-150 is so painful to use that you'll rarely find yourself looking forward to using it (not to mention that it feels cheap, flimsy, and barely lasts longer than a drunken frat boy in bed). Why would you do that to yourself?
+
+Even if you wanted for the hacking, there has to be a better way to put your $99 to good use, like on software, or an IOS developer account (Kidding! Put down the tomatoes). For those curious, the M-150 apparently can't be upgraded to any better version of Android thanks to hardware limitations (at least that's what the May long guys claim), so that's out. And if you're looking for a cheap E-book reader, both the Kendall and the Barnes & Noble note are below $150 and will offer you a more satisfying reading experience.
+
+So, whatever you do, save your money—or spend it on something more entertaining than the M-150. We hear you can get a decent bottle of George T Stagg for around that much.
+
+Note that this was done without making any corrections; Dictate produced almost flawless copy without editing. Errors do exist, but they are few in number (try typing that passage manually with fewer mistakes and see how well it goes). And the errors themselves are instructive. Only two are actual transcription errors ("is" for "has" and "wanted" for "want it"), while the others are all proper names. With the new vocabulary editing tools in Dictate, it's a simple matter to tweak the spellings for "iOS" and "Maylong," after which the words will be spelled correctly.
+
+Besides, Dictate gets extra points for correctly handling "George T Stagg" right out of the box.
+
+Vocabulary power
+
+The new Dictate comes with a 151,448 word dictionary, and the word list includes a huge number of proper names. Without any tweaking, it will properly spell "Abdul-Jabbar," "Roddenberry," "Theobald," and "Nehruvian." It even includes "Ars Technica" and "Engadget."
+
+In using Dictate for the last few weeks, I've been repeatedly surprised at the words it knows. Trying to write a piece filled with proper names is always dicey with speech recognition, and it always forces me to ask the question, "Am I willing to repeatedly spell words letter by letter or spend time updating the program's vocabulary to write this piece?" That's less of an issue now with so many included names, and it's an untouted but real benefit of the underlying improvement to Nuance's speech recognition models and dictionaries over the last few years.
+
+When the time does come to customize the included vocabulary, the new tools in Dictate are better than they used to be, and more closely mirror the PC versions of Dragon NaturallySpeaking (though there's still a ways to go). Once words are entered and trained, it's possible to tweak the spacing before and after the word, control the capitalization of the following word, and force lower case in titles.
+
+The included macro/scripting functionality has also been improved and now handles text macros, Automator actions, Applescript, menu commands, and more. If you want to customize your workflow, Dictate does have some decent tools for doing so.
+

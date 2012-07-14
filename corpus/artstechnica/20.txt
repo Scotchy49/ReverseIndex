@@ -1,0 +1,45 @@
+﻿Google Chrome notebook unboxing photos and first impressions
+By Jon Stokes | Last updated 21 days ago
+
+Today was Google Day in the Stokes household, as the same FedEx truck brought both a Nexus S and Google's newly announced Cr-48 Chrome OS notebook. Below are some unboxing photos and very quick hands-on impressions of the unit.
+
+
+
+
+
+
+The good
+
+The Web is very fast. I actually didn't think an Atom-based laptop could ever feel this snappy, but it does. I even tried a few Flash games and they seemed to work acceptably well, but I'll have to do more testing to be sure.
+
+If the 8-hour usable battery life claim holds up, that will be awesome.
+
+
+
+The unit is very light and, despite being plastic, it doesn't feel cheap. The large, clickable trackpad is great, and it comes with a webcam at the top.
+
+
+
+
+The bad
+
+I didn't realize how often I use the caps lock key until I tried to have an IM conversation on the Cr-48. As I was trying to type, the browser would suddenly spawn a new tab, seemingly at random. I thought the software was broken until I realized what was happening: I was hitting caps lock to type acronyms of two or more letters. This was so ingrained that I didn't even realize that I was doing it. Fortunately, there's a Settings option that lets you get the caps lock key back. Whew! I thought I wasn't going to be able to use this laptop.
+
+The other issue is the LCD—I'm used to the nice IPS panels on my iMacs and my Macbook Airs, and this Cr-48 panel doesn't even come close. This is quite simply the cheapest, poorest-quality LCD that I can remember using. Now, my frame of reference is deeply skewed, since the only non-Apple, non-IPS panel that I see with any regularity is the one on the ASUS EeePC Touch that hangs on the wall in my kitchen as my home messaging/ weather/calendar terminal. So the Cr-48's screen may be pretty standard for netbooks. But to my eyes, this is a cheap-looking LCD.
+
+
+
+Finally, there's a VGA port on the side. In December of 2010, Google has shipped a portable with a VGA port.
+
+
+Conclusions
+
+
+
+So far, I like most of what I'm seeing. A Chrome OS laptop will almost definitely be able to replace my wife's 1.6GHz MacBook Air and give her a superior user experience to boot. The rest of the issues I'm seeing—the LCD quality, the VGA port—will probably be fixed by OEMs in their production models.
+
+Update: There were a lot of questions about my brief line at the end, where I mentioned that I think a ChromeOS netbook can replace my wife's MacBook Air. So let me elaborate, for the people who wanted more detail.
+
+My wife has two machines: 1) a 27" Core i5 iMac, which she uses for family photos, family HD videos, and chores that require a real computer, and 2) a hand-me-down, Rev A, 1.6GHz MacBook Air with 2GB of RAM and a hard disk. The latter machine is just plain slow at this point, and it probably gets less than 2 hours of battery life. All she uses it for is to run Safari, and it's not very good for that. If we replaced the battery and boosted the RAM to 4GB, that would help, but ultimately the Cr-48 is a dramatically snappier and more stable browsing experience with better battery life. And it's zero maintenance for me—if she has any problems at all, she can just reboot to fix them.
+
+Ultimately entire ChromeOS hardware/software platform was designed from the ground up for people who just use a browser on their portables, and that pretty much defines my wife. If someone were to make one of these with a little bit nicer LCD and the same basic form factor as an 11" MacBook Air, it would be perfect for her. I personally would still need a full Mac portable, because I use a lot more than just a browser when I'm on-the-go. But she'll be set with a ChromeOS machine

@@ -1,0 +1,11 @@
+Customers of Microsoft's Business Productivity Online Suite—a cloud-based suite including Exchange, SharePoint, LiveMeeting, and Office Communicator—may have had certain data leaked after a configuration error left their contact information exposed.
+
+The configuration problem left information in customers' Offline Address Books exposed to other customers. The Offline Address Book is an Exchange feature that allows Outlook users to download a copy of all the e-mail addresses and mailing list aliases that an organization uses, so that they can be used even when disconnected from Exchange. It's e-mail addresses on those lists that could have been made available.
+
+Microsoft says that it fixed the configuration problem within two hours of discovering the problem, and that only a small number of illegitimate downloads occurred. However, the company didn't say when the faulty configuration was pushed to its servers, so it's not known how long the problem has existed. The company says it has notified all affected customers.
+
+As data breaches go, this one was quite limited. No e-mails or documents were disclosed, nor were any personal contacts. Still, the disclosure of corporate address books is something of an unfortunate black eye for the company as it strives to expand its cloud services market. Microsoft is positioning the next version of BPOS, named Office 365, as a complete package to compete with the likes of Google Apps.
+
+This setback is unlikely to impede the growth of cloud services—but they do highlight one of the risks that they bring. A similar configuration problem on a private Exchange server is unlikely to have any consequences—the sharing of infrastructure can bring with it risks that don't exist on private installations.
+
+As the use of cloud services proliferates, this kind of issue is likely to be a regular occurrence. Cloud services bring many conveniences—freedom from having to administer an Exchange server is no small thing—but those upsides will have to be balanced against the unique downsides that cloud systems bring.

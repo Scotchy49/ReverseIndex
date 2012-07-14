@@ -1,0 +1,35 @@
+The home theater PC (HTPC) market is very different than it used to be. Two years ago, the market was more or less DVRs and the HTPC, a few tentative OEM takes at the market, and a few standalone boxes.
+
+Today, the HTPC space is much more crowded, and the market for these devices is not nearly as clear.
+
+In some ways, building an HTPC has never been easier. Buying one, even, is a much easier task, with fairly workable pre-builts such as the Dell Inspiron Zino HD and Acer Revo nettop. The trickiest part of getting encrypted cable/satellite feeds into the HTPC is just now becoming doable, and feeding streaming or already-downloaded content to your TV is often made easy by the fact that a lot of existing hardware (consoles, Blu-ray players, and even TVs) can do it out of the box.
+
+The fact that HTPC-like capabilities now come bundled with so many home theater products makes the HTPC that much harder to place in today's media center. Think about the problem in light of the four typical tasks of a HTPC: timeshifting/recording live TV (via over-the-air [OTA], cable, or satellite), Blu-ray and DVD playback, streaming online content, and playing back previously downloaded content. If your existing equipment can do all or most of this already, or if one or two new special-purpose boxes are cheaper than an HTPC, why would one bother?
+
+Four tasks, one device
+
+The reality is that most HTPC builders are technically inclined people, and they're often representative of a segment of consumers that does want to handle HTPC-type tasks in a single device. Devices such as the WD HD TV Live, Popcorn Hour, Apple TV, Boxee Box, all do parts of this job very well, but some parts not at all (such as Blu-ray playback). The DVR from your cable or satellite company (or that TiVo still laying around?) that does timeshifting/recording of live TV so well doesn't handling streaming or separately downloaded content so well. And similar limitations affect gaming consoles such as the Microsoft Xbox 360, Sony PlayStation 3, and Nintendo Wii. The PS3 is perhaps the most capable of the bunch with its internal Blu-ray drive, but it still doesn't do timeshifting/recording of live TV, and storage on a PS3 is not that cheap.
+
+So at the end of 2010, the HTPC has mainly become a geek endeavor. Doing everything with one box rather than two, three, or four of them—what geek wouldn't want that?
+
+The HTPC also adds in some potential additional capabilities—gaming, photo editing, complete home media hub, etc.—beyond the four key ones we've described, although now we're getting a little more complicated than what can be easily discussed in a single guide.
+
+Either way, the HTPC exists out of both need and the fact that it's kind of cool.
+
+What we cover
+
+We cover two key boxes in this guide: the All-In-One, and the Back-End, with varieties for a light-weight front-end.
+
+The All-In-One places everything in a single set-top box. The Back-End is designed to be bigger, to store more content, and maybe to have to worry a little less about noise and appearance. As a back-end, it can also interface to devices other than your HTPC, depending on what software you use and what set-top device you have. Feeding content to an existing PS3 or Boxee is one very possible route, especially if you decide you do not need the full abilities of the classic HTPC.
+
+Extensive discussion on devices such as the Boxee Box, WD HD TV Live, Popcorn Hour, Apple TV, and the like are simply too much to cover in one guide. We've used several of these, and for what they do, most work quite well. They just don't do everything that a good HTPC does, and they're not guaranteed to be able to play any format you throw at them.
+
+Software
+
+Multiple HTPC front-ends exist. The couch-friendly, 10-foot user interface is key to comfortable use for most, even with a nice 1080p TV like the massive 60" Kuro 2 plasma sitting in Hannibal's media room.
+
+Common front-ends include Windows 7 Home Premium (or Ultimate) with its media center edition (MCE) front-end, XMBC, Media Portal, MeediOS, MythTV, GB-PVR, and a ton of others. On the Ars forums and in the Orbiting HQ, Windows 7 and XBMC seem to dominate, although that's not exactly a representative survey of the population at large.
+
+For the back-end, several of these work well, plus Windows Home Server with the Power Pack 3 does a semi-decent job of integration with the capable WHS platform.
+
+While we do not have an official recommendation, we have spent enough time using Windows 7's interface to be happy with it, and enough previous time with XBMC and MythTV to know they work well.

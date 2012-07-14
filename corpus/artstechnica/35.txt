@@ -1,0 +1,29 @@
+﻿Though the glory days of platform contention may be behind us, there is plenty about today's computing landscape that's... sub-optimal, shall we say. Yesterday we looked at some of the many problems with the world of Windows: things that make the computing experience worse than it should be.
+
+Windows' number one competitor is, of course, Mac OS X (sorry penguins, maybe 2011 will be the year of Linux on the desktop), and Mac OS X is free of many of the problems that plague Windows. Unfortunately, the platform has plenty of problems of its own. Today, we're going to take a look at them.
+
+You can have your turtleneck in any color you want, as long as it's black
+
+One of the things that sets Mac OS X apart from Windows is the hardware it runs on. Sure, Macs are PCs these days, but if that PC isn't Apple-branded, you're not allowed to run Mac OS X on it, per the terms of the EULA. And while there are a few brave souls out there sticking it to The Man with their Hackintoshes, for normal people the EULA rules: they run Mac OS X on Apple hardware.
+
+Now, there's nothing wrong with Apple hardware per se. The machines are generally well-designed and attractive. But the hardware range is oh-so limited. Want a 12" ultraportable, a spiritual successor to the widely-loved 12" PowerBook G4? Too bad. Lenovo has 'em. Dell has 'em. Toshiba has 'em. Apple? Sorry, but no. Oh, sure, there's the MacBook Air, which is certainly thin and light. But a 12" screen would make it small, too, and size matters. Small is beautiful! There are currently rumors doing the rounds that the MacBook Air will shortly be updated to have a smaller, sub-12" screen, so the 12" ultraportable will be back—but this in turn is likely to leave the position the current MacBook Air fills vacant. 
+
+It's the same story if you want a netbook. Steve Jobs claims that Apple can't do a good netbook—by which he means a high-margin netbook, as the idea that Apple's engineers and designers couldn't actually produce a good netbook is fanciful nonsense—so you're not going to get one. You'll have to make do with an iPad, as if an iPad were even half as capable as a MacBook.
+
+If you just want a basic desktop—something reasonably fast (so built with desktop parts, unlike the low-end laptop-in-a-box that is the Mac Mini), something that doesn't force you to buy a whole new monitor just because it's gotten a bit old—you're out of luck. You can get a high-end tower that's overkill for any normal person in the form of a Mac Pro, but if you just want, well, a regular PC, no joy. There is no xMac.
+
+It's not that I think Apple should aim to fill every possible niche. Companies like Dell try that, and it's horrible. They have a hojillion different products, all with minor variations, and the result is a confusing mess. A streamlined product line-up is a good thing, overall. But you can have too much of a good thing, and the gaps that Apple leaves in its product line-up are frustrating. The problem here isn't that iMacs, for example, don't have nice screens in them; they really do, they're very nice screens. But I already have a nice screen on my office PC and don't really want (or need) to buy another one.
+
+And even when you want a machine that aligns with Apple's offerings, the selections are limited. The most enduring and annoying omissions are in video cards. Even on a high-end Mac Pro, the 12-core model whose prices start at $5,000, you can't (yet) get any NVIDIA cards preinstalled. At the time of writing, there's one NVIDIA card listed as compatible with current Mac Pros, available as an after-market upgrade. And it costs $1,800. Want one of NVIDIA's high-performance, mid-range cards, a GeForce GTX 460, say? Too bad, you can't have one.
+
+Again, I don't think the company should have a hundred thousand different options like the PC manufacturers do, and I can understand wanting to limit the options to components that are, well, good. But it should have enough choice, and at the moment, the company falls a long way short of that.
+
+It wouldn't be so bad if the claims made of its systems were suitably modest. But the company says that the iMac's GPU is good enough for gaming. Sorry, dudes, but no. A Radeon HD 5650 or 5750 isn't going to provide an enjoyable gaming experience on the otherwise glorious 27" 2560×1440 screen. Which is too bad.
+
+About that 3D performance...
+
+Of course, I'm probably not going to be gaming in Mac OS X anyway, because the 3D performance is so horrible. As important as OpenGL is to Mac OS X—and it is important, because it's used for important tasks like compositing the desktop—it ain't quick.
+
+It's not kept up-to-date, either. On Windows, you get all the latest OpenGL bells and whistles, including the hefty OpenGL 4 update, that gave OpenGL feature parity with Direct3D 11. Modern video hardware has a wealth of desirable new capabilities, but software on the Mac has no (standard) way of using them.
+
+In Mac OS X? You don't even get 100 percent conformance with OpenGL 3.0. Which dates back to 2008. Because Mac OS X is unloved.

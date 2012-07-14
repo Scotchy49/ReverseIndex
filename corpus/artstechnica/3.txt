@@ -1,0 +1,21 @@
+Microsoft made a lot of major news in 2010, in no small part due to its decision to get back into the smartphone game with Windows Phone 7. The software giant has also redoubled its efforts to be on the leading edge of browser tech with its development of Internet Explorer 9. These were two of the most popular Microsoft stories on Ars during 2010.
+
+Windows Phone 7: The Ars Review: With Windows Phone 7, Microsoft finally sheds the baggage of past mobile failures and brings to market a truly slick, finger-friendly, fully modern smartphone OS. But it's not without its faults. Ars takes an in-depth look at the new OS, and at what it means for Microsoft.
+
+Inside Internet Explorer 9: Redmond gets back in the game: After many months of previews, Internet Explorer 9 beta 1 was released to the Web. Faster, more secure, more standard, and all-around better than IE8, the new browser is Microsoft's latest attempt to halt IE's market share slide. The new version brings changes from top to bottom: Ars takes a detailed look at what's in store.
+
+Why new hard disks might not be much fun for XP users: A major change in the way that hard disks allocate space will pose serious problems for users of the world's most popular OS: Windows XP. Ars tells you why the new standard is necessary, and why it means that it's really time to move on from XP.
+
+Windows 7's XP Mode: what it is, how it works, who it's for: Ars takes you inside one of Windows 7's most talked-about and misunderstood features: Windows XP Mode. Learn what it is, how it works, and who Microsoft intended this feature for.
+
+The 21st century guide to platform trolling: Windows edition: Thought the heyday of platform trolling had passed? Think again. Ars educates you on how to troll Windows, pointing out the shortcomings of the world's most popular OS. Don't worry, Windows users—we also trolled Mac OS X.
+
+Is that Bill Gates staring back at you from Outlook 2010? Take a closer look at the fallback image in Outlook 2010's People Pane and you'll see it too.
+
+How iPhone OS destroys Windows Phone 7 without even shipping: Opinion: iPhone OS 4.0's new feature set has just made Windows Phone 7's job even harder. With Microsoft's new phone platform set to trail iPhone and Android in almost every way imaginable, it's becoming increasingly hard to see how Redmond stands a chance in this highly competitive market.
+
+"Ballmer (and Microsoft) still doesn't get the iPad: Microsoft CEO Steve Ballmer answered questions about the company's plans for iPad-like devices. After bullishly asserting that they were ""Job number one"" for the company, he then outlined how Microsoft was going to continue to treat them like the failed Tablet PC concept of the last decade."
+
+Why Microsoft did the right thing in ditching XP for IE9: Users of Windows XP were alarmed when Microsoft confirmed that IE9 would not be available for their chosen platform. Microsoft said that a modern browser needs a modern operating system. Is Windows XP really not modern anymore?
+
+Microsoft buying Adobe would fix both companies' Apple problem: Reports have emerged that Steve Ballmer has been in secret talks with Adobe CEO Shantanu Narayen to discuss the companies' common Apple problem. Ars explores the reasons why a deal makes sense for two companies being pressured by Apple.

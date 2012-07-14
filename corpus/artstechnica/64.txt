@@ -1,0 +1,52 @@
+﻿In Part 1 of our SIP primer, I covered the SIP foundation layers starting from the message structure and ending with the SIP transactions. We saw how phone registrations and proxies could work using these layers. This second part completes the discussion by covering the way SIP defines calls, and in general, any type of communication. Naturally, this installment is built on the previous part, and therefore you should read Part 1, or at least have some prior knowledge, before proceeding with Part 2. Similar to the previous installment, I will also refer here to the latest specs that influenced the basic SIP scenarios.
+
+SIP Dialogs
+
+The following INVITE message does not just start a new transaction, it is also a request to start a new dialog.
+
+INVITE sip:hannibal@arstechnica.com SIP/2.0
+Via: SIP/2.0/UDP home.mynetwork.org;branch=z9hG4bK8uf35f
+To: Jon Stokes <sip:hannibal@arstechnica.com>
+From: Gilad <sip:gilad@voxisoft.com>;tag=n23ycs
+Call-ID: nbo34tsggvsqap@home.mynetwork.org
+CSeq: 59164 INVITE
+Contact: sip:gilad@voxisoft.com
+Max-Forwards: 70
+
+A 2xx response opens the dialog. The client that originally sent the INVITE would send an ACK request to confirm that it received the 2xx response. However, we'll see that this is specific for INVITE and not for dialogs in general. SIP dialogs are not limited for the INVITE method only. Extensions may also use define methods that initiate a dialog.
+
+Clients are expected to maintain the state of the dialogs. (As we saw in the first part, proxies along the signaling path do not maintain dialog state). Each dialog holds the following information:
+
+Call-Id
+Local tag
+Remote tag
+Local URI
+Remote URI
+Remote target
+Route-set
+Local CSeq
+Remote CSeq
+A boolean flag called "secure"
+The first three values identify the dialog. The dialog initiator chooses a Call-Id and places the value in its header. The initiator also chooses a random local tag and places it as a parameter of the "From" header (the "To" header remains without a tag). The device that accepts this request refers to the tag in the "From" header of the request as the dialog's remote tag. The receiver then creates an additional tag and places it as a parameter in the "To" header of the response. The initiator sees the tag value in the "To" header and refers to it as the dialog's remote tag.
+
+When one party sends a dialog request, several different 2xx responses may arrive. This multiple-response situation occurs when a proxy forks the request and several devices answer. Proxies cannot interrupt with 2xx responses, as they are not aware of dialogs. Hence, all these responses propagate back to the one who sent the request. When you receive several of these responses, effectively, several dialogs were created based on that single request. These dialogs each have a different identifier, even at the source, as the remote tag is unique for each of these dialogs. Any subsequent requests on a specific dialog contain the same identifiers as the ones established in the handshake process.
+
+The contact of the request becomes the other end's "remote target." However, the initial request URI is not necessarily the initiator's remote target. When it receives the 2xx response, it also receives the actual remote target via the response's contact header. Thus, if one sent a request to an AOR, the response may come back with a contact address that is specific for the device, at least for the lifetime of the dialog. ACK, and all subsequent requests, would place in its request URI the dialog's remote target. Therefore, if a proxy previously forked a request to an AOR, it would not do that for subsequent requests, as this time the request URI is different.
+
+Dialogs also hold a route-set. This route-set is a list of SIP URIs and its goal is to contain all the proxies that route all requests on the dialog. The proxies themselves build the route-set, but do not store it internally. Each proxy that routes the first request sends not only an additional "Via" header, but also a "Record-Route" header. When the request has reached its destination, it has a list of URIs within the route-set. Before sending a positive response to the request, the device stores the list in its internal dialog state and sends the same headers, in the same order on the response.
+
+Responses are routed based on their "Via" headers (which are also copied as-is from the request to the response), and thus proxies do not add or remove any response "Record-Route" header. The initiator that also maintains its own dialog internal state also stores this list of URIs, but this time in reverse order (since the first proxy that added this header actually has the last of the headers in the response). Subsequent requests have this route-set copied to a "Route" header. "Route" is different than "Record-Route"; it tells proxies to route the request to a specific destination and not base it upon any other internal routing rules (as they did the first time).
+
+A proxy that has its own address in the top route header would remove itself from the request it sends out, and would resolve the IP address of the outgoing request from the next route header. If it doesn't have an additional route header, it would send it based on the request URI.
+
+If you look at a route-set, you would notice all routes have an "lr" parameter. This parameter states that this is a loose route, effectively meaning that the proxy is RFC 3261 compliant. Proxies that comply with previous RFC have strict route rules and must have their own address in the request URI. Thus, for backwards compatibility, one must change the request URI if the proxy does not specify it supports loose route.
+
+Whenever one of the two dialog participants sends a request, it places the local tag in the "From" header of the request and the remote tag in the "To" header. When a response is sent, this is reversed, the local tag is placed in the "To" header and the remote tag goes to the "From" header. Because one endpoint's local tag is the other's remote tag, the "From" and "To" tag parameters look the same. The same idea goes for the URIs in the "From" and "To" headers. These are mapped to "local URI" and "remote URI" in a similar way.
+
+The party creating a dialog chooses its first CSeq value, which becomes its local CSeq value, and the other's remote CSeq value. As previously discussed, the response includes the same CSeq value and therefore the other participant's CSeq value only becomes known when it sends the first request. Thus, when a dialog has been established, only one of the CSeq fields has value. Someone sending a request on a dialog should first increment its local CSeq value by one and then send the request using this local CSeq value. This helps to know the order of the requests on a given dialog.
+
+The last item in the dialog internal state is the secure flag. This flag simply indicates whether a device should generate requests with encryption (for SIP that means TLS). The addresses of the remote target and the contact start with "sips:" and not "sip:".
+
+As you can see, both endpoints hold the same information in different fields. The following illustration shows the relationship between the fields on both ends:
+
+There must be a way to close the dialog, not just open it. For INVITE dialogs, the way you close a dialog is to send a BYE request. Obviously, any of the two dialog participants may send BYE, which correspond to one hanging up its phone. As with any request, you must respond to the BYE, but in this case, even an error response (or timeout of the transaction) would prompt the sender of the BYE to close the dialog. This is to prevent from the remote end from forcing a device to keep a dialog open with its state.

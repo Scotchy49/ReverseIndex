@@ -1,0 +1,14 @@
+Last spring, the paper’s Driven to Distraction series explored the potential risks of digital billboards, which critics sometimes refer to as “TV on a stick.” Some cities and states are debating whether to prohibit or regulate this new form of advertising for fear that it can distract drivers and raise the rate of accidents.
+
+A new study concludes that there are environmental reasons to avoid digital billboards as well. Digital billboards, which are made of LED lights, consume lots of energy and are made of components that will turn into e-waste once the billboard’s life has ended.
+
+But wait, you ask, isn’t LED lighting quite energy-efficient? True, notes the report’s author, Gregory Young, a Philadelphia-based architectural designer and urban planner. But traditional billboards are lit by only two or three lamps, albeit inefficient ones, and only at night. By contrast, digital billboards have hundreds if not thousands of LEDs, which are illuminated day and night. And LEDs function poorly at high temperatures, so the signs need a cooling system.
+
+
+In a year, a digital billboard can consume up to 30 times the energy that an average American home uses, Mr. Young finds.
+
+“In many applications — such as television/computer display, general lighting, and small electronics — LCD, plasma screen, and LED technological advancements have proven more energy-efficient than their predecessors,” the report concludes, “but research indicates that out-of-home advertising is simply not an appropriate or responsible application for digital technology.”
+
+There is, of course, a partial solution: if you use electricity generated from solar panels to power the display, a digital billboard can be rendered carbon-neutral in terms of the emissions it generates. A billboard in Times Square operates this way.
+
+Even so, Mr. Young suggests, digital billboards should generally be avoided both for potential health and environmental reasons. “Higher electricity consumption, increased light pollution and recyclability issues should make us pause and question the growing popularity of digital signage,” he wrote.

@@ -1,0 +1,29 @@
+Working with human brain tissue removed in surgery, researchers have identified the components of a critical part of the brain’s architecture: the synapse, or junction where one neuron makes a connection with another.
+
+The work should help in understanding how the synapse works in laying down memories, as well as the basis of the many diseases that turn out to be caused by defects in the synapse’s delicate machinery.
+
+The research team, led by Seth Grant of the Sanger Institute near Cambridge, England, compiled the first exact inventory of all the protein components of the synaptic information-processing machinery. No fewer than 1,461 proteins are involved in this biological machinery, they report in the current issue of Nature Neuroscience.
+
+They have tied their catalog into the human genome sequence, connecting each protein to the gene that contains instructions for making it. This has allowed them to compare their findings in humans with other species whose genomes have been sequenced, such as the Neanderthals, who “would have suffered from the same range of psychiatric disease as humans,” Dr. Grant said.
+
+Each neuron in the human brain makes an average 1,000 or so connections with other neurons. There are 100 billion neurons, so the brain probably contains 100 trillion synapses, its most critical working part.
+
+At the side of a synapse that belongs to the transmitting neuron, an electrical signal arrives and releases packets of chemicals. The chemicals diffuse quickly across the minute gap between the neurons and dock with receptors on the surface of the receiving neuron.
+
+These receptors feed the signals they receive to a delicate complex of protein-based machines that process and store the information.
+
+The complex of proteins involved in this information processing is known to neuroanatomists as the post-synaptic density, because the proteins stick together as a visible blob, but the name does scant justice to its critical function.
+
+The 1,461 genes that specify these synaptic proteins constitute more than 7 percent of the human genome’s 20,000 protein-coding genes, an indication of the synapse’s complexity and importance.
+
+Dr. Grant believes that the proteins are probably linked together to form several biological machines that process the information and change the physical properties of the neuron as a way of laying down a memory.
+
+The tolerances of these machines seem to be very fine because almost any mutation in the underlying genes leads to a misshapen protein and, consequently, to disease. Looking through a standard list of Mendelian diseases, which are those caused by alterations in a single gene, the Sanger team found that mutations in 169 of the synaptic genes led to 269 different human diseases.
+
+The new catalog of synaptic proteins “should open a major new window in mental disease,” said Jeffrey Noebels, an expert on the genetics of epilepsy at the Baylor College of Medicine. “We can go in there and systematically look for disease pathways and therefore druggable targets.”
+
+Mendelian diseases, the ones that Dr. Grant has linked to his set of synaptic genes, are mostly rare and obscure, but they may turn out to overlap with the common mental diseases in terms of their symptoms and causative pathways, in which case some treatments might overlap too.
+
+The brain tissue analyzed by Dr. Grant’s team was extracted by a surgeon, Ian Whittle of Edinburgh University. To reach certain regions deep in the brain he had to remove a thin tube of tissue which, with the patients’ consent, he froze immediately and sent to Dr. Grant.
+
+

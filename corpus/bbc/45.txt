@@ -1,0 +1,39 @@
+﻿﻿Each week we are asking chief technology officers and other high-profile tech decision-makers three questions.
+
+Answering today is Dr John Bates, chief technology officer of Progress Software, a company that specialises in real-time computing and provides business software infrastructure to more than two-thirds of the Fortune 100 companies.
+
+Progress Software is a US firm based in Bedford, Massachusetts, and employs 1,800 people. It's annual results are imminent, but during its most recent financial year the company made a $46.3m profit on a turnover of $515.5m (£330.1m).
+
+What's your biggest technology problem right now?
+
+The biggest challenge for technology firms is to make themselves responsive in real-time to the business opportunities at stake and the threats that could turn into disaster. For example social networks, this could turn into a real business tool that helps companies to predict problems and head them off early.
+
+IT must provide visibility to humans: For example, how effective are business promotions? If you talk to a customer, where are the opportunities for up-sell? And when you have visibility, how do you respond? It could be an automated response, for example algorithmic trading or automated supply chain logistics, or information that guides call centre operatives.
+
+Automated real-time responsiveness requires a real-time safety net, a real-time firewall.
+
+This year we've had dozens of [banking industry] algorithms going wrong, causing multimillion dollar losses around the world. If you do high-frequency trading you need high-frequency risk management - constantly monitor your exposure, prices, volume spikes. You need to be able to give feedback to risk and compliance officers.
+
+For many companies - banking, energy, telecoms, logistics and others - responding to real-time information is now business critical, but many companies are still figuring out what to do.
+
+[Real-time systems] won't be able to boil the ocean and discover everything, but systems are able to learn.
+
+This is not going to be the all-thinking solution, but if you go from no visibility to some visibility, and see the bottlenecks and problems, that's worth something.
+
+What's the next big tech thing in your industry?
+
+Location - making better use of location-based services. Telecoms firms will be able to sell messages to consumers based not just on location but the context of the customer - but that has to be on an opt-in basis [where customers agree to get such messages].
+
+For example, we are working on a service for a major entertainment group, for its amusement parks, that will give visitors a customised experience. The system knows where you are, which rides you want to visit, it monitors the length of the queues at the rides and then will make recommendations where you may want to go next to personalise and optimise the experience.
+
+Lufthansa has a location-aware social networking system, you can tell the system what your interests are, for example an investor who wants to meet entrepreneurs, and the system will bring them together.
+
+The other thing are social networks. They will become business tools, and could even spell the end of email. If you treat your organisation like a social network, not like an org chart, you may find that the most important person in your firm is Fred the engineer who sits towards the bottom of the org chart.
+
+What's the biggest technology mistake you ever made - either at work or in your own life?
+
+I've made lots of mistakes, but the biggest mistake was when I was working on my first company. We went into stealth mode and didn't talk to anybody about our project. Instead we should have shouted it from the roof tops and got the customers on board as soon as possible and get their case studies into the development.
+
+Now, when we develop something new like our responsive management system, we get customers on board early.
+
+So I hope I've learned my lessons from the mistake of being a secretive squirrel.

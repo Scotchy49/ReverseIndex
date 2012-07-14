@@ -1,0 +1,21 @@
+﻿Wondering what ruled the roost in the world of IT and business computing news? During 2010, you were interested in the transition from IPv4 to IPv6 (and why it's probably going to suck), why Intel bought McAfee, and superfast solid state drives. The top 10 stories from Uptime follow.
+
+There is no Plan B: why the IPv4-to-IPv6 transition will be ugly: The Internet is running out of IPv4 addresses—not at some point in the future, but right now. But the only solution to the problem, IPv6, is just now really starting to be deployed. That's why we're all in for some tough times ahead.
+
+Intel's walled garden plan to put A/V vendors out of business: In a keynote address at IDF, Intel's CEO tipped the company's plans to turn the x86 ecosystem from an open free-for-all into a world where code must first get permission from someone other than you before it can run on your machine.
+
+Google talks Chrome OS, HTML5, and the future of software: Ars Technica's Jon Stokes and Ryan Paul sit down with the engineering director for Google's Chrome OS project for an in-depth discussion of how Chrome OS got started, the project's relationship to Android, and where the Web is going as a software platform.
+
+Superfast SSDs are coming, but will they be used the right way?: Intel, Dell, IBM, and others have announced a consortium to develop standards for PCIe SSDs. When these drives finally reach consumers, they'll be insanely fast. But it would be a shame if OS makers didn't do anything creative with them.
+
+ENUM: Dragging telephone numbers into the Internet Age: E-mail, IM, Facebook, phones—what if all of these ways to reach you over a network could be condensed into a single, unique number? The ENUM proposal aims to do just that, by giving everyone a single phone number that maps to all of their identifiers. Here's how it works, and why it isn't already widely used.
+
+Intel's next must-have upgrade: a look at Sandy Bridge: Intel's forthcoming Sandy Bridge architecture is the first major new-from-the-ground-up x86 design from Intel since Atom. Here's why next year's batch of Sandy Bridge-based chips will be so much faster than their predecessors, and why it pays to wait on an upgrade if you can.
+
+Oracle launches SPARC Supercluster, sets new DB performance record: Oracle has unveiled its new SPARC Supercluster, a high-performance computing solution that the company has used to set a new record for database performance. Oracle's database software on the Supercluster can reportedly do 30 million transactions per second.
+
+Cloud storage in a post-SQL world: Since the rise of the Web, SQL-based relational databases have been the dominant structured storage technology behind online applications. The past few years have seen the emergence of the cloud as an app deliver model, and the cloud and SQL just don't mix. Ars takes a look at what comes next.
+
+The Ars Technica Guide to I/O Virtualization: Virtualization is one of the core technologies that makes the cloud go, and it's constantly evolving. In this in-depth guide, Ars looks at the latest step in virtualization's evolution—I/O virtualization. Inside, you'll learn how virtualization platforms give guest OSes access to hardware like network cards and disk controllers.
+
+Why Intel bought McAfee: Theories abound for why Intel bought McAfee, but the reality is more prosaic than most imagine. The Aurora attacks on Google and others were a wake-up call for Intel, and the company got serious about developing vPro's security potential. But to do that, they had to be able to offer products and services directly to the consumer.

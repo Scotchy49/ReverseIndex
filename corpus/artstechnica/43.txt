@@ -1,0 +1,62 @@
+﻿The landscape of CG applications is vast and very confusing to 3D graphics newbies. These apps span the gamut from free modelers to beefy, Python-scriptable animation packages, standalone renderers and a lot of little programs that glue them all together into a complex and intimidating workflow. People looking to get into game development know that ZBrush is popular, but Mudbox looks good, too, so they're at a loss over which to learn. Program X looks like it does everything, but does it? What's “ambient occlusion” and why would I ever need it? These questions and more will complicate life for the aspiring 3D newb.
+
+3D magazines provide helpful tutorials, but since every application is also a potential advertiser, they tend to avoid saying that one package is best for a particular task, or that program X really sucks at particle animation, and so on. This two-part series will cover these differences while discussing specific workflows where these packages are used in areas like character modeling, motion graphics for TV or photorealistic rendering for architectural visualization. By the end of this first article, you should have an idea of how to approach modeling, sculpting, and texturing to achieve professional-looking results; the second article will focus on animation and rendering. You will still have lots of questions at the end, but 3D is inherently complex so there's not much getting around that. Think of this article as an introduction to the very basics.
+
+Since this is a very broad approach, I have to limit the scope a bit. Attempting to review all the 3D programs on all platforms would be too ambitious. I do have a very good knowledge of where most 3D packages excel and which fall flat for certain aspects but we'll be covering them within the context of a 3D workflow. Often, it may look like I'm recommending very expensive packages, but I will try to make clear the benefits of pro options while mentioning the base feature set you should look for in a 3D program. I've made my own choices that fit my work, but I'm not going to insist those choices are right for everyone.
+
+Table of Contents
+
+A bit about my 3D background: Handsome Boy Modeling School
+3D on the Mac?
+Mac 3D limitations
+The workflow or job approach: getting your 3D task done
+3D modelers
+Working symmetrically
+Subdivision
+Good topology and quadrangles
+Program considerations for cage modeling
+Modeling for games and cage modeling in triangles
+Modeling features of the pro apps
+Modern sculpting workflows
+Two alternate methods of base mesh creation: zspheres and voxels
+UV mapping
+Initial UV mapping
+Cutting edges and creation of UV shells
+Pelting
+UV shell packing
+How the UV editors stack up
+Headus UV layout
+Generating detail maps for your mesh
+Using 8-, 16- or 32-bit normal or displacement maps
+Advanced technique: ambient occlusion maps
+Hint: use TIFFs
+Program considerations for sculpting workflows
+Mudbox 2010 vs. ZBrush 3.5
+Retopology
+Retopo applications
+Model texturing
+Texturing programs
+Wrapping up
+A bit about my 3D background: Handsome Boy Modeling School
+
+You're probably wondering, based on my Ars article history, how I could purport to know all about 3D and animation when I'm just a design guy with some virtualization chops. While it's true that I'm a print designer/magazine art director by trade, building 3D skills was always a pet project and 3D has become a staple of my print work over the last five years. I'm also a gamer and, in a slow time work-wise, I designed a level for Quake 3 (on OS X, no less). Even though that was before normal maps, GLSL and deferred rendering, I know my way around most facets of 3D technology. And despite the still nature of my work, I often use animation and compositing to build images:
+
+I'm no stranger to the command line either, and I grow a nerdy smile by using screen and ssh to check render progress on my home server. So there's my 3D resum�—did I get the job?
+
+3D on the Mac?
+
+Since many people probably scoffed at the idea of the Mac as a 3D platform when they read it above, I thought I'd provide a macro-review of OS X as a 3D platform before starting on the workflow article. My Maya 3D skills were picked up on a Windows 2000 Athlon and, at the time, there was no other option. Until OS X came out, the Mac just wasn't a feasible platform for high-end 3D artists. Despite having a few competent programs, the stability problems of OS 9, combined with the terrible multitasking (who'd want their render to stop every time you clicked on a menu?) and the lack of a command line made the Mac more of a chuckle than a consideration for any high-end 3D animator. The video card choices were almost as bad as the 3D technology, and watching Apple fumble its way through Quickdraw 3D (roller-coasters and RAVE!) was awful. Then Steve came riding back in on his turtlenecked stallion and things started to change. OpenGL was officially adopted thanks to the gentle nudges of John Carmack; the popular API even made it into OS 9 but that still wouldn't have been enough to make the system palatable for 3D pros.
+
+After OS X and the Intel transition, the situation greatly improved for 3D on the Mac. Today, the parts are finally all there for a mature 3D platform: the OS, the video hardware, and, most significantly, the software. In the course of doing research for this article, so many Windows 3D application ports were announced for OS X that it no longer surprises me when important niche products like Topogun, Headus UV Layout, or CrazyBump announce an OS X version.
+
+But Apple can't take all the credit—OS X got more than a bit of help from Linux. With animation studios moving from Irix to Linux or Windows, there was a need for cross-platform development in 3D and VFX. Today, cross-platform development tools like Qt are ubiquitous in the 3D world. Qt alone is behind many professional 3D and compositing applications that appear on the Mac: Mudbox, Nuke, Toxik, Maxwell Render, Imagemodeler and Realflow to name a few.
+
+Nuggets of OS X's CG maturity abound. 32-bit EXR/HDR files support across the OS:
+
+No one doubts that OpenCL will be a significant technology in the future of 3D apps. Even Collada files—the open standard 3D format for game engines like UT3—display and rotate in 3D within Preview.app and Quicklook:
+
+You could send a model to a client for approval and they wouldn't need a 3D program to view it—just Snow Leopard.
+
+It seems that 3D users are feeling the OS X love too. In a recent poll of Maya users on CGSociety, the largest online community for 3D and animation, OS X turned up a good showing:
+
+While I don't think that reflects the 3D industry as a whole, it's definitely encouraging.

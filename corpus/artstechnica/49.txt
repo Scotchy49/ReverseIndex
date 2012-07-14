@@ -1,0 +1,61 @@
+﻿Twelve cores and twenty-four threads—that's what I'm sitting in front of. Even after owning an 8-core Nehalem Xeon Mac Pro, I just wasn't prepared for the 8 extra threads in my new shiny new 12-core Westmere Xeon Mac Pro. It's just that crazy. Sometimes, you look up at the menu bar and you think that Iran has Photoshopped extra iStat CPU bars up there, to convince you of this machine's awesome powers:
+
+Every time that happens, I hear a Black Sabbath guitar solo off in the distance, and my mouse hand does this of its own accord:
+
+But then the smoke machine fog dies down, and I'm left with the rest of my programs that don't cause multi-core god rays to appear. This is life with many cores.
+
+Custom-built Mac Pro 2010 specs
+Dual-socket six-core 2.66GHz Westmere Xeon Mac Pro
+15GB RAM
+OCZ Vertex Turbo 120GB system disk
+2TB striped RAID working disk
+ATI 5870 1GB
+dual NEC 2490WUXi LCDs at 1920x1200
+Comparison 2009 Mac Pro
+Dual quad-core 2.66GHz Nehalem Xeon Mac Pro
+24GB RAM
+OCZ Vertex Turbo 120GB system disk
+2TB striped RAID working disk
+ATI 4870 512MB
+dual NEC 2490WUXi LCDs at 1920x1200
+Both machines are using the same hard drives—I reformatted the system disk and put it in the new Mac Pro after running the benchmarks on the 2009 Mac Pro.
+
+The Hardware
+
+The 2010 Mac Pro now comes with an 802.11n Wi-Fi card by default. I always use wired, but this was a dumb thing to make an upgrade because there are times you find you need wireless. The new Mac Pros also come with the magic mouse.
+
+There isn't much else to say about the 2010 internals that wasn't said already in my 2009 Mac Pro review. That's no complaint—the internals of this machine are great, and not much was in need of revising. It's still the easiest Mac ever to upgrade, and all the goodies like the thumbscrew PCI card block are still there:
+
+But then the smoke machine fog dies down, and I'm left with the rest of my programs that don't cause multi-core god rays to appear. This is life with many cores.
+
+Custom-built Mac Pro 2010 specs
+Dual-socket six-core 2.66GHz Westmere Xeon Mac Pro
+15GB RAM
+OCZ Vertex Turbo 120GB system disk
+2TB striped RAID working disk
+ATI 5870 1GB
+dual NEC 2490WUXi LCDs at 1920x1200
+Comparison 2009 Mac Pro
+Dual quad-core 2.66GHz Nehalem Xeon Mac Pro
+24GB RAM
+OCZ Vertex Turbo 120GB system disk
+2TB striped RAID working disk
+ATI 4870 512MB
+dual NEC 2490WUXi LCDs at 1920x1200
+Both machines are using the same hard drives—I reformatted the system disk and put it in the new Mac Pro after running the benchmarks on the 2009 Mac Pro.
+
+The Hardware
+
+The 2010 Mac Pro now comes with an 802.11n Wi-Fi card by default. I always use wired, but this was a dumb thing to make an upgrade because there are times you find you need wireless. The new Mac Pros also come with the magic mouse.
+
+There isn't much else to say about the 2010 internals that wasn't said already in my 2009 Mac Pro review. That's no complaint—the internals of this machine are great, and not much was in need of revising. It's still the easiest Mac ever to upgrade, and all the goodies like the thumbscrew PCI card block are still there:
+
+Combining three 1GB with three 4GB modules means that the memory is in running in triple-channel mode. Filling all eight slots wouldn't be the best way to go.
+
+The ATI Radeon 5870
+
+Since I do 3D work, I upgraded from the Radeon 5770 to the Radeon 5870. On a purely aesthetic level, it's a beautiful design:
+
+The 5870 has three outputs: one dual-link DVI and two mini DiplayPorts, so it should drive three screens with resolutions as high as the 27" that Apple just released. I wanted to test it with three LCDs, and thought it would work without any hitches, since my triple 1920x1200 screens are on the conservative side. After receiving a second single-link mini DisplayPort to DVI adapter, I've only been able to use two and, it seems, this is not a bug. If you want to connect to DVI displays (no matter the resolution), you have to use the more expensive mini DisplayPort-to-dual-link-DVI adapters. Apple's docs covering this issue are here:
+
+Just when I was beginning to like mini DisplayPort...

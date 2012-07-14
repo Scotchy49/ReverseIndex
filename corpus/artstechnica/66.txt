@@ -1,0 +1,39 @@
+﻿The recent Google hack has brought security to the top of every IT admin's mind, if it wasn't there already. But securing a network is a huge investment of time and money, to the point that many best practices are out-of-reach for many small and medium businesses. Nonetheless, there is hope. Windows shops can get a good, cheap head-start on security by simply ensuring that their domain security policy is solid. In this article, Ars shows you how to create a group policy that will secure Active Directory (AD) according to current best practices, while keeping it open enough to ensure that operational headaches remain at a minimum.
+
+Note: For reference, all policy settings discussed in this article can be found under Computer Configuration > Windows Settings > Security Settings in the Group Policy Editor (gpedit.msc)
+
+Password Policy (Account Policies > Password Policy)
+
+Password policy is likely the first thing you're thinking of when anyone mentions security, so let’s begin with it. Windows' password policy is defined by six settings:
+
+Minimum Password Age
+Maximum Password Age
+Minimum Password Length
+Enforce Password History
+Password Must Meet Complexity Requirement
+Store Passwords Using Reversible Encryption
+Let’s begin with minimum and maximum password ages. The maximum age specifies how long users have until their password expires.
+
+One thing to keep in mind with password age is that when you set a maximum age, you are making a tradeoff between ease of memorization and potential duration of exposure. The idea behind maximum age is that if the password to an account is hacked, it is only exposed for a certain period of time, limiting long-term compromises. However, this is a bit open to debate. For example, if a hacker compromises an administrative account, chances are he will create more administrative accounts in short order, making the fact the the password for the original administrative account is set to expire in a few days moot. However, setting a maximum age does limit exposure to some degree on non-administrative accounts, and for this reason, it is advised that you set it in the 20-45 day range. That being said, I have seen lower-security settings (such as 90 day intervals) used with success as well.
+
+Minimum age, on the other hand, specifies how long a user must wait after changing their password before they can change it again. For example, if you set this setting to 7 days, a user who changes her password today will need to wait another week before she can change it again.
+
+The purpose of the minimum age policy is actually to help the Enforce Password History setting. Enforce Password History defines how many passwords AD will remember and prevent the user from using. For example, if we set Enforce Password History to 10, the user will not be able to reuse the last 10 passwords when changing their password. However, if the Minimum Password Age setting is not enforced, the user can just immediately reset their password 10 times and go right back to using their previous password. So, if you are going to enforce password history, you should always make sure to configure a minimum password age.
+
+In most environments, I would suggest you enable both settings, and configure the Enforce Password History to maintain one year's worth of passwords (12 if using a 30 day maximum age). Then, configure the minimum password age to be half of your maximum password age (15 days, if using a 30 day maximum).
+
+Minimum Password Length and Password Must Meet Complexity Requirements are settings that try to do the same thing: They ensure passwords are difficult to crack. Increasing the minimum password length means that passwords must be longer, and therefore theoretically harder to crack. Similarly, enabling password complexity requirements forces all passwords to be complex. In this case, “complex” is defined as containing three of the following four types of characters:
+
+Lower-case characters
+Upper-case characters
+Numbers
+Symbols
+While most guides will suggest you enable complexity and use a minimum of 8 character passwords, recent studies show that this is not nearly as effective in reality as it is in theory. The reason for this is simple: Users have a finite memory.
+
+When faced with creating a complex password, the average user will create something like Sally#15 or degenerate into leetspeak (P@s5w0rd), neither of which are very effective against today’s brute-force and dictionary hacking tools.
+
+Luckily, the solution is quite simple: disable complexity and set the minimum length to 14 characters. Then, give your users some tricks. First, tell them to use something memorable but unrelated to them for the password. Good ideas are book titles, song titles, a line of lyrics from a favorite song, and poetry. This trick should make a password that is both hard to crack and easy to remember. Next, let your users know that they can use spaces in Windows passwords! I’m always amazed at how few people realize this, but just by adding spaces and punctuation to your password ‘line’ (effectively typing it exactly as you would normally), you can make an incredibly complex password with very little effort.
+
+One thing to keep in mind with all of the above policies is that you want to avoid a situation where your users must write down the password to remember it. The first line of defense in this regard is education, but no amount of education will overcome overly aggressive policies. On the other hand, no matter how lenient your policies are (120 day maximum ages, for example), some contingent of users is always going to complain. The only complete solution to the weaknesses inherent in passwords is to use two-factor authentication (such as Smart Cards).
+
+Finally, we have the Store Passwords Using Reversible Encryption setting. This setting is only used for downward compatibility with the Challenge Handshake Authentication Protocol (CHAP), and should never be enabled, since it effectively causes all domain passwords to be stored in clear text.

@@ -1,0 +1,19 @@
+Interest rates in the UK have been held again: at a record low 0.5% as expected.
+
+Why do rates matter? Graeme Wearden explains that
+
+Since 1997 rates have been decided by the nine members of the Bank's monetary policy committee, which is chaired by the Bank's governor. It meets each month to vote on whether to raise or lower
+rates, or leave them unchanged.
+
+Interest rates are one lever used to control the economy. The MPC's remit is to keep inflation near the official target of 2%. Raising the base rate should bring down inflation by encouraging saving and deterring people from borrowing - thus lowering demand for goods in the shops. Lowering rates should stimulate economic demand and push up prices, as consumers would be left with more disposable income after paying mortgage costs.
+
+This base rate is used to calculate repayments for tracker and variable-rate mortgages. The interest rates paid on savings accounts should also move in line with the base rate, although retail banks are not obliged to pass on changes in full.
+
+These rates, from the Bank of England, go back to 1694 which (as any history student will tell you) is actually before the formation of the UK in May 1707. But it is one of the world's most complete economic datasets and says a lot about the UK's economic history.
+
+The Bank also publishes historic data on Monetary Policy Committee member voting too.
+
+This is how the raw data (which we've formatted to make it work properly) looks:
+
+We've actually examined some of these datasets before with an interactive guide to rates since 1694 and another to rates since 1991 - which covers the period when the Bank of England took over administration of interest rates from the Chancellor in 1997.
+

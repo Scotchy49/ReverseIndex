@@ -1,0 +1,9 @@
+﻿Apple announced Tuesday that the second-generation Apple TV—introduced in September—will cross the 1 million units sold threshold this week. This may signal that Apple is finally ready to stop calling the device a hobby and start taking it more seriously.
+
+The significance of the announcement shouldn't be underestimated. Apple has never revealed unit sales of the original Apple TV in its quarterly financial results, and in fact would not reveal the total number sold when we asked on Tuesday. It is believed that the first-generation Apple TV never met Apple's internal goals, and therefore the company continually referred to the product as a "hobby."
+
+The second-generation Apple TV was radically different from the first, in hardware, software, and industrial design. The original was based on a low-end Intel processor and an NVIDIA graphics chip, ran a variant of Mac OS X, and looked like a squished Mac mini. The second-gen device is based on Apple's A4 processor, and hardware-wise is not unlike an iPod touch. It also runs iOS, with a version of the Apple TV interface running on top of that. And the device is hardly larger than a deck of UNO cards, clad in polished black polycarbonate. The look is more A/V and less computer.
+
+Apple also introduced new TV show rentals and Netflix compatibility with the new Apple TV. And while the potential for the device to run device-specific applications using iOS development tools may have fueled greater interest among consumers, the $99 price point was likely the biggest factor in its increased sales.
+
+It's impressive that it only took three months for the Apple TV 2.0 to outsell the original Apple TV, which was on the market for three years. Unless Apple opens up the device to app developers and adds more sources of content, however, it may be unable to weather the increasing competition in the set-top box market.

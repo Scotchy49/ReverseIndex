@@ -1,0 +1,23 @@
+﻿It was a simple idea: take a collection of independent games, offer them with no DRM, and allow people to pay whatever they'd like. The result? 123,182 people have paid for the bundle so far, and the total raised is now an incredible $1,126,563. 
+
+That generosity will be rewarded. "As of 5/11/10, Aquaria, Gish, Lugaru HD, and Penumbra Overture pledge to go open source," the developers blogged. "We are preparing the sources right now and will be releasing them ASAP." The sale was a huge success, began many conversations, and it provided insight into the behavior of gamers. Here's a look at what comes next.
+
+Much larger than expected
+
+"It's still pretty surreal. Once it was launched, it was immediately clear that we were on to something," Jeffry Rosen, the cofounder of Wolfire Games, told Ars. Raising a million dollars was seen as possible, but it was certainly a best-case scenario. "At the end, people really, really wanted to support the bundle and push it to make the million dollar milestone—we started seeing donations as large as $3333.33 and $1337.00 come in at the last few hours," Rosen explained. "Reddit completely lit up: I would estimate redditors to be the single largest benefactor, by far."
+
+A lot of people were talking about DRM and piracy, but fewer were talking about the actual games in the bundle. Did the games themselves—which are more than worth your time—get lost in the shuffle? "I think we introduced a huge number of gamers to the indie community, and I hope they like what they see," Rosen said. "All of our forums are extremely busy now with activity. With Lugaru, people are actually already contributing patches, now that it is open source, and improving it."
+
+That's the bonus prize: the games that are now open source. You'll want to check back for the licenses—no one is going to get rich reselling modified games—but poking around the code and improving the experience or trying your hand at creating content is going to be a great thing for the independent gaming community.
+
+"When I saw this flurry of positive contributions, it immediately reminded me of its mirror image—the rush to be the first cracker to crack each new DRM scheme... It makes me a little sad to see all this effort expended on games with DRM. Could it work the same way in reverse?" Rosen wrote on the blog. "When Aquaria, Gish, and Penumbra Overture open up, I hope the community will help build them up with the same vigor that crackers tear DRM down."
+
+What did we learn?
+
+Just as impressive as the money raised was the amount of information gained about the community that picked up the bundle. There was a blog post detailing the popularity of the bundle on Linux and Mac OS X systems—much higher than assumed. The piracy rate was also explored, and that launched a heated conversation in our comments about what those numbers mean.
+
+Publishers complain about piracy, and gamers complain about DRM, but in this case something new and novel was attempted, and the end result was profits for the developers, a ton of publicity, and another lump of cash for two very deserving causes.
+
+"We are still finishing up, but whether it's us or someone else—I guarantee you will see more of these. We've already gotten a number of requests to purchase the website's code," Rosen told Ars. "You can bet there are many others already in development whether it's from developers directly or from other people."
+
+What's next now that the sale has reached its conclusion? You can still donate and receive the games, but Rosen is going to return to his passion. "I have not really slept properly in over a week, so it will be great to be able to relax and rejoin my brother, working on our game."

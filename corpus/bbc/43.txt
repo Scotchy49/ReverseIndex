@@ -1,0 +1,42 @@
+﻿﻿The UK Information Commissioner's Office (ICO), which has been criticised for not taking a more hardline stance against Google, confirmed the deletion.
+
+The first batch of wi-fi data, which included snippets of e-mails, URLs and passwords, was deleted in November.
+
+But legal wrangles in other countries meant that the remaining data, all of which the firm said was collected in error, took more time to erase.
+
+"We can confirm that the UK data has now been deleted, and that this has been independently certified," said Google.
+
+The deletion was carried out by US forensics firm Stroz Friedberg.
+
+The ICO welcomed the announcement and said that it had been sent a copy of the report confirming the deletion.
+
+"This is inline with the requirements of the undertaking issued by the ICO and signed by Google last month," said a spokesperson.
+
+The ICO has come under fire for not taking action against the firm, which first admitted to collecting information from unsecured wireless networks in more than 30 countries in May 2010.
+
+But deputy information commissioner David Smith told the BBC in November that it had no grounds for fining Google.
+
+He also admitted that the the UK had conducted a much more basic investigation than other countries, such as Canada, which concluded that the search giant "seriously violated" its privacy laws.
+
+"We spent less time searching than others did. If we had searched for days and days we would have found more," Mr Smith said at the time.
+
+A spokesperson said that the ICO would not change any of its procedures, despite the condemnation.
+
+'Data disturbance'
+A Freedom of Information request submitted to the ICO, and published on 17 December, details the correspondence between the firm and the watchdog.
+
+It also explains why, despite the bulk of the data being deleted by 26 November, it has taken until now to delete the rest.
+
+"There is some data from the UK which we haven't been able to delete yet," wrote Google's global privacy counsel Peter Fleischer in November, describing the obstacle as a "wrinkle to the process".
+
+"This relates to data that was still on Street View car disks at the time we discovered our mistake in May. Because these disks could contain data from countries where we have received preservation requests from the authorities, we must make sure that in deleting the UK data we don't disturb the surrounding data.
+
+"In the meantime, the data on these disks was never uploaded to our servers, and these disks have been and will remain securely stored as we work to complete the task."
+
+The firm has faced a series of global investigations into how it came to collect the data, some of which are ongoing.
+
+Last week Google told Connecticut's attorney general's office, which is leading a multi-state US probe, that it would not comply with requests to hand over the data it collected.
+
+"I am disappointed by Google's failure to comply with my information demands," Attorney General Richard Blumenthal said in a statement.
+
+"We will review any information we receive and consider whether additional enforcement steps - including possible legal action - are warranted."

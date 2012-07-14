@@ -1,0 +1,64 @@
+﻿﻿Government plans to block pornography "at source" are unlikely to prove effective, say ISPs.
+
+The proposal to cut off access to pornographic material was floated by Culture Minister Ed Vaizey in an interview with the Sunday Times.
+
+The government is talking to ISPs to set up a meeting at which the proposal will be discussed.
+
+But, say experts, technical challenges mean any large scale filtering system is doomed to failure.
+
+Legal issues
+A spokesman for the Department of Business, Innovation and Skills, confirmed Mr Vaizey's plan to talk to ISPs about setting up an age verification scheme to govern access to pornographic sites.
+
+"This is a very serious matter," said Mr Vaizey. "I think it's very important that it's the ISPs that come up with solutions to protect children."
+
+"I'm hoping they will get their acts together so we don't have to legislate, but we are keeping an eye on the situation and we will have a new communications bill in the next couple of years."
+
+In response to the government proposal, Nicholas Lansman, secretary general of the Ispa industry body, said: "Ispa firmly believes that controls on children's access to the internet should be managed by parents and carers with the tools ISPs provide, rather than being imposed top-down."
+
+Mr Lansman said its members provided parents with many different means of controlling what is accessible via the computers in their homes.
+
+"Online safety is a priority issue for the internet industry and ISPA will be discussing the options available to protect children with Government," he said.
+
+"ISPs currently block child abuse content which is illegal and widely regarded as abhorrent," said Mr Lansman. "Blocking lawful pornography content is less clear cut, will lead to the blocking of access to legitimate content and is only effective in preventing inadvertent access."
+
+BT, the UK's largest ISP, said it would be "happy" to take part in any discussion of the issues, but added: "There are many legal, consumer rights and technical issues that would need to be considered before any new web blocking policy was developed."
+
+Filter failure
+"Unfortunately, It's technically not possible to completely block this stuff," said Trefor Davies, chief technology officer at ISP Timico.
+
+He said the sheer volume of pornographic material online and the number of ways that people access it, via the web, file-sharing networks, news groups, discussion boards and the like, made the job impossible.
+
+While some proponents of a national pornographic filtering scheme cite the Internet Watch Foundation (IWF) as an example of how such a scheme might work, Mr Davies said it was not a good guide.
+
+The IWF circulates a list to ISPs of sites found to be hosting illegal images of child sexual abuse.
+
+However, said Mr Davies, the IWF draws up its list largely using information passed to it by the public. In addition it only tackles illegal content found on websites.
+
+Such a system would not work if it was used to deal with millions of porn sites, chat rooms and bulletin boards, he said.
+
+Experience with filtering systems, he said, shows that they are a very blunt tool that often blocks access to sites that could be useful.
+
+"You end up with a system that's either hugely expensive and a losing battle because there are millions of these sites or it's just not effective," he said.
+
+"The cost of putting these systems in place outweigh the benefits, to my mind," he said.
+
+Mr Davies also feared that any wide-scale attempt to police pornographic content would soon be expanded to include pirated pop songs, films and TV shows.
+
+"If we take this step it will not take very long to end up with an internet that's a walled garden of sites the governments is happy for you to see," he said.
+
+'Child protection'
+His comment was echoed by Jim Killock, chair of the Open Rights Group which campaigns on digital liberties issues.
+
+"This is not about pornography, it is about generalised censorship through the back door," said Mr Killock.
+
+"This is the wrong way to go," he said. "If the government controlled a web blacklist, you can bet that Wikileaks would be on it."
+
+Miranda Suit, co-chair of Safer Media, which campaigns to make media safe for children, told the BBC that the pornography available on the internet was "qualitatively and quantitatively" different from any that has gone before.
+
+Ms Suit cited a report compiled by the US conservative think tank The Witherspoon Institute which suggested that easy access to pornography was damaging some young people.
+
+"Children are becoming addicted in their teens to internet pornography," she said. "They are being mentally damaged so they cannot engage in intimate relationships."
+
+Safer Media backed the government call to block pornography "at source", said Ms Suit.
+
+"What we are talking about is censorship to protect our children," she said.

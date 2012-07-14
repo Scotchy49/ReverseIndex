@@ -1,0 +1,27 @@
+The IMF released its Q3 2010 Currency Composition of Official Foreign Exchange Reserves (COFER) report. The COFER database provides the breakdown of official central bank portfolio holdings by currency across advanced and emerging/developing market economies.
+
+The picture is roughly half complete, as 44% of the global reserve positions go unallocated. But the trend in reported FX holdings indicates that central banks are supporting the euro, giving it a lower bound. Furthermore, there has been a shift in portfolio holdings toward "other currencies" in advanced and emerging market central bank portfolios.
+
+According to the report, Q3 2010 total central bank reserve holdings increased to $9.0 trillion, up by $564.4 billion over the quarter. $317.7 billion of the increased asset holdings are not "allocated" a currency denomination ("unallocated reserves" in the charts below), but the rest, $247 billion new portfolio holdings, were denominated in the following currencies:
+
+$107.7 billion in new assets denominated in US dollars
+$3.4 billion in new British pound assets
+$24.2 billion in new Japanese yen assets
+$0.3 billion in new Swiss franc assets
+$87.5 billion in new Eurozone euro assets
+$23.6 billion in new "other currency" assets
+Of note, the quarterly increase in euro assets is the largest since Q2 2009. Central banks saw the weak eurodollar as a buying opportunity, down to 1.2238 on 6/30/2010. Central bank demand at low prices will likely be an important buffer to eurodollar weakness going into 2011.
+
+Central bank portfolio assets denominated in US dollars plummeted in late 2008 and early 2009, as global central banks faced sharp capital account outflows. Since then, US dollar-denominated assets have recovered, and so have those that are "unallocated"(those reserve portfolio holdings that go unreported), which surged $881 billion since Q1 2009.
+
+Another important point, is that the share of allocated reserves for "other currencies" has increased from 1.8% in Q4 2007 to 4% in Q3 2010. This trend will likely hold into 2011, as global central banks diversify reserve assets. Candidates for "other currency assets" likely include those denominated in commodity currencies, Australian dollar or Canadian dollar, and those of strong Asian economies, perhaps Singapore dollar. The breakdown is unavailable.
+
+A look at the Advanced reserve assets is interesting, since just 12.3% of total portfolio holdings go unallocated.
+
+The chart illustrates the annual change in central bank portfolio holdings in the Advanced economies denominated by currency. Advanced central banks increased their US dollar assets by $196 billion (64% of reported reserves) since Q3 2009, and further increased euro asset holdings by $76.9 billion. The annual euro asset accumulation is down from the $146 billion peak in Q1 2010, but still above the decade average of $43 billion. Interestingly, advanced economies are accumulating assets denominated in "other currencies", a new $42 billion over the year and well above the $5.8 billion average.
+
+Emerging market central banks loaded up on US dollar assets in 2010, $137.9 billion over the year in Q3 2010 and further accumulated "other currency" assets, $25.7 billion over the year. Finally, emerging market central banks increased their holdings of euro assets in Q3 2010 after reducing euro positions for two consecutive quarters previously. Again, a lower bound seems to have been set to underpin the euro.
+
+The annual increase in unallocated reserve assets in the emerging market space is large, $498 billion in Q3 2010. If history is any guide, though, then 65% of the new positions are denominated in US dollars. It's also likely that a sizable portion is denominated in euro, since the euro had a very good run against the dollar in Q3, up 11.4% over the quarter.
+
+We'll see, but this analysis suggests that global central banks will underpin the eurodollar in the 1.20-1.25 range. Furthermore, commodity currency assets are very likely becoming more of a reserve position to central banks.

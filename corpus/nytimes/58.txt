@@ -1,0 +1,25 @@
+It really is full of stars.
+
+Scientists said Wednesday that the number of stars in the universe had been seriously undercounted, and they estimated that there could be three times as many stars out there as had been thought.
+
+This undercounting, of cool, dim dwarf stars in certain galaxies, could throw a monkey wrench into astronomers’ understanding of how galaxies formed and grew over the eons.
+
+“It’s very problematic,” said Pieter van Dokkum, a professor of astronomy at Yale who reported the findings in the journal Nature with Charlie Conroy of the Harvard-Smithsonian Center for Astrophysics in Cambridge, Mass.
+
+The conundrum is that astronomers cannot actually count the dwarf stars, which have masses less than a third of that of the Sun, in galaxies outside the Milky Way. So instead, they counted the brighter Sun-like stars and assumed that there were about 100 unseen dwarfs for each larger Sun-like star, as is the case in the Milky Way.
+
+Yet not every galaxy looks like the Milky Way, with its spiraling pinwheel arms. Some are blobby and elliptical, and it was an untested assumption that the distribution of star sizes in elliptical galaxies is the same as in the Milky Way.
+
+Dr. van Dokkum and Dr. Conroy took an innovative approach to counting what they could not see. Because the dwarfs are cooler, the fingerprint of certain colors they emit and absorb is different from that of larger stars. Thus, while they could not see individual stars, the astronomers could calculate the number of dwarfs required to produce the telltale color fingerprint they detected in the light coming from the whole galaxy.
+
+And they found that in eight elliptical galaxies, the ratio of dwarf stars to Sun-like stars was 1,000 or 2,000 to 1, rather than the 100 to 1 in the Milky Way. A typical elliptical galaxy, thought to consist of about 100 billion stars, would have one trillion or more stars. Ellipticals account for about a third of all galaxies, leading to the new estimate of at least three times as many stars over all.
+
+“We may have to abandon this notion of using the Milky Way as a template for the rest of the universe,” Dr. van Dokkum said. If the findings are correct, an undercount of dwarfs would mean astronomers have underestimated the masses of galaxies, and that would mean that galaxies developed earlier and faster than currently thought.
+
+“Which would be very interesting, actually,” said Richard Ellis, a professor of astronomy at the California Institute of Technology who was not involved in the research. “It’s very important that papers like this are published so that we are reminded how fragile our knowledge of the universe is.”
+
+Yet Dr. Ellis said he remained skeptical. “It’s good data and it’s a sound analysis,” he said, “but there are a few escape clauses.”
+
+For one, the research assumes that the stars in an elliptical galaxy are made of exactly the same stuff as those in spiral galaxies, an assumption that cannot be tested yet.
+
+Also inconclusive: whether we now have three times as many wishes.

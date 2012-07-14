@@ -1,0 +1,23 @@
+"The old adage that you can get the answers you want if you ask the right questions was reconfirmed this week via a new opinion poll on ""Internet neutrality."" But the real story may be a bit more complicated."
+
+"""American voters believe free market competition will protect Internet users more than government regulation and fear that regulation will be used to push a political agenda"", proclaims the Rasmussen Reports group, following a telephone survey of 1,000 ""likely voters."""
+
+"To be specific, 52 percent told Rasmussen pollsters that they preferred ""more free market competition"" rather than ""government regulation"" in this area. 56 percent said they believe that the Federal Communications Commission ""would use its regulatory authority to promote a political agenda."""
+
+Mainstream or Political
+
+The poll was taken shortly after the FCC voted for open Internet rules on Tuesday. Rasmussen asked its survey group for their political affiliations (Republican or Democrat).
+
+"""As you would expect, there is a huge gap between the Political Class and Mainstream Voters on this topic"", the company's report concluded. ""Most Mainstream voters see free market competition as the best way to protect Internet users, but most in the Political Class prefer more regulation."""
+
+We'd like to see more free market competition, too. At present the majority of US subscribers have a choice of just two ISPs in their area, at best. But we'd also like to see pollsters characterize net neutrality in a way that bears some resemblance to what the FCC actually decided on Tuesday.
+
+Instead, Rasmussen offered survey respondents only one question that suggested the concept—question number two.
+
+2. Should the Federal Communications Commission regulate the Internet like it does radio and television?
+
+We went through the whole Order after it was released on Friday, and we couldn't find any section of the decision that extended the FCC's indecency and children's TV broadcasting regulations to the Internet. The rules mostly tell ISPs to be transparent about their operations, not block the legal content of their subscribers, and practice reasonable network management if they're a wireline service.
+
+But what was most disturbing about the poll was that 21 percent of respondents to question number two actually said yes, they would like the FCC to regulate the 'Net like it does radio and TV—an option that many net neutrality supporters would likely decline, especially when it comes to indecency rules.
+
+"Another 25 percent said that they were ""not sure"" about the matter. Given the questions they were asked, that was probably the wisest choice."

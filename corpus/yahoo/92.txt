@@ -1,0 +1,35 @@
+As part of its effort to involve the Ubuntu community in making its Linux distribution better, the Ubuntu Technical Board last week published a list of some of the most popular recent suggestions for inclusion in a future version of the open source operating system.
+Nearly 20,000 ideas for Ubuntu have been collected on the wiki-like Ubuntu Brainstorm site so far, and they're viewable in categories corresponding to popularity, whether they're already in development, and whether they've been implemented already.
+The Ubuntu Technical Board has been reviewing the most popular ideas so far, and last Friday Ubuntu CTO Matt Zimmerman published on his blog the first of what will be quarterly batches of 10 to come under scrutiny. Along with each idea evaluated, he presents an official response on behalf of the project.
+"This means that the most popular topics on Ubuntu Brainstorm receive expert answers from the people working in these areas," Zimmerman explains.
+Here are the top 10 suggestions currently being evaluated for possible inclusion in Ubuntu:
+1. Power Management
+Battery life is a key focus for Linux users on laptops, so it's no real surprise that this has been among the most popular suggestions on the Ubuntu Brainstorm site.
+Amit Kucheria, Ubuntu kernel developer and leader of the Linaro working group on power management, addressed the issue in a separate blog post last week with technical analysis, tips and recommendations, and a look at what's coming next.
+"Power management, when done right, should not require the user to make several (difficult) choices," Kucheria wrote. "It should just work - providing a good balance of performance and battery life."
+2. IP Address Conflicts
+"IP addressing is a subject that most people should never have to think about," Zimmerman wrote. "When something isn't working, and two computers end up with the same IP address, it can be hard to tell what's wrong.
+"I was personally surprised to find this one near the top of the list on Ubuntu Brainstorm," Zimmerman added. "Nonetheless, it was voted up, and we're listening."
+A tool called "ipwatchd" is now available in the package repository and can address this problem, he wrote; if feedback is strong enough, the project could consider adding the tool for inclusion in the default installation.
+3. Selecting the Only Available Username to Log In
+Given that most Ubuntu systems are used by just one person, "it seems a bit redundant to ask the user to identify themselves every time they login, by clicking on their username," Zimmerman noted. "Why not just preselect it?"
+Martin Pitt of the Ubuntu Desktop Team asks for further feedback on the Brainstorm site with user preferences.
+4. Icon For .deb Packages
+For users who go outside the Ubuntu respositories to work with .deb files directly, "the icon used to represent .deb packages in the file manager is not ideal, and can be confusing," Zimmerman notes.
+Deb-thumbnailer is tool that makes the icon both more distinctive and more informative, so it's being considered for packaging into the main repository.
+5. Keeping Time Accurate Over the Internet by Default
+Ubuntu has actually included automatic Internet time synchronization with Network Time Protocol since the very first release, "so some of us were a little surprised to see this as one of the most popular ideas on Ubuntu Brainstorm," Zimmerman noted.
+Nevertheless, since then it was discovered that there was at least one case where time wasn't working. So, it's now fixed for Ubuntu 11.04, and patches have been sent upstream to Debian and GNOME.
+6. More Detail in GNOME System Monitor
+Ubuntu's System Monitor lets users follow their system's inner workings, but some have asked for more detail. Robert Ancell of the Ubuntu Desktop Team has offered to mentor a volunteer to develop a patch, and someone has already stepped up with a first draft, Zimmerman says.
+7. Help the User Understand When Closing a Window Doesn't Close the App
+This one is pretty self-explanatory, and work is already in progress to resolve it, according to Canonical creative strategy lead Ivanka Majic.
+8. Ubuntu Software Center Removal of Configuration Files
+Rather than removing packages by default when the user requests it--an option that can leave some files behind--this idea suggests defaulting to purging them instead, which wipes the slate clean.
+9. Ubuntu One file Sync Progress
+ Ubuntu One file synchronization "works behind the scenes, uploading and downloading as needed to replicate your data to multiple computers," Zimmerman notes. "It does most of its work silently, and it can be hard to tell what it is doing or when it will be finished."
+Plans are in the works to address the issue comprehensively, he adds, but there are also tips that work today, as engineering manager John Lenton notes on the AskUbuntu Q&amp;A site.
+10. Multimedia Performance
+Given all the multimedia content available today, it's important that Ubuntu be able to keep up with it all. Allison Randal, Ubuntu Technical Architect, addresses the topic in a separate post.
+Do you have an opinion on one of these topics, or another one to suggest? Then head over to Ubuntu Brainstorm and make your voice count. In the world of open source, we can all have a hand in making the software better.
+Follow Katherine Noyes on Twitter: @Noyesk.

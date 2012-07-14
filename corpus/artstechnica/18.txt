@@ -1,0 +1,30 @@
+﻿Google's 'Net-centric Chrome OS platform challenges conventional notions about what constitutes an operating system. It puts the cloud front and center, eschewing the familiar desktop paradigm and native applications in favor of a browser-only environment. It's an audacious and intriguing experiment, but it's not clear yet if it will resonate with a mainstream audience.
+
+To get a feel for how Google's new platform works in the field, we spent a few days testing the Cr-48, an experimental laptop prototype that runs an early version of Chrome OS. Although the software is still under development and not yet mature enough to support an authoritative conclusion about the platform's potential, we have assembled some observations based on our experiences.
+
+Our testing of the prototype so far has left us impressed, but wanting more functionality. The Cr-48 performs relatively well and meets basic requirements for Web surfing, gaming, and personal productivity, but falls short for more intensive tasks. Google is actively working to correct some of the limitations and appears to be making good progress on addressing common needs in other areas like multimedia, but there are still some gaps that constrain the scope of the platform's efficacy compared to the conventional netbook experience.
+
+Whether the gaps are a major impediment or a minor inconvenience will depend largely on the user's workload. At launch, the audience will be somewhat limited and consumer expectations will have to be set very carefully. As broader support for emerging standards makes the Web a richer application platform and Google advances other critically important technologies like Native Client (NaCl) and Chrome's extension API, the appeal of Chrome OS could expand.
+
+Hardware
+
+The Cr-48 is an unbranded prototype that is not available to regular consumers. Google commissioned Taiwanese original design manufacturer (ODM) Inventec to produce approximately 60,000 units specifically for participants of the Chrome OS pilot program. Google hopes that the recipients of the Cr-48 prototypes will supply feedback to help guide further refinement leading up to the official Chrome OS launch next year.
+
+It's not really clear yet if the Cr-48 is intended to be the basis for a Chrome OS hardware reference design or if it's just a configuration that happened to be convenient for the prototypes. Google says that individual OEMs will choose their own designs and hardware configurations. I suspect that the first commercially available Chrome OS devices will be a few inches smaller than the 12-inch Cr-48 and will look more like conventional netbooks. As we discuss the Cr-48 hardware, it's important to remember that it's a prototype and that hardware that eventually reaches consumers might not resemble it at all.
+
+The laptop's undifferentiated black exterior and total lack of branding and other adornments contribute to a gracefully understated design. Most of the surface has a smooth matte finish with a slightly rubberized texture. One of my friends aptly commented that it looks like the fake laptops that you see as props in furniture showrooms. I think that it's quite fetching compared to average laptop designs, but opinions seem to differ among members of the Ars staff.
+
+The Cr-48 comes with a built-in 3G modem that is tied to Verizon's network. We also found what looked like a SIM card slot in the battery compartment, but we aren't sure if it's operational. We had no trouble getting the Verizon connectivity to work during our tests. To set it up, we had to go through an initial registration process at the Verizon website and input a credit card number. The user gets 100MB per month for free, and can choose to pay for additional service as needed.
+
+You can click the network status icon in the status area to toggle 3G and other relevant connectivity options. Switching to 3G connectivity is easy and proved to be a convenient option at the coffee shop.
+
+The matte 12-inch screen renders at 1280x800. We aren't particularly impressed with the quality of the display, which seems a bit cheap by our standards, but it is roughly comparable with what you typically get in budget netbooks. Battery life is relatively decent, lasting a good six hours of continuous use with the network enabled during our tests.
+
+The full-sized keyboard has chiclet-style keys with a fair bit of spacing between them. It's as smooth as butter and very comfortable for typing—much better than the average netbook keyboard. It uses a standard layout for the alphanumeric keys, but there are some minor differences for the meta keys and the function keys. The caps lock key has been replaced with a "search" button that opens a new browser tab. Google has also omitted the "Windows" key that typically resides between ctrl and alt. The top row of the keyboard has keys for switching between browser windows, toggling full screen mode, adjusting the screen brightness, and other similar functions.
+
+The touchpad is a single surface that activates a click when it is pushed down. It supports basic two-finger multitouch gestures, such as swiping two fingers to scroll and pressing down with two fingers to right-click. It is generously sized and feels sturdy, but the multitouch support is terrible. You have to have your fingers spaced apart just right for any of the two-finger gestures to work. Scrolling is finicky and unpredictable. Performing a right-click is an exercise in frustration. It's just not a good experience.
+
+I suspect that the touchpad woes are at least partly a software issue. The touchpad hardware is made by Synaptic, and support for the recent Synaptic multitouch pads on Linux is generally shoddy. I've encountered similar issues with Ubuntu on my HP portable.
+
+On the sides of the device, you will find a single USB port, a headphone jack, a VGA output, an SD card slot, and the power adapter slot. The battery compartment on the bottom is secured with a single latch. The battery fits entirely within the case's profile and doesn't protrude from the back.
+

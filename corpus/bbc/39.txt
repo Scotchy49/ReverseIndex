@@ -1,0 +1,66 @@
+﻿﻿Radar data from the European satellite has been used to make a map of ocean circulation across the Arctic basin.
+
+Cryosat's primary mission is to measure sea-ice thickness, which has been in sharp decline in recent decades.
+
+But its ability also to map the shape of the sea surface will tell scientists if Arctic currents are changing as a result of winds being allowed to blow more easily on ice-free waters.
+
+"Nobody really knows how the Arctic is going to behave as the ice retreats, but we do anticipate that significant changes will occur," said Dr Seymour Laxon, a Cryosat science team member from University College London, UK.
+
+"This is just the first data, and it shows we now have the tool to monitor what is happening," he told BBC News.
+
+Dr Laxon presented the first Cryosat result in San Francisco at the American Geophysical Union (AGU) Fall Meeting, the world's largest annual gathering of Earth and planetary scientists.
+
+The European Space Agency (Esa) satellite was launched in April.
+
+It carries one of the highest resolution synthetic aperture radars ever put in orbit.
+
+The instrument sends down pulses of microwave energy which bounce off both the top of the Arctic sea-ice and the water in the cracks, or leads, which separate the floes.
+
+By measuring the difference in height between these two surfaces, scientists will be able, using a relatively simple calculation, to work out the overall volume of the marine ice cover in the far north.
+
+Cryosat's radar has the resolution to see the Arctic's floes and leads
+Some 7/8ths of the ice tends to sit below the waterline - the draft
+The aim is to measure the freeboard - the ice part above the waterline
+Knowing this 1/8th figure allows Cryosat to work out sea ice thickness
+
+But in sensing the surface of the water, Cryosat becomes a powerful tool also to study ocean behaviour.
+
+And the opening months of observations have enabled the Cryosat team to build a unique map from just the radar echoes bouncing off leads.
+
+This map, displayed at the top of the page, describes what researchers call ocean dynamic topography.
+
+It is the height in metres of the water surface above the gravitational level in the Arctic.
+
+Simply put, it shows where water is piled up, and it is water's desire always to "run down hill" that is a major feature underpinning the direction and speed of currents.
+
+"What we've revealed is the first complete picture of ocean dynamic topography in the Arctic Ocean. All missions previously have had large holes in the middle of their Arctic data because of their orbits, even the American Icesat satellite which did a pretty good job of getting dynamic topography - it only went up to 86 degrees North. Cryosat goes up to 88 degrees North."
+
+'Spin up'
+In the Northern Hemisphere, ocean currents move clockwise around highs in topography and anti-clockwise around the lows.
+
+Clearly evident therefore in this map (strong red blob) is the Beaufort Gyre, the great clockwise rotation of water that shifts sea-ice around the Arctic.
+
+Also visible are the topographic features related to the Transpolar Drift, which routinely moves sea-ice across the Arctic from the Russian side of the basin; and the East Greenland Current that carries much of the ice that gets exported towards the Atlantic.
+
+The Cryosat team stresses that the map is built from early data and is only a first, static snapshot.
+
+Over the course of the mission, however, this data-set will be improved and provide telling evidence of any changes in Arctic Ocean circulation.
+
+The region has witnessed a dramatic retreat of Arctic sea-ice in summer months, far ahead of what the majority of climate computer models had forecast.
+
+One consequence of the retreat is the potential for open water to "spin up": for the water to start moving faster or in different directions because winds can act on it more easily in the absence of an ice covering.
+
+This could have implications for circulation patterns beyond just the Arctic basin - it could affect sub-Arctic waters, in the Norwegian and Greenland Seas, and ultimately the North Atlantic.
+
+In other words, the climate impacts felt in the Arctic could start feeding back further south.
+
+Model performance
+Scientists know also that there is now a lot of warm water at depth in the Arctic.
+
+At present, this deep water's energy is not allowed to influence the sea-ice because of a buffer of colder, less dense water lying between it and the floes above.
+
+But if this warm water were made to well up because of wind-driven changes at the surface, it could have a catastrophic impact on the formation and retention of the ice cover.
+
+Cryosat is intended to provide the information to test all these ideas, and to help improve the performance of computer models that are used to try to forecast future climate behaviour.
+
+"The reason we believe all this is important is because we think from models that a retreat of the ice is going to significantly affect the circulation in the Arctic, and Cryosat is the only tool we've got to measure those changes," said Dr Laxon.

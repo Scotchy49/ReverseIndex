@@ -1,0 +1,21 @@
+Judging strictly by the pageviews, you guys were really interested in 2010's two Ubuntu releases—along with the decision to move away from so much brown. We've got 2010's most popular stories from Open Ended.
+
+Lucid dream: Ars reviews Ubuntu 10.04: Ubuntu 10.04, codenamed Lucid Lynx, is an ambitious update of one of the most popular Linux distributions. It delivers a bold new look, some compelling usability enhancements, and tighter integration with the cloud. In this comprehensive review, Ars takes you on a deep dive into the heart of the beast.
+
+Blessed Unity: Ars reviews Ubuntu 10.10: Ubuntu 10.10, codenamed Maverick Meerkat, has arrived. Ars takes a hands-on look at the major features in this in-depth review, including the new Unity netbook environment, updated software center, and Shotwell image manager.
+
+Ars reviews Android 2.2 on the Nexus One: The new version of Google's Android mobile operating system brings some significant new features and performance enhancements. Ars takes a close hands-on look at Android 2.2 in this in-depth review.
+
+Ubuntu dumps the brown, introduces new theme and branding: Canonical is overhauling Ubuntu's branding identity and visual style. The new look includes an updated palette that replaces Ubuntu's signature brown with orange and aubergine.
+
+Review: Firefox 3.6 brings joy to Web devs, not just users: Mozilla has officially released Firefox 3.6, a significant update of the popular open source Web browser. Ars takes a hands-on look at the new version and the enhancements that it offers for Web developers and regular end users.
+
+Nothing but 'Net: hands-on with the Cr-48 Chrome OS laptop: Google's Chrome OS offers a bold new approach to netbook computing, eschewing conventional native applications in favor of a cloud-centric approach. We have spent a few days vigorously poking and prodding Google's Cr-48 prototype laptop to get an early look at the search giant's experimental new operating system.
+
+The BeOS file system: an OS geek retrospective: One of the most-hyped features of the erstwhile BeOS was its fully buzzword-compliant filesystem. BFS had it all—journaling, 64-bit support, a database-like metadata, streaming access support, and multithreaded reads. But there were some warts there, too. Ars takes a look back at BFS, and talks to one of the Be employees who build the filesystem. We also talk to the coder behind the open source version of BFS.
+
+Ubuntu 10.04 beta 1 is looking good, less brown: Ubuntu 10.04 beta 1 is out. New features include social networking integration, an updated theme, and the inclusion of the Pitivi video editor. Screenshots inside.
+
+Chrome 5 released, browser exits beta for Mac and Linux: Google has announced the official release of Chrome 5, a new stable version of the company's increasingly popular Web browser. This is the first stable release with official support for Linux and Mac OS X.
+
+Ubuntu 10.04 arrives with extended support (and less brown): Ubuntu 10.04, codenamed Lucid Lynx, has officially been released. Ars goes hunting with the sly predator to see what it brings to the Linux desktop.

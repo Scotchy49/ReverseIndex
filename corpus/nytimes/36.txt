@@ -1,0 +1,35 @@
+SAN FRANCISCO — Skype has become one of the Internet’s most popular services — so much so that it is even used as a verb to describe a phone call over the Internet, as in “Skype me.”
+
+The seven-year-old company, however, is still a work in progress on the financial front. It was sold to eBay, then taken private and now aims to complete the round trip with an initial public offering.
+
+Under its new chief executive, Tony Bates, Skype is seeking new ways to make money from its 124 million users, most of whom do not pay a cent. In particular, Mr. Bates is looking at possible new markets like corporate phone systems and mobile devices, both highly competitive.
+
+Skype, based in Luxembourg, recorded $406 million in revenue in the first six months of the year, up 25 percent from the period a year earlier, according to the company’s recent filing with the Securities and Exchange Commission. Net income was down 42 percent, to $13 million.
+
+The increased revenue is coming from users making more paid calls. But that success is modest given Skype’s widespread adoption by consumers. Only 6.5 percent of Skype’s users pay to make calls from their computers to landline and mobile phones. The vast majority call only fellow Skype users, which is free.
+
+Those free users have some value, said Charles Golvin, an analyst for Forrester Research. But converting them to paying customers has proved difficult, which, he said, will weigh on any public offering.
+
+“I find it hard to understand why an investor would feel enthusiastic about owning that stock when the prospects for revenue growth are dim,” he said. “They may be growing revenue, but it’s not like its growing to billions of dollars.”
+
+Mr. Bates, who is originally from England, came to Skype in October from Cisco Systems, where he led its enterprise, commercial and small business division. In his first interview as chief executive, he described himself as a fan of Skype’s complex infrastructure, which handled 25 million users simultaneously last month, the most in its history.
+
+The service came to his rescue, he said, while at a lodge in Alaska. Rather than waiting in line to use the lodge’s only phone, he took out his cellphone, connected to the lodge’s Wi-Fi and used the Skype app to check his messages.
+
+“Universal, and useful and wonderful — they’re the things that Skype can do,” Mr. Bates said. “They’re not easy to do on a global scale.”
+
+Because Skype filed its initial offering document in August, Mr. Bates is limited in what he can say about future products and the company’s financial performance under rules governing company quiet periods. But he said that Skype could offer more premium phone and video services. He also spoke of the possibility of Skype embedding its service with other Web companies to accelerate growth.
+
+In October, Skype introduced a feature that allows users to get their Facebook news feed directly in their computer monitor’s Skype window and to call Facebook friends who are Skype users.
+
+Cellphone users complain that Skype has been slow to release new products. For instance, Skype has yet to make video chat available on mobile phones, except on a single Nokia handset. The company says it is working on video products. Skype also waited until October to introduce its Android app, long after Android had become one of the top smartphone operating systems.
+
+The company does have to deal with its legacy. Skype was founded in 2003 by Niklas Zennstrom, a Swede, and Janus Friis, a Dane, as an online alternative to the traditional telephone companies and their expensive rates. Users quickly embraced the service, positioning Skype as a major communications company of the digital age.
+
+EBay acquired Skype for $2.5 billion five years ago. It hoped to use the service so buyers and sellers in eBay’s marketplace could talk to each other. However, the combination, which was supposed to increase sales, failed because eBay users preferred to communicate as they had always done — by e-mail. EBay sold about 70 percent of Skype last year to an investor group led by Silver Lake Partners for $1.9 billion.
+
+Skype has said that it hoped to raise $100 million in the public offering, although the amount is expected to change.
+
+Free service is synonymous with Skype, but only to consumers. Mr. Bates said he believed corporations would pay for an Internet service that cut their phone costs while also giving them an easy way to conduct video conferences, to use instant messaging and to communicate with customers.
+
+“The world previously looked very much like there was a business world and a consumer world,” Mr. Bates said. “They’re blurring very quickly.”

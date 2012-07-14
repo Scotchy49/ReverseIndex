@@ -1,0 +1,27 @@
+MOUNTAIN VIEW, California (AFP) – As concern about online privacy grows, Mozilla is promising to let people cloak Internet activity in free Firefox Web browsing software being released early next year.
+"Technology that supports something like a 'Do Not Track' button is needed and we will deliver in the first part of next year," Mozilla chief executive Gary Kovacs said while providing a glimpse at Firefox 4 at the Mozilla's headquarters in Mountain View, California.
+"The user needs to be in control," he added.
+There is a disturbing imbalance between what websites need to know about visitors to personalize advertisements or services and the amount of data collected, according to Kovacs.
+"It is not that ads are bad," he said. "It is what they do with my tracked behavior.
+"Where I go on the Internet is how I live my life; that is a lot of data to hold just for someone to serve me ads."
+Microsoft this month unveiled increased privacy options for the upcoming version of its popular Web browser Internet Explorer 9 (IE9) including a feature "to help keep third-party websites from tracking your Web behavior."
+Microsoft said "Tracking Protection" will be built into a test version of IE9 being released early next year.
+IE9 users will have to be savvy enough to activate the feature and create lists of the third-party websites that they do not want to track their behavior.
+Internet Explorer is the most widely used Web browser in the United States followed by Mozilla's Firefox, Google's Chrome and Apple's Safari.
+Google, which beefed up Chrome in recent weeks and is testing a notebook computer that operates on the Web browser software, cautioned that the mechanics and ramifications of stealth browsing need to be figured out.
+"The idea of 'Do Not Track' is interesting, but there doesn't seem to be consensus on what 'tracking' really means, nor how new proposals could be implemented in a way that respects people's current privacy controls," said the company, also based in Mountain View.
+"We look forward to ongoing dialogue about what 'Do Not Track' could look like, and in the meantime we are always looking into new tools to give people more transparency and control over their online privacy."
+Kovacs agreed that the issue is complicated, with vested interests that include advertisers paying for services or content offered free online.
+Supporters of targeted online ads argue that Internet users benefit from getting pitches tailored to their interests.
+Firefox believes perils to privacy online are urgent enough to warrant building stealth into the coming version of its browser software, which has 400 million users around the world.
+"I fundamentally believe that the balance is tipped too far," Kovacs said of tracking Web users.
+"You can't tell me the delivery of a piece of content is going to be that much better if you know everything about my life; it's all about moderation."
+Firefox debuted in 2004 as an innovative, communally crafted open-source browser released as an option to Internet Explorer.
+Mozilla touts itself as the people's alternative; only now the battlefield includes Google as both a supporter and a rival.
+"Google is a great partner; it is one of those things where we cooperate and compete," Kovacs said. "When we get together we are either hugging or hitting, it depends on the day."
+Mozilla doesn't believe that Chrome is truly an open browser despite being free nor is it convinced that the colossus will sacrifice its business interests when it comes to money to be made off user data.
+"We believe that (Chrome) is tied to their commercial purposes," Kovacs said.
+"As the Web grows in importance in our lives, having all that data sit with one vendor that is not truly cross platform and not truly cross device is an alarming thing."
+A US Federal Trade Commission staff report released this month proposes safeguards including "Do Not Track" features in browsers for people who want their online activities unrecorded by websites they visit.
+The report said industry efforts to address privacy through self-regulation "have been too slow, and up to now have failed to provide adequate and meaningful protection."
+"The report confirms that many companies -- both online and offline -- don't do enough to protect consumer privacy," said Democratic Senator John Kerry.

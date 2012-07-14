@@ -1,0 +1,16 @@
+﻿According to the Microsoft Security Response Center, Microsoft will issue 17 Security Bulletins addressing 40 vulnerabilities on Tuesday, December 14. It will also host a webcast to address customer questions the following day.
+
+Two of the vulnerabilities are rated "Critical," 14 are marked "Important," and the last one is classified as "Moderate." All of the Critical vulnerabilities earned their rating through a remote code execution impact, meaning a hacker could potentially gain control of an infected machine. At least eight of the 17 patches will require a restart.
+
+The list of affected operating systems includes Windows XP, Windows Server 2003, Windows Vista, Windows Server 2008, Windows 7, and Windows Server 2008 R2. Microsoft Office XP, Office 2003, Office 2007, and Office 2010 are also being patched, but no Mac versions are.
+
+Compared to last month's record Patch Tuesday, this one is massive. In fact, this is the highest number of bulletins Microsoft has ever released in one month. Still, it's lower than the record number of vulnerabilities that are being patched. The last record was set two months ago: 16 bulletins and 49 vulnerabilities fixed. The exact breakdown of the bulletins for this month follows:
+
+These include two issues that were publicly disclosed. Microsoft says it will be closing the last Stuxnet-related issues this month. That's a local Elevation of Privilege vulnerability, so it's either Bulletin 3, 9, 10, or 11. The company is also addressing the Internet Explorer vulnerability described in Security Advisory 2458511, which IE8 remains immune to via the Data Execution Prevention (DEP) feature.
+
+Along with these patches, Microsoft is also planning to release the following on Patch Tuesday:
+
+One or more nonsecurity, high-priority updates on Windows Update (WU) and Windows Server Update Services (WSUS)
+One or more nonsecurity, high-priority updates on Microsoft Update (MU) and WSUS
+An updated version of the Microsoft Windows Malicious Software Removal Tool on Windows Update, Microsoft Update, Windows Server Update Services, and the Microsoft Download Center
+This information is subject to change by Patch Tuesday; Microsoft has been known to rush patches or to pull them as it deems necessary.

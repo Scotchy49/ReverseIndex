@@ -1,0 +1,35 @@
+I.B.M. researchers in this laboratory nestled next to the Massachusetts Institute of Technology have been forced lately to confront a limit on computing power: the human brain just isn’t processing data any faster.
+
+It’s a shame, too, because the brain has never had more material to make sense of: more friendships, that come with more frequent updates, more bosses to report to, more news, more entertainment choices. And who knows when the next million-page WikiLeaks release may come along?
+
+Overwhelmed by all the noise, some have simply chosen to block it out — to opt out, say, of social networks and microblog platforms like Twitter. Alternatively, others have hewn close to these social networks, counting on them to sort through all the information coming at us.
+
+But to be informed in the distributed world we live in, opting out isn’t really an option. For better or worse, we are watching a C-Span version of our lives trying to fast-forward to the good parts.
+
+That is the task being squarely addressed last week at I.B.M.’s Center for Social Software — a roughly 30-member lab that addresses “the modern-day challenges of collaborating across distributed, global enterprises.” The lab tries to use increasingly sophisticated computers to act as information advisers.
+
+“I do think of computers as augmenting people, not replacing them,” said Irene Greif, the director of the research center. “We need help with the limits of the brain, but there are some things that our brains can do that computers can’t do.”
+
+The researchers essentially create programs that find patterns (and outliers) in the “fire hose” of information. Once patterns are revealed, it becomes easier to decide who or what is worth our undivided attention.
+
+A literal example of fast-forwarding through the clutter of government is a public Web site created by I.B.M. researchers, Many Bills. Relying on sites that collect and format federal legislation, the I.B.M. project uses textual analysis to summarize and display Congressional bills as they move through the legislative process. This often reveals material that would seem to be unrelated to the business at hand (and probably was inserted as part of the bargaining process), like a provision on guns in a financial regulatory bill.
+
+•
+
+The added material isn’t necessarily a secret — someone had to insert it, and often the deal making is quite public — but a computer trained to see patterns and to highlight in bright colors can often spot it instantaneously.
+
+The creators of the program stress that all of its features are intended to allow people to dig deeper — the entire text is there to be read. In an academic paper on the project, its creators, Yannick Assogba, Irene Ros and Joan DiMicco, described other “open government” visualization techniques that seem to allow “only a few number of interpretations.” By contrast, they wrote: “Our belief is that for citizens to become meaningfully engaged with government data, they need to be able to draw their own conclusions about it.”
+
+Then there is the problem of searching for expertise, not necessarily Web page results. One tool for I.B.M. employees, SaNDVis, does this by showing a web of relationships around a search term to reveal who within I.B.M. has expertise on a topic. It uses writings, meetings attended, personal profile information and previous work experience to map these connections with lines showing who is closest to whom.
+
+Like many of the center’s other projects, SaNDVis takes advantage of 400,000 I.B.M. employees who write reports, contribute to internal wikis, share bookmarks and blogs, or communicate via internal versions of Twitter or Facebook.
+
+The implication is that in such a huge global company, there will not be a single center of expertise. And true to form, when Adam Perer, the creator of SaNDVis, typed in “visualization” — the expertise of many of his colleagues at the Cambridge lab — he saw familiar faces, including his own, but also people from around the world whom he didn’t necessarily know.
+
+Ido Guy, a manager at the I.B.M. office in Haifa, Israel, where the data for SaNDVis is compiled, described the mission. “This is about unlocking — or unleashing — the value of information,” he said. “You cannot tie together the connections as well as a computer program can do it — that these two people are commenting on the same blog that they have a lot of similarities and maybe should know each other.”
+
+And as for Mr. Perer’s way of displaying search results through people, Mr. Guy said: “When the Web and intranet become more social, people become more central. It is more than a document search.”
+
+•
+
+With its huge employee base, I.B.M. also performs the kind of data mining on its own employees that Google or Facebook still can’t dream of applying to the public — with access to the entire range of internal social networking tools linked to an employee ID number.

@@ -1,0 +1,67 @@
+﻿I'd like to apologize for the long wait for this final portion of our 3D on the Mac series. It's been a while since the first article in this two-part series came out and it's shocking how much can change in the span of a few months. The long-rumoured 64-bit Qt port of Maya for OS X is out, Pixologic released the fantastic ZBrush 4, Cinema 4D R12 and Houdini 11 added some sweet additions, and SIGGRAPH 2010 was enlightening with some ground-breaking changes to the world of 3D.
+
+The things we'll be covering in this section are, like the previous article, fundamentals that span software and workflows for film, game development, etc. I'll try, as best I can, to cover how certain programs excel or fail at each and mention which programs are better-suited to which type of 3D artist. There is a lot to cover, so let's jump right in. We'll continue from where we left off, with a textured model that's ready to animate (see above).
+
+From there, we'll move on to rigging.
+
+Character Animation and Rigging
+
+When people think of 3D animation, probably the first thing that comes to mind is either a well-dressed mouse flying out of an explosion, a talking fish, or a very punchable Star Wars character with a terrible accent and equally terrible catchphrases (how wude of me). Character animation packages vary in depth, but the workflow is the same for all:
+
+Tweaking the character mesh for rigging
+Creation of bones and skinning
+Painting of vertex weight influence of joints on the skinned mesh
+Addition of wire controls and additional deformers
+Facial rigging
+That's a simplified version of the rigging process. Building a complete character rig for film is very complicated and beyond the scope of this tutorial, so we'll cover the basic steps to give you a starting point for further research. If you were hoping that you'd be ready to animate a crowd of orcs after reading this article, I'm sorry to have to disappoint you. In film, rigging is a job of its own, often separate from the animator's job in larger studios. But we can cover the basics for those unfamiliar with the process and help keep some best practices in mind for building your own rigs.
+
+Character planning and checking your topology
+
+Preparing a mesh for animation mostly has to do with making sure your model's topology is clean and it's not loaded with a bunch of cruft that will cause you headaches when rigging. In Maya, that means freezing transformations and deleting construction history. Sometimes, if I have a scene that has a lot of hairy model construction nodes in it, I'll just export my mesh as an OBJ or FBX mesh and import it in so it will be guaranteed to be clear of the cruft. It's the nuclear option but it works.
+
+Check that your model topology is good for the kind of things your character will be doing. Since our deer will need to be bending her joints, some tweaks were done to the mesh around the knees. To get nice clean bending, I added edge loops for smoother articulation. The before and after is below:
+
+Notice that the edge flow converges towards the back of the knee. That's the only major difference between our cage model that was sculpted and our animated base model. The cage model favors uniformity for clean subdivisions but the base animation topology is adjusted for the intended deformations, so it's not necessarily uniform in articulated areas.
+
+I'm animating with a low-ish resolution mesh, which is normal. It's easier to deal with paint weights and avoid bends this way. It's impractical to work with high-res meshes in animation. If you use a render-time subdivision, you get the benefits of speedy interactions with a low-polycount model, and the displacement map will add needed detail at render time. This is the standard workflow for animating detailed characters.
+
+When you get to the rigging, it is done with the model in its neutral position—the middle-ground between your model's planned animated states. Typically human models are done in a "T-pose," named because the arms are out so the character looks like a T. This is fine if your character is going to be doing all manner of dynamic poses, but if your character is a 3D rendition of Brad Pitt in True Romance, you'd probably rig him lying on the couch.
+
+My deer model's legs are in the perfect position as-is because her legs will go back and forth from this rest position. With a character in their neutral position, the character mesh then gets their bones. The bones and joint are drawn over the mesh with the joint pivots in spots that will make for accurate deformations:
+
+Your 3D animation app should have an option to mirror joints so that you only have to rig one half of the model and, in a single step, you create a mirrored bone structure.
+
+Bones Brigade: Forward and Inverse Kinematics
+
+At the base of all character animation are these two forms of kinematics. Think of forward kinematics (FK) like a toy robot arm: to get the finger tip to a desired position, you move down the bone chain, rotating and translating joints until the tip of the finger is in the right spot. You can imagine this would get very tedious if you had to do this for all character animation, so inverse kinematics (IK) is the typically used for most character animation. With the relationship between joints set with an IK handle and solver, you can set the position of the finger and the solver computes the position and orientation of the bones that lead to the finger:
+
+All 3D character animation programs made in the past 15 years will do FK/IK, so don't freak out and check the box of the expensive software you just bought—it's in there.
+
+Skin Vertex Weights
+
+Dealing with the nitty-gritty of joint constraints and orientation is beyond the scope of this piece, so I'm going to jump ahead to skinning. When the finalized joints and IK handles are in place, the mesh is then bound to the bones (rigged). In a smooth-bound skin (as opposed to rigid), this creates the deformer relationship between the bones and the mesh that acts as the skin. An automatic skin weight map is made when this binding is done but, unless you're the luckiest person ever to touch a computer, this skin and bone relationship will need a lot of tweaking. All 3D packages deal with this relationship by letting you paint the weight of influence of joints on the mesh:
+
+One of the most confusing and aggravating things I ran into when I first tried 3D rigging was with the painting of vertex weights. I would paint out a part, move on and then watch the part I just zeroed move around after painting out another seemingly unrelated weight:
+
+This must have been the infamous joint influence the Huxtables were so worried about:
+
+The problem here isn't really a problem—that's the way that joints and vertex weights work. The influence of joint points on a skin are normalized. The total influence of your joints on any point of skin has to add up to 100 percent. Otherwise, if you were allowed to have less than 100 percent influence, a set of bones could move and leave a point of your model behind. So, painting a zero-influence point on your skin will automatically increase the weight of another influence and this can seem arbitrary, making for nasty problems like the turn of a finger grabbing a point that's not close to your skin point. It's passed through the joint chain like an air bubble until some lucky joint gets to have it's way with your skin.
+
+The gradient you see while painting a skin weight is the graduated release of influence from your joint to another joint(s). So, a good character-rigging program will let you lock your finished paint weight and then move on.
+
+Wire handles
+
+Once your bones are done and you've done the skin weighting, it's common to make wire controllers for controlling your rig. These are usually just NURBS curves that parented to a joint. They are shaped and positioned to clearly indicate their function on the model:
+
+Some readers may recognize that my rig controllers are from the autorigging plug-in for Maya called The Setup Machine. My rigs are generally very basic and are only meant for my use so this saves me time having to paint weights and set up finicky constraints.
+
+Techniques and preferences vary for the type of rig controllers to use, but the idea is the same: give the animator intuitive controls for model and for facing features and use things like arrows to indicate what the neutral pose is, when relevant.
+
+Facial rigging
+
+Rigging faces is different from rigging character bodies. Facial animation doesn't use joints/bones, and rely on a mix of facial poses and deformers. This is a simpler scheme that won't get you Avatar results but, unless you are using a motion tracking-based system like Softimage's Face Robot, you'll likely do facial animation with a sculpting program to generate "blend shapes." Blend shapes are pose targets for the vertices of a mesh that can be blended to create a variety of expressions. A blend shape workflow involves creating a set of facial poses in a program like Mudbox or ZBrush and importing that as a state for your facial rig. As long as the topology (vertex order, count, etc.) remains the same, the animation program will have no problem mixing these blend shapes:
+
+Since a character for film needs to be able to emote more than just a blended variety of presets, film-grade facial rigs have added controls and deformers for added expression control. You can see a great set of these types of deformers and wire controllers in Nathan Vegdahl's personal reel from Big Buck Bunny.
+
+If you're not really up to the task of creating all this from scratch and just want to play around a professional-quality body and face rig, grab Houdini Apprentice and load the cartoon rig preset:
+
