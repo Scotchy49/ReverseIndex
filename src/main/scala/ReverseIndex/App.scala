@@ -38,7 +38,15 @@ object App {
 
     for ( ln <- Source.stdin.getLines ) {
       val docs = index find ln
-      println(docs)
+      println(
+        <docs>{
+          docs.take(10).map{case (doc, score) =>
+            <doc>
+              <id>{doc}</id>
+              <score>{score}</score>
+            </doc>
+          }
+        }</docs>)
     }
   }
 }
