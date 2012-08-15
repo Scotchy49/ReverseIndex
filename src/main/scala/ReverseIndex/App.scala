@@ -35,18 +35,25 @@ object App {
     //args foreach { arg => loadDocuments(new File(arg)) }
 
     loadDocuments(new File("corpus"))
+    println(index.getDistribution())
 
     for ( ln <- Source.stdin.getLines ) {
+      val start = System.currentTimeMillis()
       val docs = index find ln
+      val duration = System.currentTimeMillis() - start
       println(
-        <docs>{
-          docs.take(10).map{case (doc, score) =>
-            <doc>
-              <id>{doc}</id>
-              <score>{score}</score>
-            </doc>
-          }
-        }</docs>)
+        <response>
+          <time>{duration}</time>
+          <docs>{
+            docs.take(10).map{case (doc, score) =>
+              <doc>
+                <id>{doc}</id>
+                <score>{score}</score>
+              </doc>
+                }
+          }</docs>
+        </response>
+        )
+      }
     }
-  }
 }
