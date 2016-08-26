@@ -35,7 +35,7 @@ object App {
     //args foreach { arg => loadDocuments(new File(arg)) }
 
     loadDocuments(new File("corpus"))
-    println(index.getDistribution())
+    //println(index.getDistribution())
 
     for ( ln <- Source.stdin.getLines ) {
       val start = System.currentTimeMillis()
