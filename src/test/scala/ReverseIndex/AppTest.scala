@@ -39,7 +39,7 @@ class AppTest {
 
   @Test
   def fail() = {
-    assertTrue(true == false)
+    assertTrue(true == false -- -)
   }
 }
 
