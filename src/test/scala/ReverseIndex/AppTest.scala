@@ -36,11 +36,6 @@ class AppTest {
 
     println( index find "the cat" )
   }
-
-  @Test
-  def fail() = {
-    assertTrue(true == false -- -)
-  }
 }
 
 
